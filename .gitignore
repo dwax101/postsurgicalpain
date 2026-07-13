@@ -1,0 +1,10 @@
+# regenerated data — never committed
+data/*
+!data/.gitkeep
+# macOS folder metadata
+.DS_Store
+# Python compiled cache
+__pycache__/
+*.pyc
+# the lead-only answer key must NOT go in the shared repo
+validation_sample_KEY.xlsx

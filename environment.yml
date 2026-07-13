@@ -1,0 +1,9 @@
+name: pro-workflow
+dependencies:
+  - python=3.11
+  - pandas
+  - requests
+  - pyyaml
+  - numpy
+  - scipy
+  - openpyxl

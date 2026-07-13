@@ -1,0 +1,2 @@
+# search.txt: each expert string on its own line (obesity), or the single
+# condition query (bin topics). Lines starting with # are ignored.
