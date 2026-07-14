@@ -2,13 +2,10 @@
 """
 scripts/05_build_validation_sample.py  —  Build the detection-validation sample.
 
-Config-driven, three strata (from config.validation):
-  RANDOM_N           — reproducible random sample (validation.random_sample_n, seed).
-  ENDORSED_CENSUS    — every trial the algorithm flagged uses_endorsed=True, no cap
-                       (critical when the endorsed set is rare, e.g. BODY-Q).
-  VARIANT_SCAN       — trials whose raw text contains an endorsed-instrument spelling
-                       variant (validation.variant_scan_terms) NOT already flagged —
-                       candidate missed endorsed detections.
+The sample is EXACTLY one reproducible random draw of validation.random_sample_n trials
+(using validation.random_seed) from the screened cohort — nothing added. There is no
+endorsed-census or variant-scan stratum and no union with any other trials. (Any
+endorsed_census / variant_scan_terms config fields are left in place but ignored.)
 
 Emits TWO blinded reviewer copies (reviewer1/reviewer2) — the v1 bug was a single
 shared file — plus a lead-only KEY with the algorithm's answers, and a
@@ -73,9 +70,9 @@ def dlog(body):
 
 def blinded_sheet(rows):
     wb = openpyxl.Workbook(); ws = wb.active; ws.title="Review"
-    ws.append(["Number","NCT","Trial Title","Outcome Text","Stratum","Reviewer Classification","Notes / Flags"])
+    ws.append(["Number","NCT","Trial Title","Outcome Text","Reviewer Classification","Notes / Flags"])
     for c in ws[1]: c.font = Font(bold=True)
-    for r in rows: ws.append([r["n"], r["nct"], r["title"], r["text"], r["stratum"], "", ""])
+    for r in rows: ws.append([r["n"], r["nct"], r["title"], r["text"], "", ""])
     return wb
 
 def main():
@@ -83,8 +80,6 @@ def main():
     cfg = yaml.safe_load(CONFIG.read_text())
     vc = cfg["validation"]
     N = vc["random_sample_n"]; seed = vc["random_seed"]
-    census_on = bool(vc.get("endorsed_census", True))
-    variants = vc.get("variant_scan_terms", [])
     dict_path = ROOT / cfg["dictionary"]["operative_file"]
 
     screened = {r["nct_id"]: r for r in load_csv(SCREENED)}
@@ -92,31 +87,10 @@ def main():
     all_ids = sorted(screened)
     log_print(f"Loaded {len(screened)} screened, {len(detection)} detection rows", log_lines)
 
+    # EXACTLY one reproducible random draw of N trials — no other strata, no unions.
     if N > len(all_ids): raise ValueError(f"random_sample_n={N} exceeds cohort {len(all_ids)}")
-    random.seed(seed); rand = set(random.sample(all_ids, N))
-    log_print(f"RANDOM_{N}: {len(rand)} (seed={seed})", log_lines)
-
-    census = set()
-    if census_on:
-        census = {i for i in all_ids if detection.get(i,{}).get("uses_endorsed")=="True"}
-    log_print(f"ENDORSED_CENSUS: {len(census)}", log_lines)
-
-    vpat = [re.compile(re.escape(v), re.IGNORECASE) for v in variants]
-    vscan = {}
-    for i in all_ids:
-        if i in census: continue
-        txt = outcome_text(screened[i])
-        hits = [v for v, rx in zip(variants, vpat) if rx.search(txt)]
-        if hits: vscan[i] = hits
-    log_print(f"VARIANT_SCAN: {len(vscan)}", log_lines)
-
-    strata = {}
-    for i in rand: strata.setdefault(i, []).append(f"RANDOM_{N}")
-    for i in census: strata.setdefault(i, []).append("ENDORSED_CENSUS")
-    for i in vscan: strata.setdefault(i, []).append("VARIANT_SCAN")
-    ids = sorted(strata)
-    overlap = sum(1 for v in strata.values() if len(v) > 1)
-    log_print(f"Combined unique: {len(ids)} ({overlap} in >1 stratum)", log_lines)
+    random.seed(seed); ids = sorted(random.sample(all_ids, N))
+    log_print(f"RANDOM_{N}: {len(ids)} trials (seed={seed}) — single random sample, no other strata", log_lines)
 
     # Safe re-run guard: never clobber reviewer work already in progress. If either
     # blinded reviewer file exists, PRESERVE all existing sample files (reviewer copies,
@@ -132,17 +106,16 @@ def main():
 
     review_rows, key_wb = [], openpyxl.Workbook()
     kws = key_wb.active; kws.title = "Key"
-    kws.append(["Number","NCT","Trial Title","Outcome Text","Stratum","Algo: Has Named PRO",
-                "Algo: Uses Endorsed","Matched","Matched PRO","Matched Endorsed","Variant(s) Found"])
+    kws.append(["Number","NCT","Trial Title","Outcome Text","Algo: Has Named PRO",
+                "Algo: Uses Endorsed","Matched","Matched PRO","Matched Endorsed"])
     for c in kws[1]: c.font = Font(bold=True)
     for n, i in enumerate(ids, 1):
         sr, dr = screened[i], detection.get(i, {})
-        txt = outcome_text(sr); strat = "|".join(strata[i])
-        review_rows.append({"n":n,"nct":i,"title":sr.get("brief_title",""),"text":txt,"stratum":strat})
-        kws.append([n, i, sr.get("brief_title",""), txt, strat, dr.get("has_any_named_pro",""),
+        txt = outcome_text(sr)
+        review_rows.append({"n":n,"nct":i,"title":sr.get("brief_title",""),"text":txt})
+        kws.append([n, i, sr.get("brief_title",""), txt, dr.get("has_any_named_pro",""),
                     dr.get("uses_endorsed",""), dr.get("matched_instruments",""),
-                    dr.get("matched_is_pro_instruments",""), dr.get("matched_endorsed_instruments",""),
-                    ", ".join(vscan.get(i, []))])
+                    dr.get("matched_is_pro_instruments",""), dr.get("matched_endorsed_instruments","")])
 
     blinded_sheet(review_rows).save(REV1)
     blinded_sheet(review_rows).save(REV2)
@@ -152,10 +125,10 @@ def main():
     pro = write_recog(load_instruments(dict_path), dict_path)
     log_print(f"Wrote config/recognition_list.md ({pro} is_pro instruments)", log_lines)
 
-    n = dlog(f"Built detection-validation sample (`scripts/05_build_validation_sample.py`). Strata over "
-             f"{len(all_ids)}-trial cohort: RANDOM_{N} (seed={seed}), ENDORSED_CENSUS ({len(census)}), "
-             f"VARIANT_SCAN ({len(vscan)}). Combined {len(ids)} unique ({overlap} multi-stratum). "
-             f"Two blinded reviewer files + lead KEY + recognition_list.md written.")
+    n = dlog(f"Built detection-validation sample (`scripts/05_build_validation_sample.py`). "
+             f"Single random sample of {N} trials (seed={seed}) over the {len(all_ids)}-trial cohort — "
+             f"no endorsed-census or variant-scan strata. Two blinded reviewer files + lead KEY + "
+             f"recognition_list.md written.")
     log_print(f"Appended DECISION_LOG.md Entry #{n}", log_lines)
 
     write_log(log_lines)

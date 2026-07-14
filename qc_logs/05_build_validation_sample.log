@@ -1,6 +1,5 @@
 Loaded 948 screened, 948 detection rows
-RANDOM_100: 100 (seed=42)
-ENDORSED_CENSUS: 662
-VARIANT_SCAN: 0
-Combined unique: 692 (70 in >1 stratum)
-Reviewer file(s) already exist (validation_sample_REVIEW_reviewer1.xlsx, validation_sample_REVIEW_reviewer2.xlsx, validation_sample_KEY.xlsx) — PRESERVING existing sample files; NOT regenerating. Writing qc log only.
+RANDOM_100: 100 trials (seed=42) — single random sample, no other strata
+Wrote validation_sample_REVIEW_reviewer1.xlsx and validation_sample_REVIEW_reviewer2.xlsx (blinded) and validation_sample_KEY.xlsx (lead-only)
+Wrote config/recognition_list.md (46 is_pro instruments)
+Appended DECISION_LOG.md Entry #25

@@ -180,3 +180,6 @@ detections NRS 343 / VAS 327 / Pain Interference 42 / OR-SDS 3 / ASES 0; validat
 RANDOM_100 seed 42, census 662, combined 692; epoch 88.8%/94.0%; 58 instruments/5
 endorsed). REVIEWER and MATCH columns left blank for the independent reviewer's fresh run.
 Distinct from `VALIDATION.md` (detection dual-coding, filled later by 06). Not committed.
+
+## Entry #25 — 2026-07-14
+Built detection-validation sample (`scripts/05_build_validation_sample.py`). Single random sample of 100 trials (seed=42) over the 948-trial cohort — no endorsed-census or variant-scan strata. Two blinded reviewer files + lead KEY + recognition_list.md written.
