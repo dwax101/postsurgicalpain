@@ -1,2 +1,162 @@
+# ==========================================================================
+# topic_config.yaml — Acute Postsurgical Pain
+# ==========================================================================
+# HOW TO USE THIS FILE:
+#   - Lines that already have a value are correct for every topic — leave them.
+#   - Lines marked  # FILL THIS IN  need a value FROM YOU. The instruction sheet
+#     ("Leader Instruction Sheet") explains each one: what it is, where it comes
+#     from, and the exact format.
+#   - Lines marked  # VERIFY  have a draft value — confirm it against the source
+#     before trusting it. (Instrument names and dates are where errors hide.)
+#   - Do NOT put bins here. Bin-1 and Bin-2 go in search.txt; only Bin-3 (title
+#     exclusion) goes in this file, in the "screening" section near the bottom.
+# ==========================================================================
+
 topic:
-  name: PLACEHOLDER
+  name: postsurgical-pain
+  display_name: "Acute Postsurgical Pain"
+  slate_number: 1
+
+consensus_body:
+  name: "IMI-PainCare PROMPT"
+  citation: "Pogatzki-Zahn et al., Br J Anaesth 2025"           # VERIFY
+
+# --------------------------------------------------------------------------
+# RETRIEVAL — how the cohort is pulled. These topics use "bins" mode.
+# The actual search terms live in search.txt (built from Bin-1 + Bin-2 using
+# the "How to Build search.txt" guide). This section just names the mode and
+# how many root-term searches search.txt should contain.
+# --------------------------------------------------------------------------
+retrieval:
+  mode: bins
+  interventional_only: true
+  # NO date filter — all trials are included, including pre-2006, so the FDA
+  # guidance can be a reference point in the over-time analysis, not a cutoff.
+  search_file: "config/search.txt"
+  root_term_count: 2   # number of separate root-term searches in search.txt
+                                 # (1 for most topics; anesthesia = 2; knee OA = 4)
+
+# --------------------------------------------------------------------------
+# SCREENING — Bin-3 title exclusion ONLY. (Bin-1 and Bin-2 are handled in the
+# search itself, not here.) List the exact title words/phrases you excluded to
+# get your vetted cohort. A trial is dropped if its title contains any of these.
+# --------------------------------------------------------------------------
+screening:
+  title_exclude:                 # FILL THIS IN — your Bin-3 terms, one per line
+    - "Intra-op Lidocaine and Ketamine Effect on Postoperative Bowel Function"
+    - "Lidocaine and Ketamine in Abdominal Surgery"
+    - "Harmonic in Laparoscopic Cholecystectomy for Acute Cholecystitis"
+    - "Efficacy and Safety of Ralfinamide in Patients With Chronic Neuropathic Low Back Pain"
+    - "Fruit And Vegetables and OUtcomes After Removal of Impacted TEeth"
+    - "Fluorescence Imaging on the da Vinci Surgical System for Intra-operative Near Infrared Imaging of the Biliary Tree (up to 2-weeks Post-operatively)"
+    - "Donepezil Compared to Placebo in Patients With Chronic Neuropathic Pain"
+    - "Early Saline Irrigation to Decrease Post-operative Endoscopic Debridement"
+    - "Association of Transcutaneous Electrical Nerve Stimulation and Hypnosis"
+    - "SENSE (Subcutaneous and Epidural Neuromodulation System Evaluation) Study"
+    - "Clinical Evaluation of Direct Dorsal Column Stimulation"
+    - "A Randomized Study in Children Ages Birth Through Three Years Undergoing Unilateral Cataract Extraction With or Without Lens Replacement"
+    - "Evaluate St Jude Medical Prodigy Neuromodulation for FBSS or Chronic Pain of the Trunk and/or Limbs"
+    - "A Study on Analgesia and Related Outcomes for Patients With Tabacco Smoking"
+    - "Shifting Pain Modulation From Pro-to Anti-nociceptive"
+    - "Peritoneal Closure Versus Non Closure During Open Appendectomy"
+    - "Comparison of Cold Dissection Technique and Needle Monopolar Electrocautery Tonsillectomy"
+    - "Closed-loop Deep Brain Stimulation to Treat Refractory Neuropathic Pain"
+    - "Effect of Buprenorphine/Naloxone Continuation on Pain Control and Opioid Use"
+    - "Determining the Prognostic Value of Continuous Intrathecal Infusion"
+    - "Efficacy, Tolerability, Safety, and Pharmacokinetic Study of DFN-15"
+    - "Pulpectomy of Primary Molars With Rotary Instrumentation Versus Manual Instrumentation"
+    - "Effects of Irrigation Activation on Clinical Outcomes of Root Canal Treatment"
+    - "Investigating Interventions to Reduce Residual Opioids in the Home Following Legitimate Opioid Prescribing in Children."
+    - "Opioid Analgesic Reduction Study"
+    - "Analgesic Effect of Resistance Training for Breast Cancer Survivors"
+    - "SCS Programming Study in Treating Intractable Chronic Back Pain (NOVA)"
+    - "Role of Two Rehabilitative Treatments and Diet in the Modulation of Inflammation in Patients With Knee Prosthesis."
+    - "MINS, AKI and Pulmonary Pathology in Patients Undergoing Acute Abdominal Surgery"
+    - "Environmental Game After Appendicitis Surgery"
+    - "Microcurrent Device (TIVIC Health)"
+    - "A SAD Study to Evaluate the Safety, Tolerability and PK/PD of iN1011-N17 in Healthy Volunteers"
+    - "Improvement of Gait by Spinal Stimulation in Patients With Postoperative Chronic Lumbosciatalgia: Pilot Study (GaitStim)"
+    - "Efficacy and Tolerability of AP707 in Patients With Chronic Pain Due to Central Neuropathy of Any Genesis"
+    - "Long Term Efficacy and Tolerability of AP707 in Patients With Chronic Pain Due to Central Neuropathy of Any Genesis"
+    - "A MAD Study to Evaluate the Safety, Tolerability and PK/PD of iN1011-N17 in Healthy Volunteers and PHN Patients."
+    - "VA Transitional Pain Service Study"
+    - "Treating Chronic Pain of Peripheral Nerve Origin With the Novel Noninvasive Hypersound Neuromodulation System"
+    - "ENVELOP: Wound Care Following Pilonidal Sinus Surgery"
+    - "Simultaneous Engagement of Networks for Alleviating Pain (SENAP)"
+    - "Sub-threshold DRG Stimulation vs Sham in Established Responders"
+    - "Comparison of the Effects of N-acetylcysteine, Calcium Hydroxide, and Double Antibiotic Paste"
+    - "Single Versus Multiple Visits Regenerative Endodontics in Mature Teeth"
+    - "Regenerative Endodontics in Mature Necrotic Teeth"
+    - "Trans-nasal Sphenopalatine Ganglion Block for Prevention of Emergence Agitation Following Functional Endoscopic Sinus Surgery"             # e.g. - "asthma"   (add as many lines as you have)
+
+# --------------------------------------------------------------------------
+# VOLUME GATE — a sanity check on cohort size.
+# --------------------------------------------------------------------------
+volume_gate:
+  expected_cohort_size: 948        # FILL THIS IN — your vetted NCT count (integer)
+  min_cohort_size: 150
+
+# --------------------------------------------------------------------------
+# RECONCILIATION — checks the pull against your hand-vetted list.
+# --------------------------------------------------------------------------
+reconciliation:
+  vetted_ncts_file: "config/vetted_ncts.csv"
+  vetted_nct_column: "NCT Number"
+  min_overlap_pct: 90
+
+# --------------------------------------------------------------------------
+# DICTIONARY — built in Stage A; leave these as-is.
+# --------------------------------------------------------------------------
+dictionary:
+  operative_file: "config/dictionary.py"
+  audit_file: "config/dictionary_v1_frozen.py"
+  frequency_floor: 3
+
+# --------------------------------------------------------------------------
+# CLASSIFICATION — per-topic flips. Confirm against the consensus body.
+# --------------------------------------------------------------------------
+classification:
+  nrs_vas_is_pro: true          # VERIFY — is a bare NRS/VAS a named PRO for this body?
+  nrs_vas_endorsed: true        # VERIFY — usually same as above
+  clinician_reported_endorsed: false   # VERIFY — does the body endorse clinician-reported tools?
+
+# --------------------------------------------------------------------------
+# ALIGNMENT — "is any endorsed instrument present." Same mode for every topic.
+# List the endorsed instruments; a trial is "aligned" if it uses ANY of them.
+# --------------------------------------------------------------------------
+alignment:
+  mode: any_of
+  endorsed_instruments:          # VERIFY every name against the body's publication
+    # Reconciled 2026-07-14 to the EXACT canonical strings of the frozen dictionary's
+    # 5 endorsed=True entries (config/dictionary.py), so scripts/04_detect.py is_aligned()
+    # matches on canonical names. Provenance of each line noted at right. See
+    # config/dictionary_derivation.md §6 and DISCREPANCY_LOG (2026-07-14, resolved).
+    - "Numeric Rating Scale (NRS)"                    # was "Numerical Rating Scale" + "NRS" (same tool, collapsed)
+    - "Visual Analog Scale (VAS)"                     # was "Procedure-specific pain intensity scale" (folded into VAS)
+    - "Pain Interference (PROMIS/BPI domain)"         # was "Pain interference"
+    - "ASES (Amer. Shoulder & Elbow Surgeons)"        # was "ASES IMI PROMPT adaptation"
+    - "Opioid-Related Symptom Distress Scale (ORSDS)" # was "OR-SDS IMI PROMPT adaptation"
+    # DROPPED: "Procedure-specific physical function scale" — abstract, surgery-specific
+    # category with no endorsed=True canonical in the frozen dictionary; unresolved
+    # [TO ENRICH] (procedure->function-scale mapping needs a new dictionary freeze).
+
+# --------------------------------------------------------------------------
+# TIME ANCHORS — reference dates for the over-time analysis. NOT filters.
+# --------------------------------------------------------------------------
+time_anchors:
+  fda_guidance_date: "2006-10-11"   # GLOBAL — same for every topic. Leave as-is.
+  endorsement_milestones:
+    - body: "IMI-PainCare PROMPT"
+      date: "2025-03-14"     # VERIFY — endorsement date, YYYY-MM-DD, from the body's publication
+      instruments: ["Numeric Rating Scale (NRS)", "Visual Analog Scale (VAS)", "Pain Interference (PROMIS/BPI domain)", "ASES (Amer. Shoulder & Elbow Surgeons)", "Opioid-Related Symptom Distress Scale (ORSDS)"]   # which endorsed instrument(s) this date applies to  # Reconciled 2026-07-14 to the same 5 frozen dictionary endorsed=True canonicals as alignment.endorsed_instruments (was the old 7 provisional names; "Procedure-specific physical function scale" excluded per DECISION_LOG #4).
+
+# --------------------------------------------------------------------------
+# DETECTION VALIDATION — leave as-is unless the cohort is very small.
+# --------------------------------------------------------------------------
+validation:
+  random_sample_n: 100           # if your vetted cohort < ~200, lower this
+  random_seed: 42
+  endorsed_census: true
+
+# NOTES for this topic (context, not settings):
+# NRS IS endorsed here (unlike obesity). Physical-function scale is surgery-type specific — scope the cohort.

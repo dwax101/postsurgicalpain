@@ -30,7 +30,15 @@ REV2 = ROOT / "validation_sample_REVIEW_reviewer2.xlsx"
 KEY = ROOT / "validation_sample_KEY.xlsx"
 RECOG = ROOT / "config" / "recognition_list.md"
 DLOG = ROOT / "DECISION_LOG.md"
+LOG = ROOT / "qc_logs" / "05_build_validation_sample.log"
 
+
+def log_print(line, log_lines):
+    print(line); log_lines.append(line)
+
+def write_log(log_lines):
+    LOG.parent.mkdir(parents=True, exist_ok=True)
+    LOG.write_text("\n".join(log_lines) + "\n")
 
 def load_csv(p):
     with p.open(newline="") as f: return list(csv.DictReader(f))
@@ -71,6 +79,7 @@ def blinded_sheet(rows):
     return wb
 
 def main():
+    log_lines = []
     cfg = yaml.safe_load(CONFIG.read_text())
     vc = cfg["validation"]
     N = vc["random_sample_n"]; seed = vc["random_seed"]
@@ -81,16 +90,16 @@ def main():
     screened = {r["nct_id"]: r for r in load_csv(SCREENED)}
     detection = {r["nct_id"]: r for r in load_csv(DETECT)}
     all_ids = sorted(screened)
-    print(f"Loaded {len(screened)} screened, {len(detection)} detection rows")
+    log_print(f"Loaded {len(screened)} screened, {len(detection)} detection rows", log_lines)
 
     if N > len(all_ids): raise ValueError(f"random_sample_n={N} exceeds cohort {len(all_ids)}")
     random.seed(seed); rand = set(random.sample(all_ids, N))
-    print(f"RANDOM_{N}: {len(rand)} (seed={seed})")
+    log_print(f"RANDOM_{N}: {len(rand)} (seed={seed})", log_lines)
 
     census = set()
     if census_on:
         census = {i for i in all_ids if detection.get(i,{}).get("uses_endorsed")=="True"}
-    print(f"ENDORSED_CENSUS: {len(census)}")
+    log_print(f"ENDORSED_CENSUS: {len(census)}", log_lines)
 
     vpat = [re.compile(re.escape(v), re.IGNORECASE) for v in variants]
     vscan = {}
@@ -99,7 +108,7 @@ def main():
         txt = outcome_text(screened[i])
         hits = [v for v, rx in zip(variants, vpat) if rx.search(txt)]
         if hits: vscan[i] = hits
-    print(f"VARIANT_SCAN: {len(vscan)}")
+    log_print(f"VARIANT_SCAN: {len(vscan)}", log_lines)
 
     strata = {}
     for i in rand: strata.setdefault(i, []).append(f"RANDOM_{N}")
@@ -107,7 +116,19 @@ def main():
     for i in vscan: strata.setdefault(i, []).append("VARIANT_SCAN")
     ids = sorted(strata)
     overlap = sum(1 for v in strata.values() if len(v) > 1)
-    print(f"Combined unique: {len(ids)} ({overlap} in >1 stratum)")
+    log_print(f"Combined unique: {len(ids)} ({overlap} in >1 stratum)", log_lines)
+
+    # Safe re-run guard: never clobber reviewer work already in progress. If either
+    # blinded reviewer file exists, PRESERVE all existing sample files (reviewer copies,
+    # KEY, recognition_list.md); write only the qc log (with the summary computed above)
+    # and exit — do not regenerate files or append a DECISION_LOG entry.
+    if REV1.exists() or REV2.exists():
+        existing = ", ".join(p.name for p in (REV1, REV2, KEY) if p.exists())
+        log_print(f"Reviewer file(s) already exist ({existing}) — PRESERVING existing sample "
+                  f"files; NOT regenerating. Writing qc log only.", log_lines)
+        write_log(log_lines)
+        print(f"Wrote {LOG.relative_to(ROOT)} (existing reviewer files preserved)")
+        return
 
     review_rows, key_wb = [], openpyxl.Workbook()
     kws = key_wb.active; kws.title = "Key"
@@ -126,15 +147,17 @@ def main():
     blinded_sheet(review_rows).save(REV1)
     blinded_sheet(review_rows).save(REV2)
     key_wb.save(KEY)
-    print(f"Wrote {REV1.name} and {REV2.name} (blinded) and {KEY.name} (lead-only)")
+    log_print(f"Wrote {REV1.name} and {REV2.name} (blinded) and {KEY.name} (lead-only)", log_lines)
 
     pro = write_recog(load_instruments(dict_path), dict_path)
-    print(f"Wrote config/recognition_list.md ({pro} is_pro instruments)")
+    log_print(f"Wrote config/recognition_list.md ({pro} is_pro instruments)", log_lines)
 
     n = dlog(f"Built detection-validation sample (`scripts/05_build_validation_sample.py`). Strata over "
              f"{len(all_ids)}-trial cohort: RANDOM_{N} (seed={seed}), ENDORSED_CENSUS ({len(census)}), "
              f"VARIANT_SCAN ({len(vscan)}). Combined {len(ids)} unique ({overlap} multi-stratum). "
              f"Two blinded reviewer files + lead KEY + recognition_list.md written.")
-    print(f"Appended DECISION_LOG.md Entry #{n}")
+    log_print(f"Appended DECISION_LOG.md Entry #{n}", log_lines)
+
+    write_log(log_lines)
 
 if __name__ == "__main__": main()

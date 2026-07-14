@@ -1,0 +1,9 @@
+Code cohort:   948 NCTs (data/screened_kept.csv)
+Vetted list:   948 NCTs (config/vetted_ncts.csv, col 'NCT Number')
+
+In both:      948
+Code only:    0
+Vetted only:  0
+Overlap:      100.00%  (minimum required by config: 90%)
+
+Wrote data/reconciliation_report.csv (948 rows)
