@@ -1,0 +1,14 @@
+name: pro-workflow
+dependencies:
+  - python=3.11
+  - pandas
+  - requests
+  - pyyaml
+  - numpy
+  - scipy
+  - openpyxl
+  - matplotlib          # scripts/07_figures.py
+  # notebooks/analysis.ipynb — paired with jupytext, outputs stripped by nbstripout
+  - jupyterlab
+  - jupytext
+  - nbstripout

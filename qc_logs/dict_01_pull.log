@@ -1,0 +1,15 @@
+Dictionary discovery pull — broad (observational included, NO interventional filter)
+Loaded 2 query string(s) and 350 Bin-2 NCT ID(s) from config/search.txt
+
+[String 1] AREA[ConditionSearch] ("acute post surgical pain" OR "Acut Postoperative Pain" O
+  total 6833 | pages 7 | unique 6833 | within-string dupes 0
+
+[String 2] AREA[ConditionSearch] ("chronic post surgical pain" OR "Chronic Pain Post-Proced
+  total 286 | pages 1 | unique 286 | within-string dupes 0
+
+[Bin-2 by NCT ID] 350 trials in 2 batches
+    id-batch 1/2: requested 300, returned 300
+    id-batch 2/2: requested 50, returned 50
+  unique 350 from NCT-ID pull | within-list dupes 0
+
+[Combined] cross-string/list dupes removed 525 | final unique 6944 | rows written 6944 -> data/dict_raw.csv

@@ -1,0 +1,9 @@
+Loaded 58 instruments (read-only) from config/dictionary.py
+Alignment mode: any_of
+Loaded 948 trials from data/screened_kept.csv
+
+Total trials:                     948
+Completeness (has_any_named_pro):  737 (77.74%)
+Alignment (mode=any_of):        662 (69.83%)
+
+Wrote data/detection_results.csv (948 rows)

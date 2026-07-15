@@ -1,0 +1,5 @@
+Loaded 948 rows from data/raw_export.csv
+Retrieval mode: bins | bin-3 title exclusion terms: 45
+Dropped Rule 1 (non-interventional): 0
+Dropped Rule 2 (bin-3 title exclusion): 0
+Final kept: 948

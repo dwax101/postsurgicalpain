@@ -1,0 +1,5 @@
+Loaded 948 screened, 948 detection rows
+RANDOM_100: 100 trials (seed=42) — single random sample, no other strata
+Wrote validation_sample_REVIEW_reviewer1.xlsx and validation_sample_REVIEW_reviewer2.xlsx (blinded) and validation_sample_KEY.xlsx (lead-only)
+Wrote config/recognition_list.md (46 is_pro instruments)
+Appended DECISION_LOG.md Entry #25

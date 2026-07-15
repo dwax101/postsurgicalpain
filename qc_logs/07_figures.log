@@ -1,0 +1,12 @@
+============================================================
+07_figures — postsurgical-pain — 948 trials
+============================================================
+  01_category_split: named=737 nrsvas=30 vague=0 none=181 endorsed_sliver=662
+  02_instrument_frequency: 52 instruments, 4 endorsed highlighted
+  03_concentration_curve: top 3 instruments = 50% of uses
+  04_category_trend: 2000–2026; FDA line=2006; endorsement lines=[2025]
+  05_endorsed_uptake: 662 endorsed-using trials across 25 years
+  S1_registrations_per_year: 2000–2026, min/yr=1 max/yr=97
+  S2_nrs_vas_prevalence: 2000–2026
+  epoch_table: 2 epoch(s) from 1 milestone(s)
+Wrote 7 figures + epoch_table.csv to figures/

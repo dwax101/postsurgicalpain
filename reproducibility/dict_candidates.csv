@@ -1,0 +1,3946 @@
+rank,candidate,source,n_trials,pct_trials
+1,Visual Analog Scale (VAS),seed,2665,38.4
+2,Numeric Rating Scale (NRS),seed,2179,31.4
+3,Quality of Recovery (QoR-15/40),seed,496,7.1
+4,Brief Pain Inventory (BPI),seed,267,3.8
+5,FLACC scale,seed,177,2.5
+6,PID / PAR (pain intensity diff/relief),seed,147,2.1
+7,SF-36 / SF-12 (Short Form),seed,147,2.1
+8,Faces Pain Scale (FPS),seed,134,1.9
+9,Pain Catastrophizing Scale (PCS),seed,129,1.9
+10,PROMIS,seed,125,1.8
+11,EQ-5D,seed,118,1.7
+12,Verbal Rating Scale (VRS),seed,118,1.7
+13,SPID (sum pain intensity difference),seed,109,1.6
+14,DN4,seed,99,1.4
+15,State-Trait Anxiety Inventory (STAI),seed,98,1.4
+16,Hospital Anxiety & Depression (HADS),seed,87,1.3
+17,McGill Pain Questionnaire (MPQ),seed,79,1.1
+18,QoR,discovered,79,1.1
+19,Depression Scale,discovered,67,1.0
+20,TOTPAR (total pain relief),seed,64,0.9
+21,NSAIDs,discovered,63,0.9
+22,KOOS / HOOS,seed,58,0.8
+23,Patient Global Impression (PGIC),seed,54,0.8
+24,II,discovered,49,0.7
+25,CPSP,discovered,45,0.6
+26,FACES,discovered,45,0.6
+27,AEs,discovered,44,0.6
+28,Pittsburgh Sleep Quality Index (PSQI),seed,44,0.6
+29,WOMAC,seed,44,0.6
+30,Patient Health Questionnaire (PHQ),seed,43,0.6
+31,Oswestry Disability Index (ODI),seed,42,0.6
+32,painDETECT,seed,40,0.6
+33,Osteoarthritis Outcome Score,discovered,38,0.5
+34,LAST,discovered,37,0.5
+35,Ramsay Sedation Scale,discovered,37,0.5
+36,RASS,discovered,34,0.5
+37,RSS,discovered,33,0.5
+38,TUG,discovered,32,0.5
+39,Health Questionnaire,discovered,31,0.4
+40,NSAID,discovered,31,0.4
+41,III,discovered,30,0.4
+42,GAD-7 (anxiety),seed,29,0.4
+43,Neuropathic Pain Symptom Inv. (NPSI),seed,29,0.4
+44,PAED,discovered,28,0.4
+45,FEV1,discovered,27,0.4
+46,FVC,discovered,27,0.4
+47,Opioid-Related Symptom Distress (ORSDS),seed,27,0.4
+48,LANSS,seed,26,0.4
+49,Likert Scale,discovered,26,0.4
+50,PSS,discovered,26,0.4
+51,CAM,discovered,24,0.3
+52,PAIN,discovered,24,0.3
+53,CHEOPS,discovered,23,0.3
+54,POD1,discovered,23,0.3
+55,CTCAE,discovered,22,0.3
+56,DASH / QuickDASH,seed,22,0.3
+57,Overall Benefit of Analgesia (OBAS),seed,22,0.3
+58,Oxford Knee/Hip Score (OKS/OHS),seed,22,0.3
+59,PR,discovered,22,0.3
+60,Defense & Veterans Pain Rating Scale,seed,21,0.3
+61,SAEs,discovered,21,0.3
+62,SPID48,discovered,21,0.3
+63,VNRS,discovered,21,0.3
+64,MED,discovered,20,0.3
+65,IL-10,discovered,19,0.3
+66,LA,discovered,19,0.3
+67,MCS,discovered,19,0.3
+68,NO,discovered,19,0.3
+69,WHO,discovered,19,0.3
+70,McMaster Universities Osteoarthritis Index,discovered,18,0.3
+71,NPS,discovered,18,0.3
+72,APS-POQ-R,discovered,17,0.2
+73,CDC,discovered,17,0.2
+74,PLP,discovered,17,0.2
+75,Richmond Agitation-Sedation Scale,discovered,17,0.2
+76,TEAEs,discovered,17,0.2
+77,CBCT,discovered,16,0.2
+78,IL-8,discovered,16,0.2
+79,OHIP-14,discovered,16,0.2
+80,PGA,discovered,16,0.2
+81,TNF-,discovered,16,0.2
+82,Veterans Pain Rating Scale,discovered,16,0.2
+83,AM,discovered,15,0.2
+84,AND,discovered,15,0.2
+85,ANI,discovered,15,0.2
+86,CAM-ICU,discovered,15,0.2
+87,CFU,discovered,15,0.2
+88,CL,discovered,15,0.2
+89,IL-,discovered,15,0.2
+90,Insomnia Severity Index,discovered,15,0.2
+91,PAI,discovered,15,0.2
+92,PENG,discovered,15,0.2
+93,PM,discovered,15,0.2
+94,PPPM,discovered,15,0.2
+95,PPSP,discovered,15,0.2
+96,QST,discovered,15,0.2
+97,SPID24,discovered,15,0.2
+98,EMR,discovered,14,0.2
+99,NLR,discovered,14,0.2
+100,Oral Health Impact Profile,discovered,14,0.2
+101,PEF,discovered,14,0.2
+102,RCSQ,discovered,14,0.2
+103,Richards-Campbell Sleep Questionnaire,discovered,14,0.2
+104,ASES (Shoulder & Elbow Surgeons),seed,13,0.2
+105,Eastern Ontario Pain Scale,discovered,13,0.2
+106,HCl,discovered,13,0.2
+107,JR,discovered,13,0.2
+108,MMEs,discovered,13,0.2
+109,MVIC,discovered,13,0.2
+110,NOL,discovered,13,0.2
+111,Pain Disability Index (PDI),seed,13,0.2
+112,State Anxiety Inventory,discovered,13,0.2
+113,USA,discovered,13,0.2
+114,Visual Analogic Scale,discovered,13,0.2
+115,WHOQOL,seed,13,0.2
+116,YES,discovered,13,0.2
+117,American Pain Society Patient Outcome Questionnaire,discovered,12,0.2
+118,BREF,discovered,12,0.2
+119,CPM,discovered,12,0.2
+120,ESPB,discovered,12,0.2
+121,Information Scale,discovered,12,0.2
+122,NRSm,discovered,12,0.2
+123,NRSr,discovered,12,0.2
+124,PAR,discovered,12,0.2
+125,POSAS,discovered,12,0.2
+126,Visual Analog Pain Scale,discovered,12,0.2
+127,ADL,discovered,11,0.2
+128,ALT,discovered,11,0.2
+129,AST,discovered,11,0.2
+130,Beck Depression Inventory,discovered,11,0.2
+131,MD,discovered,11,0.2
+132,MoCA,discovered,11,0.2
+133,Observer Scar Assessment Scale,discovered,11,0.2
+134,OF,discovered,11,0.2
+135,RAND,discovered,11,0.2
+136,Tampa Scale,discovered,11,0.2
+137,Visual Analog Pain Score,discovered,11,0.2
+138,Yale Preoperative Anxiety Scale,discovered,11,0.2
+139,Analgesia Score,discovered,10,0.1
+140,APAIS,discovered,10,0.1
+141,EORTC,discovered,10,0.1
+142,fMRI,discovered,10,0.1
+143,HAD,discovered,10,0.1
+144,MMSE,discovered,10,0.1
+145,MRC,discovered,10,0.1
+146,Periapical Index,discovered,10,0.1
+147,POD2,discovered,10,0.1
+148,PPI,discovered,10,0.1
+149,PPT,discovered,10,0.1
+150,Ramsay Sedation Score,discovered,10,0.1
+151,ROC,discovered,10,0.1
+152,SPRID,discovered,10,0.1
+153,TENS,discovered,10,0.1
+154,TNF-a,discovered,10,0.1
+155,AUC0-72,discovered,9,0.1
+156,AUC0-t,discovered,9,0.1
+157,CFUs,discovered,9,0.1
+158,DNA,discovered,9,0.1
+159,IL6,discovered,9,0.1
+160,IV-PCA,discovered,9,0.1
+161,MBP,discovered,9,0.1
+162,MEP,discovered,9,0.1
+163,MMP-9,discovered,9,0.1
+164,PLR,discovered,9,0.1
+165,PRI,discovered,9,0.1
+166,PRN,discovered,9,0.1
+167,PS,discovered,9,0.1
+168,QLQ-C30,discovered,9,0.1
+169,QT,discovered,9,0.1
+170,SCALE,discovered,9,0.1
+171,Visual Analogue Pain Scale,discovered,9,0.1
+172,AIS,discovered,8,0.1
+173,Aldrete Score,discovered,8,0.1
+174,Behavioral Pain Scale,discovered,8,0.1
+175,Bromage Scale,discovered,8,0.1
+176,Constant-Murley score,seed,8,0.1
+177,COX-2,discovered,8,0.1
+178,CPOT,discovered,8,0.1
+179,ED,discovered,8,0.1
+180,ER,discovered,8,0.1
+181,EVA,discovered,8,0.1
+182,Health Survey,discovered,8,0.1
+183,HRV,discovered,8,0.1
+184,IL-2,discovered,8,0.1
+185,IN,discovered,8,0.1
+186,ISI,discovered,8,0.1
+187,Item Health Survey,discovered,8,0.1
+188,Knee Society Score,discovered,8,0.1
+189,MI,discovered,8,0.1
+190,mYPAS,discovered,8,0.1
+191,PCA-,discovered,8,0.1
+192,POCD,discovered,8,0.1
+193,POD3,discovered,8,0.1
+194,PT,discovered,8,0.1
+195,PTSD,discovered,8,0.1
+196,QL,discovered,8,0.1
+197,SANE,discovered,8,0.1
+198,SII,discovered,8,0.1
+199,SPID12,discovered,8,0.1
+200,SPID6,discovered,8,0.1
+201,SPIDs,discovered,8,0.1
+202,SUS,discovered,8,0.1
+203,System Usability Scale,discovered,8,0.1
+204,WORST,discovered,8,0.1
+205,Analgesia Nociception Index,discovered,7,0.1
+206,Baseline Pain Score,discovered,7,0.1
+207,Central Sensitization Inventory (CSI),seed,7,0.1
+208,Children's Hospital Eastern Ontario Pain Scale,discovered,7,0.1
+209,CHIPPS,discovered,7,0.1
+210,Comprehensive Complication Index,discovered,7,0.1
+211,CS,discovered,7,0.1
+212,CYP2D6,discovered,7,0.1
+213,DASS-21,discovered,7,0.1
+214,DN2,discovered,7,0.1
+215,I-FEED,discovered,7,0.1
+216,iPACK,discovered,7,0.1
+217,IPO,discovered,7,0.1
+218,IR,discovered,7,0.1
+219,KSS,discovered,7,0.1
+220,OUT,discovered,7,0.1
+221,PADSS,discovered,7,0.1
+222,PASS,discovered,7,0.1
+223,PGE2,discovered,7,0.1
+224,POSS,discovered,7,0.1
+225,Postoperative Opioid Consumption Postoperative Pain Score,discovered,7,0.1
+226,QTc,discovered,7,0.1
+227,RBC,discovered,7,0.1
+228,Richmond Agitation Sedation Scale,discovered,7,0.1
+229,State Anxiety Scale,discovered,7,0.1
+230,TSK,discovered,7,0.1
+231,ANCOVA,discovered,6,0.1
+232,Anxiety Score,discovered,6,0.1
+233,Athens Insomnia Scale,discovered,6,0.1
+234,Bispectral Index,discovered,6,0.1
+235,Body Mass Index,discovered,6,0.1
+236,CO2,discovered,6,0.1
+237,Consolability Scale,discovered,6,0.1
+238,Disability Index,discovered,6,0.1
+239,HF,discovered,6,0.1
+240,ID,discovered,6,0.1
+241,IL-1,discovered,6,0.1
+242,IMP,discovered,6,0.1
+243,IP,discovered,6,0.1
+244,ISB,discovered,6,0.1
+245,Item Short Form Survey,discovered,6,0.1
+246,LF,discovered,6,0.1
+247,McMaster Universities Arthritis Index,discovered,6,0.1
+248,ME,discovered,6,0.1
+249,Medication Quantification Scale,discovered,6,0.1
+250,MEq,discovered,6,0.1
+251,MIP,discovered,6,0.1
+252,mRNA,discovered,6,0.1
+253,NAS,discovered,6,0.1
+254,NDI,discovered,6,0.1
+255,Neck Disability Index,discovered,6,0.1
+256,NIH,discovered,6,0.1
+257,Nursing Delirium Screening Scale,discovered,6,0.1
+258,OHRQoL,discovered,6,0.1
+259,Opioid Consumption Pain Score,discovered,6,0.1
+260,Pain Scores Pain Scores Pain Score,discovered,6,0.1
+261,Pain Self-Efficacy Questionnaire,discovered,6,0.1
+262,PART,discovered,6,0.1
+263,PCL-5,discovered,6,0.1
+264,Pediatric Anesthesia Emergence Delirium Scale,discovered,6,0.1
+265,Perceived Stress Scale,discovered,6,0.1
+266,POP,discovered,6,0.1
+267,PRK,discovered,6,0.1
+268,PSQ,discovered,6,0.1
+269,PSS Ramsay Sedation Scale,discovered,6,0.1
+270,PVB,discovered,6,0.1
+271,QRS,discovered,6,0.1
+272,SAI,discovered,6,0.1
+273,SAS,discovered,6,0.1
+274,SOC,discovered,6,0.1
+275,SPB,discovered,6,0.1
+276,UK,discovered,6,0.1
+277,ACB,discovered,5,0.1
+278,ANOVA,discovered,5,0.1
+279,APAP,discovered,5,0.1
+280,AUC0,discovered,5,0.1
+281,AVERAGE,discovered,5,0.1
+282,BCVA,discovered,5,0.1
+283,BDI,discovered,5,0.1
+284,BDI-II,discovered,5,0.1
+285,BPM,discovered,5,0.1
+286,BREAST-Q,discovered,5,0.1
+287,CBC,discovered,5,0.1
+288,CCS,discovered,5,0.1
+289,Change Scale,discovered,5,0.1
+290,CURRENT,discovered,5,0.1
+291,Depression Anxiety Stress Scale,discovered,5,0.1
+292,Disability Scale,discovered,5,0.1
+293,DN-4,discovered,5,0.1
+294,Edinburgh Postnatal Depression Scale,discovered,5,0.1
+295,EDTA,discovered,5,0.1
+296,EPDS,discovered,5,0.1
+297,EXPAREL,discovered,5,0.1
+298,FACT-B,discovered,5,0.1
+299,FDI,discovered,5,0.1
+300,FEF25-75,discovered,5,0.1
+301,FIM,discovered,5,0.1
+302,FPB,discovered,5,0.1
+303,Harris Hip Score (HHS),seed,5,0.1
+304,Hours Pain Score,discovered,5,0.1
+305,IASP,discovered,5,0.1
+306,ICER,discovered,5,0.1
+307,Infants Postoperative Pain Scale,discovered,5,0.1
+308,IV-MME,discovered,5,0.1
+309,LOCF,discovered,5,0.1
+310,MAC,discovered,5,0.1
+311,Maximum Pain Score,discovered,5,0.1
+312,MCS-12,discovered,5,0.1
+313,Mobility Scale,discovered,5,0.1
+314,MOS,discovered,5,0.1
+315,MQS,discovered,5,0.1
+316,NOT,discovered,5,0.1
+317,NPQ,discovered,5,0.1
+318,Nu-DESC,discovered,5,0.1
+319,Numeric Rank Score,discovered,5,0.1
+320,NVS,discovered,5,0.1
+321,OFA,discovered,5,0.1
+322,OMEs,discovered,5,0.1
+323,OPIOID,discovered,5,0.1
+324,Pain Score Pain Score,discovered,5,0.1
+325,PaO2,discovered,5,0.1
+326,Pasero Opioid-Induced Sedation Scale,discovered,5,0.1
+327,PCO2,discovered,5,0.1
+328,PCT,discovered,5,0.1
+329,PEFR,discovered,5,0.1
+330,PIDs,discovered,5,0.1
+331,PRID,discovered,5,0.1
+332,PSEQ,discovered,5,0.1
+333,PTSS,discovered,5,0.1
+334,QDSA,discovered,5,0.1
+335,RD,discovered,5,0.1
+336,SCORE,discovered,5,0.1
+337,SMS,discovered,5,0.1
+338,TOF,discovered,5,0.1
+339,TOTPAR12,discovered,5,0.1
+340,TOTPAR24,discovered,5,0.1
+341,TPVB,discovered,5,0.1
+342,Trait Anxiety Scale,discovered,5,0.1
+343,TWA,discovered,5,0.1
+344,UCLA,discovered,5,0.1
+345,USG,discovered,5,0.1
+346,Vancouver Scar Scale,discovered,5,0.1
+347,VISUAL,discovered,5,0.1
+348,VNS,discovered,5,0.1
+349,AAS,discovered,4,0.1
+350,AB,discovered,4,0.1
+351,ACT,discovered,4,0.1
+352,ALP,discovered,4,0.1
+353,ANALGESIA,discovered,4,0.1
+354,Analogue Scale,discovered,4,0.1
+355,APGAR,discovered,4,0.1
+356,APS,discovered,4,0.1
+357,ARDS,discovered,4,0.1
+358,ASV,discovered,4,0.1
+359,AT,discovered,4,0.1
+360,Bang Blinding Index,discovered,4,0.1
+361,Barthel Index,discovered,4,0.1
+362,BDNF,discovered,4,0.1
+363,BPS,discovered,4,0.1
+364,CAPA (Clinically Aligned Pain Assess.),seed,4,0.1
+365,CCI,discovered,4,0.1
+366,CFS,discovered,4,0.1
+367,CGF,discovered,4,0.1
+368,Children's Fear Scale,discovered,4,0.1
+369,Chronic Pain Acceptance Questionnaire,discovered,4,0.1
+370,CPT,discovered,4,0.1
+371,CRIES,discovered,4,0.1
+372,CSF,discovered,4,0.1
+373,CV,discovered,4,0.1
+374,CYP2C9,discovered,4,0.1
+375,ED50,discovered,4,0.1
+376,EOC,discovered,4,0.1
+377,EPIC,discovered,4,0.1
+378,Face Pain Scale,discovered,4,0.1
+379,Forgotten Joint Score,discovered,4,0.1
+380,GSR,discovered,4,0.1
+381,HCAHPS,discovered,4,0.1
+382,Hours Postoperative Pain Score,discovered,4,0.1
+383,ICD-11,discovered,4,0.1
+384,IKDC,discovered,4,0.1
+385,IL-12,discovered,4,0.1
+386,IL-18,discovered,4,0.1
+387,IVPCA,discovered,4,0.1
+388,LC,discovered,4,0.1
+389,LEAST,discovered,4,0.1
+390,LLOQ,discovered,4,0.1
+391,LMA,discovered,4,0.1
+392,LMR,discovered,4,0.1
+393,mBPI-SF,discovered,4,0.1
+394,MDAS,discovered,4,0.1
+395,MR,discovered,4,0.1
+396,MRT,discovered,4,0.1
+397,MS,discovered,4,0.1
+398,Neuropathic Pain Questionnaire,discovered,4,0.1
+399,Neuropathic Pain Scale,discovered,4,0.1
+400,NIBP,discovered,4,0.1
+401,OC,discovered,4,0.1
+402,OCR,discovered,4,0.1
+403,OD,discovered,4,0.1
+404,OHIP,discovered,4,0.1
+405,OPS,discovered,4,0.1
+406,OPUS,discovered,4,0.1
+407,OS,discovered,4,0.1
+408,PA,discovered,4,0.1
+409,Pain Interference Scale,discovered,4,0.1
+410,Pain Score Pain Score Pain Score,discovered,4,0.1
+411,Pain Scores Pain Score,discovered,4,0.1
+412,PCSS,discovered,4,0.1
+413,PEG,discovered,4,0.1
+414,PF,discovered,4,0.1
+415,POD0,discovered,4,0.1
+416,POMS,discovered,4,0.1
+417,PRS,discovered,4,0.1
+418,QALYs,discovered,4,0.1
+419,QoR-15K,discovered,4,0.1
+420,QoR-15T,discovered,4,0.1
+421,QTcF,discovered,4,0.1
+422,Ramsay Scale,discovered,4,0.1
+423,Ramsey Sedation Score,discovered,4,0.1
+424,Regensburg Insomnia Scale,discovered,4,0.1
+425,RIS,discovered,4,0.1
+426,RLP,discovered,4,0.1
+427,RMSSD,discovered,4,0.1
+428,RSB,discovered,4,0.1
+429,sCPT,discovered,4,0.1
+430,SF-12v1,discovered,4,0.1
+431,Simulator Sickness Questionnaire,discovered,4,0.1
+432,SLR,discovered,4,0.1
+433,SNP,discovered,4,0.1
+434,SPADI,discovered,4,0.1
+435,SPI24,discovered,4,0.1
+436,SPI48,discovered,4,0.1
+437,SPI72,discovered,4,0.1
+438,SPID0-24,discovered,4,0.1
+439,SPID4,discovered,4,0.1
+440,SPID8,discovered,4,0.1
+441,SPRID12,discovered,4,0.1
+442,SRS-30,discovered,4,0.1
+443,SSQ-8,discovered,4,0.1
+444,SST,discovered,4,0.1
+445,ST,discovered,4,0.1
+446,TAPES-R,discovered,4,0.1
+447,TCI,discovered,4,0.1
+448,tDCS,discovered,4,0.1
+449,TO,discovered,4,0.1
+450,TOTPAR6,discovered,4,0.1
+451,Trait Anxiety Inventory,discovered,4,0.1
+452,UNC,discovered,4,0.1
+453,VASm,discovered,4,0.1
+454,VASr,discovered,4,0.1
+455,VDS,discovered,4,0.1
+456,VEGF,discovered,4,0.1
+457,Verbal Descriptive Scale,discovered,4,0.1
+458,Veterans Pain Scale,discovered,4,0.1
+459,Visual Analogue Pain Score,discovered,4,0.1
+460,Visuel Analog Scale,discovered,4,0.1
+461,VPS,discovered,4,0.1
+462,WASO,discovered,4,0.1
+463,WHODAS,discovered,4,0.1
+464,WL,discovered,4,0.1
+465,Wound Healing Score,discovered,4,0.1
+466,AC,discovered,3,0.0
+467,Acetaminophen Tablets Administration Patient Satisfaction Scale,discovered,3,0.0
+468,Action Questionnaire,discovered,3,0.0
+469,Activities Assessment Scale,discovered,3,0.0
+470,ADVERSE,discovered,3,0.0
+471,AI,discovered,3,0.0
+472,AIM,discovered,3,0.0
+473,ANALOGUE,discovered,3,0.0
+474,AROM,discovered,3,0.0
+475,AS,discovered,3,0.0
+476,BAI,discovered,3,0.0
+477,BCPQ,discovered,3,0.0
+478,Beck Anxiety Inventory,discovered,3,0.0
+479,BHI,discovered,3,0.0
+480,BI,discovered,3,0.0
+481,BIA,discovered,3,0.0
+482,Big Five Inventory,discovered,3,0.0
+483,BRIDGE,discovered,3,0.0
+484,Bromage Score,discovered,3,0.0
+485,CA-008,discovered,3,0.0
+486,CAM-,discovered,3,0.0
+487,Carolinas Comfort Scale,discovered,3,0.0
+488,CAS,discovered,3,0.0
+489,CB,discovered,3,0.0
+490,CBD,discovered,3,0.0
+491,CBT,discovered,3,0.0
+492,CCL2,discovered,3,0.0
+493,CCL7,discovered,3,0.0
+494,CD3,discovered,3,0.0
+495,CDAS,discovered,3,0.0
+496,CGIC,discovered,3,0.0
+497,CLR,discovered,3,0.0
+498,CME,discovered,3,0.0
+499,CMEs,discovered,3,0.0
+500,COMM,discovered,3,0.0
+501,COMT,discovered,3,0.0
+502,CPAQ,discovered,3,0.0
+503,CSH,discovered,3,0.0
+504,CSR,discovered,3,0.0
+505,CXCL1,discovered,3,0.0
+506,Daily Pain Score,discovered,3,0.0
+507,Depression Score,discovered,3,0.0
+508,Dimension Questionnaire,discovered,3,0.0
+509,DN,discovered,3,0.0
+510,DOS,discovered,3,0.0
+511,DSIS,discovered,3,0.0
+512,DSM-5,discovered,3,0.0
+513,ECGs,discovered,3,0.0
+514,EHS,discovered,3,0.0
+515,EN,discovered,3,0.0
+516,Endometriosis Health Profile,discovered,3,0.0
+517,ENS,discovered,3,0.0
+518,EPCO,discovered,3,0.0
+519,EPT,discovered,3,0.0
+520,ESAIC,discovered,3,0.0
+521,EST,discovered,3,0.0
+522,ETDRS,discovered,3,0.0
+523,EVAN-G,discovered,3,0.0
+524,Expectancy Questionnaire,discovered,3,0.0
+525,FACIT-F,discovered,3,0.0
+526,FAS,discovered,3,0.0
+527,FGG,discovered,3,0.0
+528,FiO2,discovered,3,0.0
+529,fNIRS,discovered,3,0.0
+530,Frenchay Activities Index,discovered,3,0.0
+531,FTB,discovered,3,0.0
+532,GCS,discovered,3,0.0
+533,General Comfort Scale,discovered,3,0.0
+534,General Self-efficacy Scale,discovered,3,0.0
+535,GM-CSF,discovered,3,0.0
+536,GP,discovered,3,0.0
+537,GPE,discovered,3,0.0
+538,Hamilton Anxiety Rating Scale,discovered,3,0.0
+539,Hand Questionnaire,discovered,3,0.0
+540,HDP,discovered,3,0.0
+541,HDU,discovered,3,0.0
+542,HEENT,discovered,3,0.0
+543,Hours After Surgery Pain Score,discovered,3,0.0
+544,HP,discovered,3,0.0
+545,HPLC,discovered,3,0.0
+546,HPT,discovered,3,0.0
+547,HSS,discovered,3,0.0
+548,HTX-011,discovered,3,0.0
+549,I-II,discovered,3,0.0
+550,I-IV,discovered,3,0.0
+551,IAM,discovered,3,0.0
+552,ICC,discovered,3,0.0
+553,ICDSC,discovered,3,0.0
+554,ICH-GCP-,discovered,3,0.0
+555,IIIa,discovered,3,0.0
+556,IL-15,discovered,3,0.0
+557,IL-17,discovered,3,0.0
+558,IL-17A,discovered,3,0.0
+559,IL-1b,discovered,3,0.0
+560,IL-23,discovered,3,0.0
+561,IL-4,discovered,3,0.0
+562,IL-7,discovered,3,0.0
+563,IL10,discovered,3,0.0
+564,IMMPACT,discovered,3,0.0
+565,Intraoperative Anesthetic Dosage Patient Satisfaction Scale,discovered,3,0.0
+566,IOWA,discovered,3,0.0
+567,IT,discovered,3,0.0
+568,KAI-1678,discovered,3,0.0
+569,Kilograms Body Mass Index,discovered,3,0.0
+570,Knee Score,discovered,3,0.0
+571,Likert Satisfaction Scale,discovered,3,0.0
+572,M-TAPA,discovered,3,0.0
+573,m-YPAS,discovered,3,0.0
+574,MAAS,discovered,3,0.0
+575,MAR,discovered,3,0.0
+576,Maximum Score,discovered,3,0.0
+577,McGill Pain Scale,discovered,3,0.0
+578,Mental Component Score,discovered,3,0.0
+579,Mindful Attention Awareness Scale,discovered,3,0.0
+580,Minimum Score,discovered,3,0.0
+581,MOAA,discovered,3,0.0
+582,mPADSS,discovered,3,0.0
+583,MPI,discovered,3,0.0
+584,MTD,discovered,3,0.0
+585,Neonatal Infant Pain Scale,discovered,3,0.0
+586,NG,discovered,3,0.0
+587,NIPS,discovered,3,0.0
+588,NMDA,discovered,3,0.0
+589,Nociception Index,discovered,3,0.0
+590,NOSE,discovered,3,0.0
+591,NP,discovered,3,0.0
+592,NSR,discovered,3,0.0
+593,NUMBER,discovered,3,0.0
+594,OA,discovered,3,0.0
+595,OAA,discovered,3,0.0
+596,OCT,discovered,3,0.0
+597,PaCO2,discovered,3,0.0
+598,Pain Anxiety Symptom Scale,discovered,3,0.0
+599,Pain Interference Score,discovered,3,0.0
+600,Pain Sensitivity Questionnaire,discovered,3,0.0
+601,Pain Treatment Satisfaction Scale,discovered,3,0.0
+602,PAL,discovered,3,0.0
+603,PATIENT,discovered,3,0.0
+604,PATIENTS,discovered,3,0.0
+605,PDMP,discovered,3,0.0
+606,PEQ,discovered,3,0.0
+607,Perianesthesia Comfort Scale,discovered,3,0.0
+608,PFT,discovered,3,0.0
+609,PH,discovered,3,0.0
+610,Physical Component Score,discovered,3,0.0
+611,PI1,discovered,3,0.0
+612,PI10,discovered,3,0.0
+613,PI12,discovered,3,0.0
+614,PI14,discovered,3,0.0
+615,PI18,discovered,3,0.0
+616,PI2,discovered,3,0.0
+617,PI24,discovered,3,0.0
+618,PI4,discovered,3,0.0
+619,PI6,discovered,3,0.0
+620,PI8,discovered,3,0.0
+621,Plaque Index,discovered,3,0.0
+622,PMID,discovered,3,0.0
+623,PMPS,discovered,3,0.0
+624,PMS,discovered,3,0.0
+625,POD14,discovered,3,0.0
+626,POD7,discovered,3,0.0
+627,PONV Intensity Scale,discovered,3,0.0
+628,POST,discovered,3,0.0
+629,PPB,discovered,3,0.0
+630,PPP,discovered,3,0.0
+631,pRBC,discovered,3,0.0
+632,Prosthesis Evaluation Questionnaire,discovered,3,0.0
+633,PSS-10,discovered,3,0.0
+634,PTT,discovered,3,0.0
+635,QoL-BREF,discovered,3,0.0
+636,QR15,discovered,3,0.0
+637,Questionnaire Score,discovered,3,0.0
+638,Ramsey Scale,discovered,3,0.0
+639,Ramsey Sedation Scale,discovered,3,0.0
+640,RAND-36,discovered,3,0.0
+641,RE,discovered,3,0.0
+642,Recovery Scale Score,discovered,3,0.0
+643,Recovery-15 Score,discovered,3,0.0
+644,REEDA,discovered,3,0.0
+645,RI,discovered,3,0.0
+646,SAP,discovered,3,0.0
+647,SCL-90-R,discovered,3,0.0
+648,Scoliosis Patient Questionnaire,discovered,3,0.0
+649,SDNN,discovered,3,0.0
+650,SDS,discovered,3,0.0
+651,SEQ,discovered,3,0.0
+652,SF-12v2,discovered,3,0.0
+653,SF-36v2,discovered,3,0.0
+654,SIPB,discovered,3,0.0
+655,SLEEP,discovered,3,0.0
+656,SNPs,discovered,3,0.0
+657,SOS,discovered,3,0.0
+658,SPI0-24,discovered,3,0.0
+659,SPID72,discovered,3,0.0
+660,SPRID24,discovered,3,0.0
+661,SPRINT,discovered,3,0.0
+662,SRS-22,discovered,3,0.0
+663,Summed Ocular Inflammation Score,discovered,3,0.0
+664,Tampa Kinesiophobia Scale,discovered,3,0.0
+665,THE,discovered,3,0.0
+666,TKS,discovered,3,0.0
+667,TLC590,discovered,3,0.0
+668,TMS,discovered,3,0.0
+669,TQL,discovered,3,0.0
+670,TSQM,discovered,3,0.0
+671,USSQ,discovered,3,0.0
+672,UTI,discovered,3,0.0
+673,VA,discovered,3,0.0
+674,VASSPID,discovered,3,0.0
+675,VASSPID-24,discovered,3,0.0
+676,VASSPID-4,discovered,3,0.0
+677,VASSPID-48,discovered,3,0.0
+678,VASSPID-8,discovered,3,0.0
+679,Visual Analogical Scale,discovered,3,0.0
+680,Visual Analouge Scale,discovered,3,0.0
+681,Vomiting Impact Scale,discovered,3,0.0
+682,VR-,discovered,3,0.0
+683,VSS,discovered,3,0.0
+684,VTE,discovered,3,0.0
+685,WATCHA,discovered,3,0.0
+686,WBFPRS,discovered,3,0.0
+687,WBS,discovered,3,0.0
+688,Western Ontario McMaster University Osteoarthritis Index,discovered,3,0.0
+689,Wexner Incontinence Score,discovered,3,0.0
+690,AAF,discovered,2,0.0
+691,AAOS,discovered,2,0.0
+692,AAQ-II,discovered,2,0.0
+693,ACS,discovered,2,0.0
+694,ACTH,discovered,2,0.0
+695,ACTIVITY,discovered,2,0.0
+696,Adolescent Sleep Wake Scale,discovered,2,0.0
+697,AF,discovered,2,0.0
+698,AFTER,discovered,2,0.0
+699,AKIN,discovered,2,0.0
+700,AMP,discovered,2,0.0
+701,ANALGESIC,discovered,2,0.0
+702,ANALOG,discovered,2,0.0
+703,Analog Scale,discovered,2,0.0
+704,Anxiety Sensitivity Index,discovered,2,0.0
+705,AOFAS,discovered,2,0.0
+706,APOP,discovered,2,0.0
+707,APS Patient Outcome Questionnaire,discovered,2,0.0
+708,APS-POQ,discovered,2,0.0
+709,Asleep Last Night Subjective Sleep Questionnaire,discovered,2,0.0
+710,ATS,discovered,2,0.0
+711,Attitudes Survey Regarding Pain Questionnaire,discovered,2,0.0
+712,AUC0-24,discovered,2,0.0
+713,AUC0-48,discovered,2,0.0
+714,AUC24,discovered,2,0.0
+715,AUCM,discovered,2,0.0
+716,AUCR,discovered,2,0.0
+717,AUCs,discovered,2,0.0
+718,AVP,discovered,2,0.0
+719,BARF,discovered,2,0.0
+720,BCS,discovered,2,0.0
+721,BE,discovered,2,0.0
+722,Beck's Depression Inventory,discovered,2,0.0
+723,Becks Anxiety Inventory,discovered,2,0.0
+724,Becks Depression Inventory,discovered,2,0.0
+725,Becks Depression Inventory Becks Anxiety Inventory,discovered,2,0.0
+726,BFI,discovered,2,0.0
+727,BFI-10,discovered,2,0.0
+728,BIPAP,discovered,2,0.0
+729,BNM,discovered,2,0.0
+730,BOLD,discovered,2,0.0
+731,Breast Cancer Pain Questionnaire,discovered,2,0.0
+732,Breastfeeding Self-Efficacy Scale,discovered,2,0.0
+733,BREF Wound Healing Score,discovered,2,0.0
+734,Brief Pain Index,discovered,2,0.0
+735,Brief Pain Questionnaire,discovered,2,0.0
+736,Brief Slater-Usoh-Steed Presence Questionnaire,discovered,2,0.0
+737,BRILMA,discovered,2,0.0
+738,BTS,discovered,2,0.0
+739,BUN,discovered,2,0.0
+740,BVCA,discovered,2,0.0
+741,CA,discovered,2,0.0
+742,Campbell Sleep Questionnaire,discovered,2,0.0
+743,Cancer Therapy Breast Symptom Index,discovered,2,0.0
+744,Cardiovascular Health Frailty Index,discovered,2,0.0
+745,Carolina Comfort Scale,discovered,2,0.0
+746,Categorical Pain Relief Rating Scale,discovered,2,0.0
+747,CCU,discovered,2,0.0
+748,CD4,discovered,2,0.0
+749,CD8,discovered,2,0.0
+750,CEQ,discovered,2,0.0
+751,CES-D,discovered,2,0.0
+752,CGRP,discovered,2,0.0
+753,CHAMPS,discovered,2,0.0
+754,Charlson Comorbidity Index,discovered,2,0.0
+755,CK,discovered,2,0.0
+756,CM,discovered,2,0.0
+757,CNNM2,discovered,2,0.0
+758,CO,discovered,2,0.0
+759,COLP,discovered,2,0.0
+760,COMFORT,discovered,2,0.0
+761,Consolability Score,discovered,2,0.0
+762,Corahs Dental Anxiety Scale,discovered,2,0.0
+763,COSMED,discovered,2,0.0
+764,Coughing Pain Score,discovered,2,0.0
+765,CPAP,discovered,2,0.0
+766,CPAQ-8,discovered,2,0.0
+767,CPASS,discovered,2,0.0
+768,CPP,discovered,2,0.0
+769,CRF,discovered,2,0.0
+770,CSAT,discovered,2,0.0
+771,CSQ-8,discovered,2,0.0
+772,CST,discovered,2,0.0
+773,CTC-AE,discovered,2,0.0
+774,CVA,discovered,2,0.0
+775,CWI,discovered,2,0.0
+776,CYP3A4,discovered,2,0.0
+777,Daily Sleep Interference Scale,discovered,2,0.0
+778,DB,discovered,2,0.0
+779,DBS,discovered,2,0.0
+780,Dental Anxiety Scale,discovered,2,0.0
+781,Depression Rating Scale,discovered,2,0.0
+782,DETECT,discovered,2,0.0
+783,DETECT Score,discovered,2,0.0
+784,DKP,discovered,2,0.0
+785,DLT,discovered,2,0.0
+786,DNIC,discovered,2,0.0
+787,DoD,discovered,2,0.0
+788,Dominant Inner Forearm Pain Score,discovered,2,0.0
+789,DPNB,discovered,2,0.0
+790,DPR,discovered,2,0.0
+791,DPRS,discovered,2,0.0
+792,DSF,discovered,2,0.0
+793,DSM-IV,discovered,2,0.0
+794,DURATION,discovered,2,0.0
+795,Early Wound Healing Score,discovered,2,0.0
+796,EAT-10,discovered,2,0.0
+797,EBL,discovered,2,0.0
+798,EC50,discovered,2,0.0
+799,EC95,discovered,2,0.0
+800,ECM,discovered,2,0.0
+801,ED90,discovered,2,0.0
+802,ED95,discovered,2,0.0
+803,EFFECTS,discovered,2,0.0
+804,EFT,discovered,2,0.0
+805,EHP-30,discovered,2,0.0
+806,Elbow Surgeons Shoulder Score,discovered,2,0.0
+807,ENT,discovered,2,0.0
+808,EORTC-C30,discovered,2,0.0
+809,EOSP,discovered,2,0.0
+810,EP,discovered,2,0.0
+811,EPJ,discovered,2,0.0
+812,ET,discovered,2,0.0
+813,EVAN,discovered,2,0.0
+814,EVENDOL,discovered,2,0.0
+815,EVENTS,discovered,2,0.0
+816,FABQ,discovered,2,0.0
+817,FACE,discovered,2,0.0
+818,Faces Pain Score,discovered,2,0.0
+819,FACES Scale,discovered,2,0.0
+820,FACT-G,discovered,2,0.0
+821,FAI,discovered,2,0.0
+822,FC,discovered,2,0.0
+823,FEU,discovered,2,0.0
+824,FGF,discovered,2,0.0
+825,FIRST,discovered,2,0.0
+826,Five Facet Mindfulness Questionnaire,discovered,2,0.0
+827,FNB,discovered,2,0.0
+828,FOR,discovered,2,0.0
+829,FORM,discovered,2,0.0
+830,FPSR,discovered,2,0.0
+831,FRAIL,discovered,2,0.0
+832,Frail Scale,discovered,2,0.0
+833,Functional Disability Inventory,discovered,2,0.0
+834,FX,discovered,2,0.0
+835,GAD-2,discovered,2,0.0
+836,GCPS,discovered,2,0.0
+837,GE,discovered,2,0.0
+838,GENE,discovered,2,0.0
+839,GFR,discovered,2,0.0
+840,GGT,discovered,2,0.0
+841,GH,discovered,2,0.0
+842,Gingival Index,discovered,2,0.0
+843,GIQLI,discovered,2,0.0
+844,Glasgow Coma Scale,discovered,2,0.0
+845,Global Physical Health Score,discovered,2,0.0
+846,GOT,discovered,2,0.0
+847,GPT,discovered,2,0.0
+848,GRBAS,discovered,2,0.0
+849,GRIN1,discovered,2,0.0
+850,GRIN2A,discovered,2,0.0
+851,GRIN2B,discovered,2,0.0
+852,GRIN3A,discovered,2,0.0
+853,GRIN3B,discovered,2,0.0
+854,GROC,discovered,2,0.0
+855,HAM-A,discovered,2,0.0
+856,HAMA,discovered,2,0.0
+857,HAMD,discovered,2,0.0
+858,Hamilton Depression Rating Scale,discovered,2,0.0
+859,Hamilton Depression Scale,discovered,2,0.0
+860,HCG,discovered,2,0.0
+861,HCP,discovered,2,0.0
+862,HDSS,discovered,2,0.0
+863,Health Nasal Outcomes Survey,discovered,2,0.0
+864,HIF-,discovered,2,0.0
+865,Higher Score,discovered,2,0.0
+866,HOS,discovered,2,0.0
+867,HOURS,discovered,2,0.0
+868,Hours After Surgery Postoperative Pain Score,discovered,2,0.0
+869,Hours Average Nausea Score,discovered,2,0.0
+870,Hours Average Sedation Score,discovered,2,0.0
+871,Hours Subjects Overall Satisfaction Score,discovered,2,0.0
+872,HSK21542,discovered,2,0.0
+873,HTX,discovered,2,0.0
+874,I-V,discovered,2,0.0
+875,IAP,discovered,2,0.0
+876,ICH-GCP,discovered,2,0.0
+877,IDS,discovered,2,0.0
+878,IDT,discovered,2,0.0
+879,IFN-,discovered,2,0.0
+880,IIIb,discovered,2,0.0
+881,IL-13,discovered,2,0.0
+882,IL-5,discovered,2,0.0
+883,IL4,discovered,2,0.0
+884,IL8,discovered,2,0.0
+885,INR,discovered,2,0.0
+886,Interference Scale,discovered,2,0.0
+887,Interference Sub Scale,discovered,2,0.0
+888,International Pain Outcomes Questionnaire,discovered,2,0.0
+889,IP-10,discovered,2,0.0
+890,IPOQ,discovered,2,0.0
+891,IPSS,discovered,2,0.0
+892,IQR,discovered,2,0.0
+893,IRB,discovered,2,0.0
+894,ISAS,discovered,2,0.0
+895,ISBPB,discovered,2,0.0
+896,ITPB,discovered,2,0.0
+897,ITS,discovered,2,0.0
+898,IU,discovered,2,0.0
+899,IVA,discovered,2,0.0
+900,Landry's Wound Healing Index,discovered,2,0.0
+901,LATCH,discovered,2,0.0
+902,LBP,discovered,2,0.0
+903,LCD,discovered,2,0.0
+904,LEFS,discovered,2,0.0
+905,LEP,discovered,2,0.0
+906,LIA,discovered,2,0.0
+907,LIKERT,discovered,2,0.0
+908,LPS,discovered,2,0.0
+909,LS,discovered,2,0.0
+910,LUTS,discovered,2,0.0
+911,Lysholm score,seed,2,0.0
+912,M3G,discovered,2,0.0
+913,M6G,discovered,2,0.0
+914,MA,discovered,2,0.0
+915,MBI,discovered,2,0.0
+916,mBPI,discovered,2,0.0
+917,McGill Short Form Questionnaire,discovered,2,0.0
+918,mCHEOPS,discovered,2,0.0
+919,MCP-1,discovered,2,0.0
+920,MD Anderson Dysphagia Inventory,discovered,2,0.0
+921,MD Anderson Symptom Inventory,discovered,2,0.0
+922,MDA,discovered,2,0.0
+923,MDASI,discovered,2,0.0
+924,MDT-10013,discovered,2,0.0
+925,Mechanical Temporal Summation Score,discovered,2,0.0
+926,Median Pain Score,discovered,2,0.0
+927,MEPs,discovered,2,0.0
+928,MEs,discovered,2,0.0
+929,MH,discovered,2,0.0
+930,MIP-,discovered,2,0.0
+931,MLR,discovered,2,0.0
+932,MMP-2,discovered,2,0.0
+933,MMT,discovered,2,0.0
+934,MOLAR,discovered,2,0.0
+935,MOPS,discovered,2,0.0
+936,MR-107A-02,discovered,2,0.0
+937,MST,discovered,2,0.0
+938,Multidimensional Pain Inventory,discovered,2,0.0
+939,Multidimensional Scale,discovered,2,0.0
+940,MWT,discovered,2,0.0
+941,N-PASS,discovered,2,0.0
+942,National Survey,discovered,2,0.0
+943,Nausea Score Average Pruritus Score,discovered,2,0.0
+944,NCA,discovered,2,0.0
+945,NCI,discovered,2,0.0
+946,NCI-CTCAE,discovered,2,0.0
+947,ND-340,discovered,2,0.0
+948,Neuropathic Pain Symptoms Inventory,discovered,2,0.0
+949,NF-,discovered,2,0.0
+950,NGS,discovered,2,0.0
+951,NHS,discovered,2,0.0
+952,NIDA,discovered,2,0.0
+953,NIRS,discovered,2,0.0
+954,NJ,discovered,2,0.0
+955,NK,discovered,2,0.0
+956,NMB,discovered,2,0.0
+957,NMPQ,discovered,2,0.0
+958,NOL Index,discovered,2,0.0
+959,NPIS,discovered,2,0.0
+960,NPO,discovered,2,0.0
+961,NR1,discovered,2,0.0
+962,NR2,discovered,2,0.0
+963,NR2B,discovered,2,0.0
+964,NR3A,discovered,2,0.0
+965,NR3B,discovered,2,0.0
+966,NRPS,discovered,2,0.0
+967,NSAIs,discovered,2,0.0
+968,NSS-2,discovered,2,0.0
+969,Numercal Rating Scale,discovered,2,0.0
+970,Numeric Rate Scale,discovered,2,0.0
+971,Numeric Rate Score,discovered,2,0.0
+972,Numerical Analogue Scale,discovered,2,0.0
+973,Numering Rating Scale,discovered,2,0.0
+974,NVPO,discovered,2,0.0
+975,nVRS,discovered,2,0.0
+976,OAAS,discovered,2,0.0
+977,OARRS,discovered,2,0.0
+978,OASS,discovered,2,0.0
+979,OBA,discovered,2,0.0
+980,Objective Pain Score,discovered,2,0.0
+981,Observer Mobility Scale,discovered,2,0.0
+982,OH,discovered,2,0.0
+983,OHIP5,discovered,2,0.0
+984,OMEQ,discovered,2,0.0
+985,OPG,discovered,2,0.0
+986,Opioid Consumption Visual Analog Pain Score,discovered,2,0.0
+987,ORAL,discovered,2,0.0
+988,OT,discovered,2,0.0
+989,OTC,discovered,2,0.0
+990,OUD,discovered,2,0.0
+991,Outcome Questionnaire,discovered,2,0.0
+992,PADS,discovered,2,0.0
+993,PAEDS,discovered,2,0.0
+994,Pain Anxiety Symptoms Scale,discovered,2,0.0
+995,Pain Beliefs Questionnaire,discovered,2,0.0
+996,Pain Disability Questionnaire,discovered,2,0.0
+997,Pain Interference Index Score,discovered,2,0.0
+998,Pain Medication Pain Treatment Satisfaction Scale,discovered,2,0.0
+999,Pain Relief Postoperative Analgesia Satisfaction Score,discovered,2,0.0
+1000,Pain Relief Rating Scale,discovered,2,0.0
+1001,Pain Resilience Scale,discovered,2,0.0
+1002,Pain Self-efficacy Questionnaire Perceived Stress Scale,discovered,2,0.0
+1003,Pain Severity Index Score,discovered,2,0.0
+1004,Pain Severity Scale,discovered,2,0.0
+1005,PANAS,discovered,2,0.0
+1006,PAS,discovered,2,0.0
+1007,PASS-20,discovered,2,0.0
+1008,PASTOR,discovered,2,0.0
+1009,PC,discovered,2,0.0
+1010,PCIA-,discovered,2,0.0
+1011,PCNL,discovered,2,0.0
+1012,PCP,discovered,2,0.0
+1013,Pediatric Objective Pain Scale,discovered,2,0.0
+1014,Pediatric Scale,discovered,2,0.0
+1015,Pelvic Floor Impact Questionnaire,discovered,2,0.0
+1016,PFTs,discovered,2,0.0
+1017,PGB,discovered,2,0.0
+1018,PGE,discovered,2,0.0
+1019,PGx,discovered,2,0.0
+1020,Phantom Limb Pain Questionnaire,discovered,2,0.0
+1021,Phantom Limb Questionnaire,discovered,2,0.0
+1022,PHBQ,discovered,2,0.0
+1023,PHN,discovered,2,0.0
+1024,Physical Component Summary Score,discovered,2,0.0
+1025,PIFB,discovered,2,0.0
+1026,PISQ-12,discovered,2,0.0
+1027,PITS,discovered,2,0.0
+1028,Pittsburg Sleep Quality Index,discovered,2,0.0
+1029,PNBs,discovered,2,0.0
+1030,PNKAS-N,discovered,2,0.0
+1031,PNS,discovered,2,0.0
+1032,PO2,discovered,2,0.0
+1033,POC,discovered,2,0.0
+1034,PODs,discovered,2,0.0
+1035,Point Likert Scale,discovered,2,0.0
+1036,Point Scale,discovered,2,0.0
+1037,PONV Impact Scale,discovered,2,0.0
+1038,PONV Scale,discovered,2,0.0
+1039,PONV Score,discovered,2,0.0
+1040,Postoperative Analgesia Postoperative Pain Score,discovered,2,0.0
+1041,Postoperative Analgesic Consumption Postoperative Pain Score,discovered,2,0.0
+1042,Postoperative Morbidity Survey,discovered,2,0.0
+1043,Postoperative Tramadol Consumption Postoperative Pain Score,discovered,2,0.0
+1044,Prescription Opioid Misuse Index,discovered,2,0.0
+1045,PRF,discovered,2,0.0
+1046,Prosthesis Experience Scale,discovered,2,0.0
+1047,Pruritus Scale,discovered,2,0.0
+1048,PSFS,discovered,2,0.0
+1049,PTO,discovered,2,0.0
+1050,PTX3,discovered,2,0.0
+1051,PVI,discovered,2,0.0
+1052,QALY,discovered,2,0.0
+1053,qCON,discovered,2,0.0
+1054,QEDN,discovered,2,0.0
+1055,QI,discovered,2,0.0
+1056,qNOX,discovered,2,0.0
+1057,QoR-15D,discovered,2,0.0
+1058,qPCR,discovered,2,0.0
+1059,RAMSAY,discovered,2,0.0
+1060,Ramsay Score,discovered,2,0.0
+1061,RANKL,discovered,2,0.0
+1062,RBCs,discovered,2,0.0
+1063,RC,discovered,2,0.0
+1064,REC,discovered,2,0.0
+1065,Recovery-15 Patient Survey,discovered,2,0.0
+1066,REM,discovered,2,0.0
+1067,RESCUE,discovered,2,0.0
+1068,REST,discovered,2,0.0
+1069,Richard Campbell Sleep Questionnaire,discovered,2,0.0
+1070,Richard-Campbell Sleep Scale,discovered,2,0.0
+1071,Richards Campbell Sleep Questionnaire,discovered,2,0.0
+1072,Riker Sedation Agitation Scale,discovered,2,0.0
+1073,Riker Sedation Scale,discovered,2,0.0
+1074,RN,discovered,2,0.0
+1075,RNA,discovered,2,0.0
+1076,Rockwood Scale,discovered,2,0.0
+1077,Rosenberg Self-esteem Scale,discovered,2,0.0
+1078,RP,discovered,2,0.0
+1079,RPS,discovered,2,0.0
+1080,rRNA,discovered,2,0.0
+1081,RSAS,discovered,2,0.0
+1082,RT-PCR,discovered,2,0.0
+1083,rTMS,discovered,2,0.0
+1084,S-FICB,discovered,2,0.0
+1085,SAD,discovered,2,0.0
+1086,Saint-Antoine Pain Questionnaire,discovered,2,0.0
+1087,SAPB,discovered,2,0.0
+1088,SAT,discovered,2,0.0
+1089,SBD,discovered,2,0.0
+1090,SCALES,discovered,2,0.0
+1091,Scar Assessment Scale,discovered,2,0.0
+1092,SCHNOS-C,discovered,2,0.0
+1093,SCHNOS-O,discovered,2,0.0
+1094,Score Postoperative Pain Score,discovered,2,0.0
+1095,SCORES,discovered,2,0.0
+1096,SDSU,discovered,2,0.0
+1097,SDXC,discovered,2,0.0
+1098,Self-reported Numeric Pain Score,discovered,2,0.0
+1099,Short Form Survey,discovered,2,0.0
+1100,Short-Form Health Survey,discovered,2,0.0
+1101,SHP,discovered,2,0.0
+1102,SHY,discovered,2,0.0
+1103,SI,discovered,2,0.0
+1104,SIA,discovered,2,0.0
+1105,Signs Pain Scale,discovered,2,0.0
+1106,SLANSS,discovered,2,0.0
+1107,SLC41A1,discovered,2,0.0
+1108,SLC41A2,discovered,2,0.0
+1109,Sleep Last Night Subjective Sleep Questionnaire,discovered,2,0.0
+1110,Sleep Quality Numerical Pain Scale,discovered,2,0.0
+1111,Sleep Questionnaire,discovered,2,0.0
+1112,Sleep Scale,discovered,2,0.0
+1113,SNRI,discovered,2,0.0
+1114,SOD,discovered,2,0.0
+1115,SOIS,discovered,2,0.0
+1116,SOL,discovered,2,0.0
+1117,SOMEDIC,discovered,2,0.0
+1118,SOT,discovered,2,0.0
+1119,SPI-48,discovered,2,0.0
+1120,SPID0-12,discovered,2,0.0
+1121,SPID0-2h,discovered,2,0.0
+1122,SPID0-6,discovered,2,0.0
+1123,SPID0-8,discovered,2,0.0
+1124,SPIDt,discovered,2,0.0
+1125,SPRID48,discovered,2,0.0
+1126,SPRID6,discovered,2,0.0
+1127,SPS,discovered,2,0.0
+1128,SPSIP,discovered,2,0.0
+1129,SPSIPB,discovered,2,0.0
+1130,SS,discovered,2,0.0
+1131,SSPI,discovered,2,0.0
+1132,SSQ,discovered,2,0.0
+1133,SSRI,discovered,2,0.0
+1134,SSS,discovered,2,0.0
+1135,SSV,discovered,2,0.0
+1136,STAIC,discovered,2,0.0
+1137,Stanford Sleepiness Scale,discovered,2,0.0
+1138,State Anxiety Score,discovered,2,0.0
+1139,State- Trait Anxiety Inventory,discovered,2,0.0
+1140,Static Pain Score Dynamic Pain Score,discovered,2,0.0
+1141,STH,discovered,2,0.0
+1142,Subject Satisfaction Survey,discovered,2,0.0
+1143,Subjects Overall Satisfaction Score,discovered,2,0.0
+1144,Sufficient Sleep Subjective Sleep Questionnaire,discovered,2,0.0
+1145,Summed Pain Intensity Score,discovered,2,0.0
+1146,SUN,discovered,2,0.0
+1147,Surgery Pain Score,discovered,2,0.0
+1148,SURGICAL,discovered,2,0.0
+1149,Surgical Anxiety Scale,discovered,2,0.0
+1150,Surgical Pain Scale,discovered,2,0.0
+1151,Surgical Recovery Scale,discovered,2,0.0
+1152,Survey Score,discovered,2,0.0
+1153,SVS,discovered,2,0.0
+1154,Symptoms Numerical Ordinal Scale,discovered,2,0.0
+1155,Systemic Immune-Inflammation Index,discovered,2,0.0
+1156,T-MoCA,discovered,2,0.0
+1157,T7-T12,discovered,2,0.0
+1158,T8-S3,discovered,2,0.0
+1159,TAPES,discovered,2,0.0
+1160,TAV,discovered,2,0.0
+1161,TC,discovered,2,0.0
+1162,TCI-PCA,discovered,2,0.0
+1163,Technology Acceptance Scale,discovered,2,0.0
+1164,TEETH,discovered,2,0.0
+1165,Tegner Activity Scale,discovered,2,0.0
+1166,THQ,discovered,2,0.0
+1167,TIME,discovered,2,0.0
+1168,TNFa,discovered,2,0.0
+1169,TOpA,discovered,2,0.0
+1170,TOpA24,discovered,2,0.0
+1171,TOpA48,discovered,2,0.0
+1172,TOpA72,discovered,2,0.0
+1173,TORS,discovered,2,0.0
+1174,TOTPAR4,discovered,2,0.0
+1175,TOTPAR48,discovered,2,0.0
+1176,TOTPARs,discovered,2,0.0
+1177,TPT,discovered,2,0.0
+1178,TQPM,discovered,2,0.0
+1179,TRAE,discovered,2,0.0
+1180,TRAM,discovered,2,0.0
+1181,TRAMADOL,discovered,2,0.0
+1182,TREATMENT,discovered,2,0.0
+1183,Treatment Evaluation Inventory,discovered,2,0.0
+1184,TRI-FLOW,discovered,2,0.0
+1185,TRPM6,discovered,2,0.0
+1186,TRV130,discovered,2,0.0
+1187,TSA,discovered,2,0.0
+1188,TSK-11,discovered,2,0.0
+1189,TSQM-9,discovered,2,0.0
+1190,TST,discovered,2,0.0
+1191,TTMPR,discovered,2,0.0
+1192,TTPPR,discovered,2,0.0
+1193,UMC,discovered,2,0.0
+1194,UMSS,discovered,2,0.0
+1195,UNC-15,discovered,2,0.0
+1196,USPHS,discovered,2,0.0
+1197,VC,discovered,2,0.0
+1198,VCP,discovered,2,0.0
+1199,VEGF-A,discovered,2,0.0
+1200,Verbal Analogue Scale,discovered,2,0.0
+1201,Verbal Response Scale,discovered,2,0.0
+1202,VHPQ,discovered,2,0.0
+1203,VI,discovered,2,0.0
+1204,Virtual Reality Sickness Questionnaire,discovered,2,0.0
+1205,Visiual Analog Scale,discovered,2,0.0
+1206,Visual Acuity Score,discovered,2,0.0
+1207,Visual Assessment Scale,discovered,2,0.0
+1208,VNPS,discovered,2,0.0
+1209,VRSQ,discovered,2,0.0
+1210,VS,discovered,2,0.0
+1211,VT,discovered,2,0.0
+1212,W2LOCF,discovered,2,0.0
+1213,WA,discovered,2,0.0
+1214,WBFS,discovered,2,0.0
+1215,WDT,discovered,2,0.0
+1216,Wechsler Adult Intelligence Scale,discovered,2,0.0
+1217,Wechsler Memory Scale,discovered,2,0.0
+1218,When Score,discovered,2,0.0
+1219,WI,discovered,2,0.0
+1220,WILL,discovered,2,0.0
+1221,WISQOL,discovered,2,0.0
+1222,WITH,discovered,2,0.0
+1223,WUP,discovered,2,0.0
+1224,XC,discovered,2,0.0
+1225,XC-X,discovered,2,0.0
+1226,A Numerical Rating Score,discovered,1,0.0
+1227,A PONV Impact Scale,discovered,1,0.0
+1228,A-NSAID,discovered,1,0.0
+1229,A118G,discovered,1,0.0
+1230,AAC,discovered,1,0.0
+1231,AAE,discovered,1,0.0
+1232,AAQ,discovered,1,0.0
+1233,ABBy,discovered,1,0.0
+1234,ABCB1,discovered,1,0.0
+1235,Abdominal Distension Scale,discovered,1,0.0
+1236,Abdominal Surgery Impact Scale,discovered,1,0.0
+1237,ABOUT,discovered,1,0.0
+1238,ABT,discovered,1,0.0
+1239,ACC,discovered,1,0.0
+1240,Acceptability Questionnaire,discovered,1,0.0
+1241,ACCORDING,discovered,1,0.0
+1242,ACD,discovered,1,0.0
+1243,ACE,discovered,1,0.0
+1244,ACEI,discovered,1,0.0
+1245,ACLR,discovered,1,0.0
+1246,ACP-044,discovered,1,0.0
+1247,ACR,discovered,1,0.0
+1248,ACT Skills Survey,discovered,1,0.0
+1249,Activity Assessment Scale,discovered,1,0.0
+1250,Activity Assessment Score,discovered,1,0.0
+1251,Activity Change Scale,discovered,1,0.0
+1252,Activity Impairment Questionnaire,discovered,1,0.0
+1253,Activity-Induced Pain Score,discovered,1,0.0
+1254,AD,discovered,1,0.0
+1255,Adaptive Scale,discovered,1,0.0
+1256,ADLs,discovered,1,0.0
+1257,Adult Profile,discovered,1,0.0
+1258,Advanced Lung Cancer Inflammation Index,discovered,1,0.0
+1259,Advancement Failure Rate Operator-Assessed Difficulty Score,discovered,1,0.0
+1260,Adverse Block Event Survey,discovered,1,0.0
+1261,Adverse Event Profile,discovered,1,0.0
+1262,Adverse Event The Forgotten Joint Score,discovered,1,0.0
+1263,Adverse Events Average Pain Interference Questionnaire,discovered,1,0.0
+1264,aEP,discovered,1,0.0
+1265,AESIs,discovered,1,0.0
+1266,Affective Mindfulness Scale,discovered,1,0.0
+1267,After Cesarean Delivery Subjective Pain Score,discovered,1,0.0
+1268,Age Appropriate Scale,discovered,1,0.0
+1269,AGP,discovered,1,0.0
+1270,AHA,discovered,1,0.0
+1271,AI-,discovered,1,0.0
+1272,AIMS2-SF,discovered,1,0.0
+1273,AIN,discovered,1,0.0
+1274,AKPS,discovered,1,0.0
+1275,AL-EPI,discovered,1,0.0
+1276,ALAT,discovered,1,0.0
+1277,Alder Hey Triage Pain Score,discovered,1,0.0
+1278,Aldrete Discharge Score,discovered,1,0.0
+1279,Aldrete Recovery Score,discovered,1,0.0
+1280,Aldrete Scale,discovered,1,0.0
+1281,ALFF,discovered,1,0.0
+1282,ALGOMETER,discovered,1,0.0
+1283,ALI,discovered,1,0.0
+1284,ALN,discovered,1,0.0
+1285,AM Pain Score,discovered,1,0.0
+1286,AMBULATION,discovered,1,0.0
+1287,Ambulation The Visual Analog Pain Score,discovered,1,0.0
+1288,American Pain Association Questionnaire,discovered,1,0.0
+1289,American Pain Society Outcome Questionnaire,discovered,1,0.0
+1290,American Pain Society Patient Outcomes Questionnaire,discovered,1,0.0
+1291,American Pain Society's Patient Outcome Questionnaire,discovered,1,0.0
+1292,AMI,discovered,1,0.0
+1293,AMOUNT,discovered,1,0.0
+1294,AMPPRO,discovered,1,0.0
+1295,AMS,discovered,1,0.0
+1296,AMT4,discovered,1,0.0
+1297,Anaesthesia Scale,discovered,1,0.0
+1298,Anaesthesiological Questionnaire,discovered,1,0.0
+1299,Analgesia Delta Interleukin-6 Hemodynamic Stability Questionnaire,discovered,1,0.0
+1300,Analgesia Patient Satisfaction Score,discovered,1,0.0
+1301,Analgesic Consumption Patient Satisfaction Score,discovered,1,0.0
+1302,Analgesic Consumption Postoperative Pain Score,discovered,1,0.0
+1303,Analgesic Monitoring Scale,discovered,1,0.0
+1304,Analgesic Narcotic Mean Daily Pain Score,discovered,1,0.0
+1305,Analgesic Quantity Oral Health Impact Profile,discovered,1,0.0
+1306,Analgesic Use Visual Analog Pain Scale,discovered,1,0.0
+1307,ANALGESICS,discovered,1,0.0
+1308,Analog Rating Scale,discovered,1,0.0
+1309,Analogic Visual Scale,discovered,1,0.0
+1310,Analogical Visual Scale,discovered,1,0.0
+1311,Analougue Score,discovered,1,0.0
+1312,ANB,discovered,1,0.0
+1313,ANB Catheter Technique Postoperative Pain Score,discovered,1,0.0
+1314,ANB-,discovered,1,0.0
+1315,Anderson Symptom Inventory,discovered,1,0.0
+1316,ANESTHESIA,discovered,1,0.0
+1317,Anesthesia Scale,discovered,1,0.0
+1318,Anesthesia Score,discovered,1,0.0
+1319,Anesthesiology Score,discovered,1,0.0
+1320,ANIm,discovered,1,0.0
+1321,Ankle Hindfoot Score,discovered,1,0.0
+1322,Ankle Questionnaire,discovered,1,0.0
+1323,ANOVAs,discovered,1,0.0
+1324,ANP,discovered,1,0.0
+1325,ANSPEC-PRO,discovered,1,0.0
+1326,Anterior Knee Pain Scale,discovered,1,0.0
+1327,Anti-emetic Medication Post-operatively Peak Pain Score,discovered,1,0.0
+1328,Anti-emetic Usage Post-operative Self-reported Pain Score,discovered,1,0.0
+1329,ANX,discovered,1,0.0
+1330,Anxiety From Baseline Score,discovered,1,0.0
+1331,Anxiety Scale,discovered,1,0.0
+1332,Anxiety Short Form Score,discovered,1,0.0
+1333,Anxiety State Scale,discovered,1,0.0
+1334,Anxiolysis Questionnaire,discovered,1,0.0
+1335,ANY,discovered,1,0.0
+1336,AP,discovered,1,0.0
+1337,AP-325,discovered,1,0.0
+1338,APA,discovered,1,0.0
+1339,APAIS Postoperative Pain Score,discovered,1,0.0
+1340,APAIS-,discovered,1,0.0
+1341,APAIS-A-An,discovered,1,0.0
+1342,APAIS-A-Su,discovered,1,0.0
+1343,APAIS-A-T,discovered,1,0.0
+1344,APAIS-I,discovered,1,0.0
+1345,APAIS-T,discovered,1,0.0
+1346,APFEL,discovered,1,0.0
+1347,Apfel Risk Score,discovered,1,0.0
+1348,Apfel Score,discovered,1,0.0
+1349,APICAL,discovered,1,0.0
+1350,APS-POQ-R-,discovered,1,0.0
+1351,APSNP,discovered,1,0.0
+1352,aPTT,discovered,1,0.0
+1353,ARB,discovered,1,0.0
+1354,ARC,discovered,1,0.0
+1355,ARC-001,discovered,1,0.0
+1356,ARISING,discovered,1,0.0
+1357,Arizona Integrated Outcomes Scale,discovered,1,0.0
+1358,Arrival Pain Score,discovered,1,0.0
+1359,ARSE24h,discovered,1,0.0
+1360,ARSE48h,discovered,1,0.0
+1361,ARSE72h,discovered,1,0.0
+1362,ARTHRITIS,discovered,1,0.0
+1363,AS-0,discovered,1,0.0
+1364,ASA-,discovered,1,0.0
+1365,ASI,discovered,1,0.0
+1366,ASI-3,discovered,1,0.0
+1367,ASIA,discovered,1,0.0
+1368,ASII,discovered,1,0.0
+1369,ASPA,discovered,1,0.0
+1370,ASSESMENT,discovered,1,0.0
+1371,ASSESSMENT,discovered,1,0.0
+1372,Assessment Score,discovered,1,0.0
+1373,ASSIST,discovered,1,0.0
+1374,ASWS,discovered,1,0.0
+1375,AT REST Categorical Pain Intensity Score,discovered,1,0.0
+1376,Athens Insomnia Scale Athens Insomnia Scale,discovered,1,0.0
+1377,ATLANTA,discovered,1,0.0
+1378,ATRS,discovered,1,0.0
+1379,Attention Control Task Completion Survey,discovered,1,0.0
+1380,AU,discovered,1,0.0
+1381,AUC-ROC,discovered,1,0.0
+1382,AUC0-12,discovered,1,0.0
+1383,AUC0-12h,discovered,1,0.0
+1384,AUC0-3,discovered,1,0.0
+1385,AUC0-72h,discovered,1,0.0
+1386,AUC0-96,discovered,1,0.0
+1387,AUC12,discovered,1,0.0
+1388,AUC12-24,discovered,1,0.0
+1389,AUC18,discovered,1,0.0
+1390,AUC24-36,discovered,1,0.0
+1391,AUC36-48,discovered,1,0.0
+1392,AUC4-12,discovered,1,0.0
+1393,AUC4-24,discovered,1,0.0
+1394,AUC4-36,discovered,1,0.0
+1395,AUC4-48,discovered,1,0.0
+1396,AUC4-72,discovered,1,0.0
+1397,AUC4-84,discovered,1,0.0
+1398,AUC4-96,discovered,1,0.0
+1399,AUC48-72,discovered,1,0.0
+1400,AUC6,discovered,1,0.0
+1401,AUC72,discovered,1,0.0
+1402,AUC72-84,discovered,1,0.0
+1403,AUC72-96,discovered,1,0.0
+1404,AUCNRS-A,discovered,1,0.0
+1405,AUCNRS-R,discovered,1,0.0
+1406,AUCt,discovered,1,0.0
+1407,AUDIT-C,discovered,1,0.0
+1408,AUMC,discovered,1,0.0
+1409,AVM,discovered,1,0.0
+1410,Avocative Behavioral Scale,discovered,1,0.0
+1411,Avoidance Beliefs Questionnaire,discovered,1,0.0
+1412,AVS,discovered,1,0.0
+1413,Awake Score,discovered,1,0.0
+1414,B-A,discovered,1,0.0
+1415,Bang's Blinding Index,discovered,1,0.0
+1416,BANK,discovered,1,0.0
+1417,BAP,discovered,1,0.0
+1418,BARS,discovered,1,0.0
+1419,Basal Dyspnea Index,discovered,1,0.0
+1420,Basal Dyspnea Index Score,discovered,1,0.0
+1421,Baseline Average Score,discovered,1,0.0
+1422,Baseline Dyspnea Index,discovered,1,0.0
+1423,Baseline Kujala Score,discovered,1,0.0
+1424,Baseline Pain Disability Questionnaire,discovered,1,0.0
+1425,Baseline Pain Intensity Score,discovered,1,0.0
+1426,Baseline Pain Scores Via FACES Scale,discovered,1,0.0
+1427,Baseline Tegner Activity Scale,discovered,1,0.0
+1428,Bauer Satisfaction Questionnaire,discovered,1,0.0
+1429,BBAT,discovered,1,0.0
+1430,BBI,discovered,1,0.0
+1431,BCPQ Score,discovered,1,0.0
+1432,BCT,discovered,1,0.0
+1433,BCTQ,discovered,1,0.0
+1434,BDI-2-NL,discovered,1,0.0
+1435,BDP,discovered,1,0.0
+1436,Beck Anxiety Scale,discovered,1,0.0
+1437,Beck Depression Score,discovered,1,0.0
+1438,Bedside Shivering Assessment Score,discovered,1,0.0
+1439,Behavioral Activity Rating Scale,discovered,1,0.0
+1440,Behavioural Scale,discovered,1,0.0
+1441,Behavioural Score,discovered,1,0.0
+1442,BEP2000,discovered,1,0.0
+1443,Bernese Pain Scale,discovered,1,0.0
+1444,BETTER,discovered,1,0.0
+1445,BFQ24h,discovered,1,0.0
+1446,BFQ48h,discovered,1,0.0
+1447,BFQ72h,discovered,1,0.0
+1448,BHS,discovered,1,0.0
+1449,Bieri Faces Scale,discovered,1,0.0
+1450,BIOPAC,discovered,1,0.0
+1451,BJA,discovered,1,0.0
+1452,BL,discovered,1,0.0
+1453,BLIND,discovered,1,0.0
+1454,Blinded Anesthesiologist Block Quality Score,discovered,1,0.0
+1455,Bloating Scale,discovered,1,0.0
+1456,Bloating Score,discovered,1,0.0
+1457,Block Pain Score,discovered,1,0.0
+1458,BNI,discovered,1,0.0
+1459,BOCF,discovered,1,0.0
+1460,Boezaart Score,discovered,1,0.0
+1461,Bone Healing Postoperative Pain Score,discovered,1,0.0
+1462,Borg Scale,discovered,1,0.0
+1463,Boston Carpal Tunnel Questionnaire,discovered,1,0.0
+1464,BOTH,discovered,1,0.0
+1465,Bother Composite Score,discovered,1,0.0
+1466,Bowel Function Index,discovered,1,0.0
+1467,Box Breathing Completion Survey,discovered,1,0.0
+1468,BPB,discovered,1,0.0
+1469,BPI25,discovered,1,0.0
+1470,BPI8,discovered,1,0.0
+1471,BPSI,discovered,1,0.0
+1472,BQL,discovered,1,0.0
+1473,Breast Q Questionnaire,discovered,1,0.0
+1474,BREAST-Q Score,discovered,1,0.0
+1475,BREF-THAI,discovered,1,0.0
+1476,Brief Fatigue Inventory,discovered,1,0.0
+1477,Brief Hypervigilance Scale,discovered,1,0.0
+1478,Brief Pain Interference Scale,discovered,1,0.0
+1479,Brief Pain Newcastle Nursing Satisfaction Scale,discovered,1,0.0
+1480,Brief Resilience Scale,discovered,1,0.0
+1481,Brief Symptom Inventory,discovered,1,0.0
+1482,BROMAGE,discovered,1,0.0
+1483,BRS,discovered,1,0.0
+1484,Bruggrmann Comfort Scale,discovered,1,0.0
+1485,BSAS,discovered,1,0.0
+1486,BSES-SF,discovered,1,0.0
+1487,BSM-2301K,discovered,1,0.0
+1488,BTX-A,discovered,1,0.0
+1489,Burst Suppression Duration Recovery Profile,discovered,1,0.0
+1490,BY,discovered,1,0.0
+1491,By Modified Early Wound Healing Index,discovered,1,0.0
+1492,By Pittsburgh Sleep Index,discovered,1,0.0
+1493,c-TAP,discovered,1,0.0
+1494,C4-A,discovered,1,0.0
+1495,C5-C8,discovered,1,0.0
+1496,CACB,discovered,1,0.0
+1497,CACS,discovered,1,0.0
+1498,CADD,discovered,1,0.0
+1499,CAHPS,discovered,1,0.0
+1500,CaKG,discovered,1,0.0
+1501,CAL,discovered,1,0.0
+1502,Calculated Composite Score,discovered,1,0.0
+1503,CAM-S,discovered,1,0.0
+1504,CAMICU,discovered,1,0.0
+1505,CAMM,discovered,1,0.0
+1506,CAMS-R,discovered,1,0.0
+1507,Canadian Endourology Group Stent Symptom Score,discovered,1,0.0
+1508,Cancer Rehabilitation Evaluation Scale,discovered,1,0.0
+1509,CANFIELD,discovered,1,0.0
+1510,CANTAB,discovered,1,0.0
+1511,CAR,discovered,1,0.0
+1512,Cardiac Index,discovered,1,0.0
+1513,Cardiac Risk Index,discovered,1,0.0
+1514,CARE,discovered,1,0.0
+1515,Care Unit Delirium Screen Checklist Score,discovered,1,0.0
+1516,Care Unit Duration Text Message Survey,discovered,1,0.0
+1517,CARES,discovered,1,0.0
+1518,CARi,discovered,1,0.0
+1519,CAS-S,discovered,1,0.0
+1520,CASAFS,discovered,1,0.0
+1521,CASI,discovered,1,0.0
+1522,CAT,discovered,1,0.0
+1523,Catastrophism Scale,discovered,1,0.0
+1524,Catastrophizing Scale,discovered,1,0.0
+1525,Categorial Scale,discovered,1,0.0
+1526,Categoric Pain Scale Numeric Pain Scale,discovered,1,0.0
+1527,Categorical Descriptive Questionnaire,discovered,1,0.0
+1528,Categorical Pain Intensity Rating Scale,discovered,1,0.0
+1529,Categorical Scale,discovered,1,0.0
+1530,Categorical Score,discovered,1,0.0
+1531,Category Scale,discovered,1,0.0
+1532,CB1R,discovered,1,0.0
+1533,CBB,discovered,1,0.0
+1534,CBF,discovered,1,0.0
+1535,CC,discovered,1,0.0
+1536,CCC-2,discovered,1,0.0
+1537,CCIS,discovered,1,0.0
+1538,CCT,discovered,1,0.0
+1539,CD,discovered,1,0.0
+1540,CD-RISC-10,discovered,1,0.0
+1541,CD11b,discovered,1,0.0
+1542,CD16,discovered,1,0.0
+1543,CD18,discovered,1,0.0
+1544,CD28,discovered,1,0.0
+1545,CD55,discovered,1,0.0
+1546,CDI,discovered,1,0.0
+1547,CDI-2,discovered,1,0.0
+1548,CDT,discovered,1,0.0
+1549,CEB,discovered,1,0.0
+1550,CEFAR,discovered,1,0.0
+1551,CEGSSS,discovered,1,0.0
+1552,cELISA,discovered,1,0.0
+1553,CEMS,discovered,1,0.0
+1554,Central Sensitization Questionnaire,discovered,1,0.0
+1555,CES,discovered,1,0.0
+1556,Cesarean Delivery Questionnaire,discovered,1,0.0
+1557,CFB,discovered,1,0.0
+1558,CGF-,discovered,1,0.0
+1559,CGI,discovered,1,0.0
+1560,CGI-C,discovered,1,0.0
+1561,Change Treatment Satisfaction Questionnaire,discovered,1,0.0
+1562,Changing Perioperative Opioid Consumption Pain Score,discovered,1,0.0
+1563,CHEOPS Scale Peak Pain Score,discovered,1,0.0
+1564,CHEOPS Score,discovered,1,0.0
+1565,Chest Tube Site Pain Score,discovered,1,0.0
+1566,CHF,discovered,1,0.0
+1567,Child Anxiety Sensitivity Index,discovered,1,0.0
+1568,Child Anxiety Symptoms Scale,discovered,1,0.0
+1569,Child Dental Anxiety Scale,discovered,1,0.0
+1570,Child Pain Anxiety Symptoms Scale,discovered,1,0.0
+1571,Child PTSD Symptom Scale,discovered,1,0.0
+1572,Child Surgical Worries Questionnaire,discovered,1,0.0
+1573,Childhood Depression Inventory,discovered,1,0.0
+1574,Children's Depression Inventory,discovered,1,0.0
+1575,Children's Eastern Ontario Pain Scale,discovered,1,0.0
+1576,CHOIR,discovered,1,0.0
+1577,CHOP,discovered,1,0.0
+1578,Christensen Fatigue Scale,discovered,1,0.0
+1579,Chronic Groin Pain Questionnaire,discovered,1,0.0
+1580,Chronic Pain Grading Questionnaire,discovered,1,0.0
+1581,Chronic Pain Self-Efficacy Scale,discovered,1,0.0
+1582,Chronic Pain Values Inventory Scale,discovered,1,0.0
+1583,Chronic Venous Insufficiency Questionnaire,discovered,1,0.0
+1584,CHX,discovered,1,0.0
+1585,CIED,discovered,1,0.0
+1586,CIEDs,discovered,1,0.0
+1587,CIR,discovered,1,0.0
+1588,CIR S-G The FRAIL Scale,discovered,1,0.0
+1589,CIRS,discovered,1,0.0
+1590,CISB,discovered,1,0.0
+1591,CISS,discovered,1,0.0
+1592,CIVIQ-20,discovered,1,0.0
+1593,CK-MB,discovered,1,0.0
+1594,CLASP,discovered,1,0.0
+1595,cLBP,discovered,1,0.0
+1596,Client Satisfaction Questionnaire,discovered,1,0.0
+1597,Client Satisfaction Survey,discovered,1,0.0
+1598,Clinical Efficacy PPI Score,discovered,1,0.0
+1599,Clinical Opiate Withdrawal Scale,discovered,1,0.0
+1600,Clinical Oral Dryness Score,discovered,1,0.0
+1601,CLoWI,discovered,1,0.0
+1602,cMAP,discovered,1,0.0
+1603,CMAR,discovered,1,0.0
+1604,CMP,discovered,1,0.0
+1605,CMS,discovered,1,0.0
+1606,CMSAS,discovered,1,0.0
+1607,CMSAS-,discovered,1,0.0
+1608,CMSR,discovered,1,0.0
+1609,CNAP,discovered,1,0.0
+1610,CNP,discovered,1,0.0
+1611,CODS,discovered,1,0.0
+1612,COGENIUS,discovered,1,0.0
+1613,Cognitive Flexibility Scale,discovered,1,0.0
+1614,Color Analog Scale,discovered,1,0.0
+1615,Coloured Analogue Scale,discovered,1,0.0
+1616,COMMON,discovered,1,0.0
+1617,Comparative Pain Scale,discovered,1,0.0
+1618,Comparing Patient Reported Pain Score,discovered,1,0.0
+1619,Compartmental Pain Score,discovered,1,0.0
+1620,COMPLAINTS,discovered,1,0.0
+1621,COMPLETELY,discovered,1,0.0
+1622,Compliance The Percentage Healing Index,discovered,1,0.0
+1623,Composite Pain Interference Score,discovered,1,0.0
+1624,Computer Systems Usability Questionnaire,discovered,1,0.0
+1625,COMT-,discovered,1,0.0
+1626,Condensed Memorial Symptom Assessment Scale,discovered,1,0.0
+1627,Connor-Davidson Resilience Scale,discovered,1,0.0
+1628,Consciousness Index,discovered,1,0.0
+1629,Consolability Pain Assessment Scale,discovered,1,0.0
+1630,Consolability Pain Scale,discovered,1,0.0
+1631,Consultation Quality Index,discovered,1,0.0
+1632,Consumption Emergency Room Visits Pain Score,discovered,1,0.0
+1633,Consumption First Analgesic Timing Pain Scale,discovered,1,0.0
+1634,Consumption Pain Score,discovered,1,0.0
+1635,Consumption Time Weighted Average Pain Score,discovered,1,0.0
+1636,Consumption Via PCA Postoperative Pain Score,discovered,1,0.0
+1637,Control Group Pain Score,discovered,1,0.0
+1638,Control Mean Pain With Resting Score,discovered,1,0.0
+1639,CONTROLLED,discovered,1,0.0
+1640,Controlled Epidural Analgesia Body Mass Index,discovered,1,0.0
+1641,COPD,discovered,1,0.0
+1642,COPE,discovered,1,0.0
+1643,Coping Pain Questionnaire,discovered,1,0.0
+1644,Coping Scale,discovered,1,0.0
+1645,COPM,discovered,1,0.0
+1646,COR,discovered,1,0.0
+1647,Corah's Dental Anxiety Scale,discovered,1,0.0
+1648,CORTIZOL,discovered,1,0.0
+1649,COV155,discovered,1,0.0
+1650,COVID-19,discovered,1,0.0
+1651,CP,discovered,1,0.0
+1652,CP-IP,discovered,1,0.0
+1653,CPAQ-,discovered,1,0.0
+1654,CPAQ-R,discovered,1,0.0
+1655,CPB,discovered,1,0.0
+1656,CPC,discovered,1,0.0
+1657,CPEs,discovered,1,0.0
+1658,CPHE,discovered,1,0.0
+1659,CPIP,discovered,1,0.0
+1660,CPOP,discovered,1,0.0
+1661,CPQ,discovered,1,0.0
+1662,CPRS,discovered,1,0.0
+1663,CPSI,discovered,1,0.0
+1664,CPSS,discovered,1,0.0
+1665,CPTP,discovered,1,0.0
+1666,CPTPS,discovered,1,0.0
+1667,CQI-2,discovered,1,0.0
+1668,CR,discovered,1,0.0
+1669,CRAE,discovered,1,0.0
+1670,CRAEs,discovered,1,0.0
+1671,Cravero Agitation Scale,discovered,1,0.0
+1672,CRBD,discovered,1,0.0
+1673,CRC,discovered,1,0.0
+1674,Credibility Treatment Expectancy Treatment Helpfulness Questionnaire,discovered,1,0.0
+1675,CRH,discovered,1,0.0
+1676,CRIES Pain Scale,discovered,1,0.0
+1677,CRITERIA,discovered,1,0.0
+1678,CROSSOVER,discovered,1,0.0
+1679,CRPC,discovered,1,0.0
+1680,CRPS,discovered,1,0.0
+1681,CRRD,discovered,1,0.0
+1682,CRY,discovered,1,0.0
+1683,CRYO,discovered,1,0.0
+1684,CSC,discovered,1,0.0
+1685,CSICU,discovered,1,0.0
+1686,CSUQ,discovered,1,0.0
+1687,CT-scan Questionnaire,discovered,1,0.0
+1688,CTCEA,discovered,1,0.0
+1689,CTM-15,discovered,1,0.0
+1690,CTRS,discovered,1,0.0
+1691,CTT,discovered,1,0.0
+1692,Cumulated Ambulation Score,discovered,1,0.0
+1693,Cumulated Ambulatory Score,discovered,1,0.0
+1694,Cumulative Illness Rating Scale,discovered,1,0.0
+1695,Cumulative Pain Score,discovered,1,0.0
+1696,Cumulative Total Distinct CME Score,discovered,1,0.0
+1697,Cumulative Tramadol Consumption Postoperative Pain Score,discovered,1,0.0
+1698,Curve Calibration Slope Scaled Brier Score,discovered,1,0.0
+1699,Customer Satisfaction Score,discovered,1,0.0
+1700,CVF,discovered,1,0.0
+1701,CVICU,discovered,1,0.0
+1702,CVO,discovered,1,0.0
+1703,CVVHDF,discovered,1,0.0
+1704,CWIT,discovered,1,0.0
+1705,CWMST,discovered,1,0.0
+1706,CXCL10,discovered,1,0.0
+1707,CYP2C19,discovered,1,0.0
+1708,DAF,discovered,1,0.0
+1709,DAH-30,discovered,1,0.0
+1710,Daily Average Pain Score,discovered,1,0.0
+1711,Daily Maximum Pain Score,discovered,1,0.0
+1712,Daily Pain Rating Scale,discovered,1,0.0
+1713,Daily Pain Scale,discovered,1,0.0
+1714,Daily Prosthetic Usage Subject Satisfaction Survey,discovered,1,0.0
+1715,Daily Score,discovered,1,0.0
+1716,Daily Sleep Interference Rating Scale,discovered,1,0.0
+1717,Daily Sleep Interference Score,discovered,1,0.0
+1718,DAP,discovered,1,0.0
+1719,DASAIM,discovered,1,0.0
+1720,DASI,discovered,1,0.0
+1721,DASS,discovered,1,0.0
+1722,DASS21,discovered,1,0.0
+1723,DAST-10,discovered,1,0.0
+1724,Davidson Trauma Scale,discovered,1,0.0
+1725,DAY,discovered,1,0.0
+1726,Day Patient Satisfaction Score,discovered,1,0.0
+1727,DBPs,discovered,1,0.0
+1728,DC,discovered,1,0.0
+1729,DCFH-DA,discovered,1,0.0
+1730,DCMR,discovered,1,0.0
+1731,DCS Treatment Acceptability Questionnaire,discovered,1,0.0
+1732,DDQ-8,discovered,1,0.0
+1733,Decreased Overall Pain Score,discovered,1,0.0
+1734,Decreased Pain Score,discovered,1,0.0
+1735,Deep Breathing Sedation Score,discovered,1,0.0
+1736,Delirium Assessment Scale,discovered,1,0.0
+1737,Delirium Scale,discovered,1,0.0
+1738,Delirium Severity Score,discovered,1,0.0
+1739,Dental Anxiety Score,discovered,1,0.0
+1740,Dental Discomfort Questionnaire,discovered,1,0.0
+1741,DENTSPLY,discovered,1,0.0
+1742,DEP,discovered,1,0.0
+1743,DEPRESSION,discovered,1,0.0
+1744,Depression Anxiety-Stress Scale,discovered,1,0.0
+1745,Depression Scale Anxiety Score,discovered,1,0.0
+1746,Depression Scale Depression Score,discovered,1,0.0
+1747,Depression Scale FRAIL Scale,discovered,1,0.0
+1748,Depression Scale PainOUT Questionnaire,discovered,1,0.0
+1749,Depression Scale Richard-Campbell Sleep Scale,discovered,1,0.0
+1750,Depression Scale Self-Assessment Scale,discovered,1,0.0
+1751,Depression Self-Rating Scale,discovered,1,0.0
+1752,Dermatology Life Quality Index,discovered,1,0.0
+1753,DES,discovered,1,0.0
+1754,DETECT Pain Questionnaire,discovered,1,0.0
+1755,Detect Questionnaire,discovered,1,0.0
+1756,Device Tolerability Survey Pain Score,discovered,1,0.0
+1757,Device Usage Medication Consumption Demographics Survey,discovered,1,0.0
+1758,Device Use Questionnaire Device Feedback Questionnaire,discovered,1,0.0
+1759,DEX,discovered,1,0.0
+1760,Dexmedetomidine Postoperative Pain Score,discovered,1,0.0
+1761,DFB,discovered,1,0.0
+1762,DFCI,discovered,1,0.0
+1763,DHB,discovered,1,0.0
+1764,DHEA,discovered,1,0.0
+1765,DIA,discovered,1,0.0
+1766,DICOM,discovered,1,0.0
+1767,DID,discovered,1,0.0
+1768,Diet Satisfaction Scale,discovered,1,0.0
+1769,Difference Between Intraoperative Pupillary Pain Index,discovered,1,0.0
+1770,Different Pain Scale,discovered,1,0.0
+1771,Digital Pain Scale,discovered,1,0.0
+1772,Digital Rectal Examination Score,discovered,1,0.0
+1773,Digital Scale,discovered,1,0.0
+1774,DIGORA,discovered,1,0.0
+1775,Disability Index Score,discovered,1,0.0
+1776,Discharge Edinburgh Postpartum Depression Scale Score,discovered,1,0.0
+1777,Discharge From PACU Post-operative Pain Scale,discovered,1,0.0
+1778,Discharge Score,discovered,1,0.0
+1779,DISORDERS,discovered,1,0.0
+1780,Dissociative Experience Scale,discovered,1,0.0
+1781,DISTANCE,discovered,1,0.0
+1782,Distress Scale,discovered,1,0.0
+1783,DLTs,discovered,1,0.0
+1784,DMA,discovered,1,0.0
+1785,DMC,discovered,1,0.0
+1786,DMSO,discovered,1,0.0
+1787,DN4i,discovered,1,0.0
+1788,DNAm,discovered,1,0.0
+1789,dNCR,discovered,1,0.0
+1790,DNRS,discovered,1,0.0
+1791,DO,discovered,1,0.0
+1792,DOA,discovered,1,0.0
+1793,DOES,discovered,1,0.0
+1794,Domain Score,discovered,1,0.0
+1795,Donor Sites Pain Score,discovered,1,0.0
+1796,DOSE,discovered,1,0.0
+1797,DOW,discovered,1,0.0
+1798,DP,discovered,1,0.0
+1799,DPCS,discovered,1,0.0
+1800,DPI,discovered,1,0.0
+1801,DPS,discovered,1,0.0
+1802,Drain-Site Pain Score,discovered,1,0.0
+1803,DRD2,discovered,1,0.0
+1804,DRESS,discovered,1,0.0
+1805,DROWSINESS,discovered,1,0.0
+1806,Drug Use National Survey,discovered,1,0.0
+1807,DSIRS,discovered,1,0.0
+1808,DSM-III-R,discovered,1,0.0
+1809,DSST,discovered,1,0.0
+1810,DTI,discovered,1,0.0
+1811,DTR,discovered,1,0.0
+1812,DTS,discovered,1,0.0
+1813,Duke Activity Status Index,discovered,1,0.0
+1814,During Hospitalization Knee Society Pain Score,discovered,1,0.0
+1815,During Hospitalization The Numeric Pain Scale,discovered,1,0.0
+1816,During Surgery Leiden Surgical Rating Scale,discovered,1,0.0
+1817,DVAS,discovered,1,0.0
+1818,DWI,discovered,1,0.0
+1819,DXA-,discovered,1,0.0
+1820,DXM,discovered,1,0.0
+1821,Dysphagia Survey,discovered,1,0.0
+1822,E-TRANS,discovered,1,0.0
+1823,EA1,discovered,1,0.0
+1824,Early Wound Healing Index,discovered,1,0.0
+1825,Eastern Ontario Scale,discovered,1,0.0
+1826,EAT,discovered,1,0.0
+1827,eCAP,discovered,1,0.0
+1828,Ecchymosis Score,discovered,1,0.0
+1829,ECD,discovered,1,0.0
+1830,ECG-,discovered,1,0.0
+1831,ECLIA,discovered,1,0.0
+1832,ECOHIS,discovered,1,0.0
+1833,Economic Choice Survey,discovered,1,0.0
+1834,ECW,discovered,1,0.0
+1835,ED50s,discovered,1,0.0
+1836,EDA,discovered,1,0.0
+1837,EDDY,discovered,1,0.0
+1838,EDIN,discovered,1,0.0
+1839,Edinburgh Depression Scale,discovered,1,0.0
+1840,Edinburgh Postnatal Depression Scale Pain Score,discovered,1,0.0
+1841,Edinburgh Postpartum Depression Scale Score,discovered,1,0.0
+1842,Edinnburg Depression Scale,discovered,1,0.0
+1843,Edmonton Symptom Assessment Scale,discovered,1,0.0
+1844,EDS,discovered,1,0.0
+1845,EDT,discovered,1,0.0
+1846,EDV,discovered,1,0.0
+1847,EEG-,discovered,1,0.0
+1848,Efficacy Questionnaire,discovered,1,0.0
+1849,EH427RB,discovered,1,0.0
+1850,EHI,discovered,1,0.0
+1851,EHIT,discovered,1,0.0
+1852,EHU,discovered,1,0.0
+1853,ELASA,discovered,1,0.0
+1854,Elbow Score,discovered,1,0.0
+1855,Elbow Surgeon Survey,discovered,1,0.0
+1856,Elbow Surgeons Index Scale,discovered,1,0.0
+1857,Elbow Surgeons Score,discovered,1,0.0
+1858,ELECTRONIC,discovered,1,0.0
+1859,Electronic Device Use Baseline Anxiety Score,discovered,1,0.0
+1860,ELIDA,discovered,1,0.0
+1861,ELISAs,discovered,1,0.0
+1862,ELK,discovered,1,0.0
+1863,ELK8526,discovered,1,0.0
+1864,EMERGENCE,discovered,1,0.0
+1865,Emergence Agitation Postoperative Pain Score,discovered,1,0.0
+1866,Emotional Manifestation Scale,discovered,1,0.0
+1867,EMS,discovered,1,0.0
+1868,ENV,discovered,1,0.0
+1869,EOA,discovered,1,0.0
+1870,EOPB,discovered,1,0.0
+1871,EORCT,discovered,1,0.0
+1872,EORCT-,discovered,1,0.0
+1873,EORTC-BR23,discovered,1,0.0
+1874,EORTC-QLQ,discovered,1,0.0
+1875,EORTC-QLQ-,discovered,1,0.0
+1876,EOSA,discovered,1,0.0
+1877,EOSA Score,discovered,1,0.0
+1878,Epi-PCA The Numeric Pain Scale,discovered,1,0.0
+1879,EPIC-,discovered,1,0.0
+1880,Epidemiological Studies Depression Scale,discovered,1,0.0
+1881,EPM,discovered,1,0.0
+1882,ePRO,discovered,1,0.0
+1883,Epworth Sleepiness Scale,discovered,1,0.0
+1884,Epworth Sleepiness Score,discovered,1,0.0
+1885,EQ-VASs,discovered,1,0.0
+1886,EQ50,discovered,1,0.0
+1887,EQL,discovered,1,0.0
+1888,Equanimity Scale,discovered,1,0.0
+1889,ERAS-,discovered,1,0.0
+1890,ERPs,discovered,1,0.0
+1891,ERS,discovered,1,0.0
+1892,ES,discovered,1,0.0
+1893,ES-16,discovered,1,0.0
+1894,ES-16 Scale,discovered,1,0.0
+1895,ESAS,discovered,1,0.0
+1896,ESC,discovered,1,0.0
+1897,ESM,discovered,1,0.0
+1898,ESPA,discovered,1,0.0
+1899,ESPB Pain Score,discovered,1,0.0
+1900,ESPB-,discovered,1,0.0
+1901,ESS,discovered,1,0.0
+1902,ESWL,discovered,1,0.0
+1903,ETAP,discovered,1,0.0
+1904,ETAT,discovered,1,0.0
+1905,ETT,discovered,1,0.0
+1906,EUROHIS-,discovered,1,0.0
+1907,EUROHIS-QOL Scale,discovered,1,0.0
+1908,EV50,discovered,1,0.0
+1909,EVA-,discovered,1,0.0
+1910,Evaluate Pain Scale,discovered,1,0.0
+1911,EVALUATION,discovered,1,0.0
+1912,Evaluted Pain Scores Evaluted Pain Score,discovered,1,0.0
+1913,EVAN-LR,discovered,1,0.0
+1914,Event Scale,discovered,1,0.0
+1915,Events Watson Clock Drawing Test Score,discovered,1,0.0
+1916,EVN,discovered,1,0.0
+1917,EVOLVE,discovered,1,0.0
+1918,EXTRACTION,discovered,1,0.0
+1919,Extremely Total Score,discovered,1,0.0
+1920,Eye The PRK Post-Operative Pain Survey,discovered,1,0.0
+1921,Eyelid Edema Score Ecchymosis Score,discovered,1,0.0
+1922,FAAH,discovered,1,0.0
+1923,FAAM,discovered,1,0.0
+1924,FABQw,discovered,1,0.0
+1925,Faces Anxiety Scale,discovered,1,0.0
+1926,FACES Pain Rating Scale,discovered,1,0.0
+1927,Facial Action Summary Score,discovered,1,0.0
+1928,Facial Pain Scale,discovered,1,0.0
+1929,FACT-Cx,discovered,1,0.0
+1930,FACTB4,discovered,1,0.0
+1931,FALL,discovered,1,0.0
+1932,Falling Scale,discovered,1,0.0
+1933,FAQ,discovered,1,0.0
+1934,FASS,discovered,1,0.0
+1935,Fatigue Assessment Scale,discovered,1,0.0
+1936,Fatigue Scale,discovered,1,0.0
+1937,FBC,discovered,1,0.0
+1938,FBSS,discovered,1,0.0
+1939,FDG,discovered,1,0.0
+1940,FDR,discovered,1,0.0
+1941,Fear Avoidance Beliefs Questionnaire,discovered,1,0.0
+1942,Fear Scale,discovered,1,0.0
+1943,Feasibility Survey,discovered,1,0.0
+1944,Feet Six Point Strength Scale,discovered,1,0.0
+1945,FEF,discovered,1,0.0
+1946,FESS,discovered,1,0.0
+1947,FEV-1,discovered,1,0.0
+1948,FFD,discovered,1,0.0
+1949,FFM,discovered,1,0.0
+1950,FFMQ-SF,discovered,1,0.0
+1951,FFP,discovered,1,0.0
+1952,FGA,discovered,1,0.0
+1953,Fibromyalgia Scale,discovered,1,0.0
+1954,FICB,discovered,1,0.0
+1955,FIPS,discovered,1,0.0
+1956,First Analgesia Pain Score,discovered,1,0.0
+1957,First Analgesic Request Patient Satisfaction Score,discovered,1,0.0
+1958,First Narcotic Pain Score,discovered,1,0.0
+1959,First Opioid Request Sedation Score,discovered,1,0.0
+1960,First PCA Request Pain Score,discovered,1,0.0
+1961,First Postoperative TES Session Pain Score,discovered,1,0.0
+1962,First Rescue Opioid Postoperative Pain Score,discovered,1,0.0
+1963,FIT-HaNSA,discovered,1,0.0
+1964,Five-Face Pain Scale,discovered,1,0.0
+1965,Five-Face Pain Scale Score,discovered,1,0.0
+1966,Five-point Likert Score,discovered,1,0.0
+1967,Five-point Satisfaction Scale,discovered,1,0.0
+1968,FJS,discovered,1,0.0
+1969,FKSS,discovered,1,0.0
+1970,FLACCS,discovered,1,0.0
+1971,FLAIR,discovered,1,0.0
+1972,FLIP,discovered,1,0.0
+1973,FLUKETM,discovered,1,0.0
+1974,FO,discovered,1,0.0
+1975,Follow-Up Kujala Score,discovered,1,0.0
+1976,Follow-Up Tegner Activity Scale,discovered,1,0.0
+1977,FOPQ-C,discovered,1,0.0
+1978,FOPQ-P,discovered,1,0.0
+1979,For Analgesia Treatment Investigator Satisfaction Score,discovered,1,0.0
+1980,Forgotten Joint Score Forgotten Joint Score,discovered,1,0.0
+1981,FPPAR,discovered,1,0.0
+1982,FPR,discovered,1,0.0
+1983,FPR-C,discovered,1,0.0
+1984,FPX,discovered,1,0.0
+1985,FPX25,discovered,1,0.0
+1986,FQoR-15,discovered,1,0.0
+1987,Frailty Index,discovered,1,0.0
+1988,FRANKEL,discovered,1,0.0
+1989,Freiburg Index,discovered,1,0.0
+1990,Frequency Composite Score,discovered,1,0.0
+1991,Frequency Davidson Trauma Scale,discovered,1,0.0
+1992,FRI,discovered,1,0.0
+1993,FROM,discovered,1,0.0
+1994,From Post-anesthesia Care Unit Pain Score,discovered,1,0.0
+1995,Frontal Electroencephalogram Analgesia Nociception Index,discovered,1,0.0
+1996,FS,discovered,1,0.0
+1997,FSE,discovered,1,0.0
+1998,FSFI,discovered,1,0.0
+1999,FSP-R,discovered,1,0.0
+2000,FSS,discovered,1,0.0
+2001,FTN,discovered,1,0.0
+2002,FTSST,discovered,1,0.0
+2003,FU3,discovered,1,0.0
+2004,Full Mouth Gingival Index,discovered,1,0.0
+2005,Full-Mouth Plaque Index,discovered,1,0.0
+2006,Functional Disability Index,discovered,1,0.0
+2007,Functional Independence Scale,discovered,1,0.0
+2008,Functional Low Back Pain Scale,discovered,1,0.0
+2009,FW7,discovered,1,0.0
+2010,FX301,discovered,1,0.0
+2011,G-CSF,discovered,1,0.0
+2012,G-FJS,discovered,1,0.0
+2013,GAIS,discovered,1,0.0
+2014,GAP-43,discovered,1,0.0
+2015,GAPDH,discovered,1,0.0
+2016,GARS,discovered,1,0.0
+2017,GASE,discovered,1,0.0
+2018,Gastrointestinal Function Postoperative Surgical Satisfaction Score,discovered,1,0.0
+2019,Gastrointestinal Symptom Rating Scale,discovered,1,0.0
+2020,GBS,discovered,1,0.0
+2021,GCF,discovered,1,0.0
+2022,GCH1,discovered,1,0.0
+2023,GCP,discovered,1,0.0
+2024,GCQ,discovered,1,0.0
+2025,GCRC,discovered,1,0.0
+2026,GDS,discovered,1,0.0
+2027,GDS-15,discovered,1,0.0
+2028,GEA,discovered,1,0.0
+2029,GEL,discovered,1,0.0
+2030,GENDOLCAT,discovered,1,0.0
+2031,General Activity Scale,discovered,1,0.0
+2032,General Anxiety Disorder Scale,discovered,1,0.0
+2033,General Health Questionnaire,discovered,1,0.0
+2034,General Subjective Outcome Score,discovered,1,0.0
+2035,Generalized Pain Score,discovered,1,0.0
+2036,Geriatric Depression Scale,discovered,1,0.0
+2037,German Forgotten Joint Score,discovered,1,0.0
+2038,German Pain Questionnaire,discovered,1,0.0
+2039,GESM,discovered,1,0.0
+2040,GHQ-12,discovered,1,0.0
+2041,GI-,discovered,1,0.0
+2042,GI-2,discovered,1,0.0
+2043,GI-3,discovered,1,0.0
+2044,GIC,discovered,1,0.0
+2045,GIT,discovered,1,0.0
+2046,Global Aesthetic Improvement Scale,discovered,1,0.0
+2047,Global Assessment Scale Score,discovered,1,0.0
+2048,Global Health Questionnaire,discovered,1,0.0
+2049,Global Mental Health Score,discovered,1,0.0
+2050,Global Perceived Effect Scale,discovered,1,0.0
+2051,Global Severity Index,discovered,1,0.0
+2052,Global Surgical Recovery Index,discovered,1,0.0
+2053,GLUBRAN,discovered,1,0.0
+2054,GMR,discovered,1,0.0
+2055,GOAL,discovered,1,0.0
+2056,Goldberg Scale,discovered,1,0.0
+2057,GPE Scale,discovered,1,0.0
+2058,GPE-DV,discovered,1,0.0
+2059,GPX1,discovered,1,0.0
+2060,GRACE,discovered,1,0.0
+2061,Gracely Box Scale,discovered,1,0.0
+2062,Graded Chronic Pain Scale,discovered,1,0.0
+2063,Graphic Rating Scale,discovered,1,0.0
+2064,Groningen Activity Restriction Scale,discovered,1,0.0
+2065,Group Presence Questionnaire,discovered,1,0.0
+2066,Groups Pain Score,discovered,1,0.0
+2067,GRT7014,discovered,1,0.0
+2068,GRW,discovered,1,0.0
+2069,GSE,discovered,1,0.0
+2070,GSES,discovered,1,0.0
+2071,GSH,discovered,1,0.0
+2072,GSI,discovered,1,0.0
+2073,GSNP,discovered,1,0.0
+2074,GSOS,discovered,1,0.0
+2075,GSRS,discovered,1,0.0
+2076,GSSG,discovered,1,0.0
+2077,GWAS,discovered,1,0.0
+2078,GZMB,discovered,1,0.0
+2079,H0-H12,discovered,1,0.0
+2080,H13-H24,discovered,1,0.0
+2081,H2O,discovered,1,0.0
+2082,H2O2,discovered,1,0.0
+2083,HAM-D,discovered,1,0.0
+2084,HAMD Depression Scale,discovered,1,0.0
+2085,HAMD-17,discovered,1,0.0
+2086,Hamilton Anxiety Scale,discovered,1,0.0
+2087,HAS,discovered,1,0.0
+2088,HbO,discovered,1,0.0
+2089,HbR,discovered,1,0.0
+2090,HCAHP,discovered,1,0.0
+2091,HCHAPS,discovered,1,0.0
+2092,HCI,discovered,1,0.0
+2093,HCRP,discovered,1,0.0
+2094,HCRU,discovered,1,0.0
+2095,HDL,discovered,1,0.0
+2096,HDPA,discovered,1,0.0
+2097,HDT,discovered,1,0.0
+2098,Healing Index,discovered,1,0.0
+2099,Healing-40 Scale,discovered,1,0.0
+2100,HEALTH,discovered,1,0.0
+2101,Health State Profile,discovered,1,0.0
+2102,Health State Profile Score,discovered,1,0.0
+2103,Health Status Index,discovered,1,0.0
+2104,Health Status Score,discovered,1,0.0
+2105,Health Via Female Sexual Function Index,discovered,1,0.0
+2106,Health-Related Quality-of-Life Score,discovered,1,0.0
+2107,HEART,discovered,1,0.0
+2108,Heart Rate Sedation Score,discovered,1,0.0
+2109,HEATMAP,discovered,1,0.0
+2110,HEMO-FISS-,discovered,1,0.0
+2111,Hemodynamic Profile,discovered,1,0.0
+2112,Hemoglobin Level Change Knee Society Score,discovered,1,0.0
+2113,Hemorrhoidal Disease Symptom Score,discovered,1,0.0
+2114,HEP,discovered,1,0.0
+2115,HF10,discovered,1,0.0
+2116,HFS,discovered,1,0.0
+2117,HGB,discovered,1,0.0
+2118,HGS,discovered,1,0.0
+2119,HHD,discovered,1,0.0
+2120,HIGH,discovered,1,0.0
+2121,Highest Pain Intensity Score,discovered,1,0.0
+2122,Highest Pain Score,discovered,1,0.0
+2123,Highest Possible Score,discovered,1,0.0
+2124,Highest Score,discovered,1,0.0
+2125,Hip Outcomes Score,discovered,1,0.0
+2126,HK,discovered,1,0.0
+2127,HKA,discovered,1,0.0
+2128,HM,discovered,1,0.0
+2129,HNE,discovered,1,0.0
+2130,HNF,discovered,1,0.0
+2131,Holistic Well-being Scale,discovered,1,0.0
+2132,Hollander Wound Evaluation Scale,discovered,1,0.0
+2133,HOMA-IR,discovered,1,0.0
+2134,Hospital Anxiety Depression Scale,discovered,1,0.0
+2135,Hospital Anxiety Scale,discovered,1,0.0
+2136,Hospital Estern Ontario Pain Scale,discovered,1,0.0
+2137,Hospital Pain Score Pain Score,discovered,1,0.0
+2138,Hospital Post-operative Numerical Rating Score,discovered,1,0.0
+2139,Hospital Stay Intraoperative Analgesia Nociception Index,discovered,1,0.0
+2140,Hospital Stay Mean Pain Score,discovered,1,0.0
+2141,Hospital Stay Median Pain Score,discovered,1,0.0
+2142,Hospital Stay Visual Analog Pain Score,discovered,1,0.0
+2143,Hour After PACU Arrival Pain Score,discovered,1,0.0
+2144,Hour After Surgery Postoperative Pain Score,discovered,1,0.0
+2145,Hour Pain Score,discovered,1,0.0
+2146,Hour Post-intervention Score,discovered,1,0.0
+2147,Hour Total Opioid Consumption Pain Score,discovered,1,0.0
+2148,Hours After Extubation Pain Score,discovered,1,0.0
+2149,Hours After PACU Arrival Pain Score,discovered,1,0.0
+2150,Hours After Surgery Cumulative Nausea Score,discovered,1,0.0
+2151,Hours After Surgery Resting Pain Score,discovered,1,0.0
+2152,Hours Average Pain Scores Nausea Score,discovered,1,0.0
+2153,Hours Compare Pain Score,discovered,1,0.0
+2154,Hours Cumulative Pain Score,discovered,1,0.0
+2155,Hours Following Cesarean Post-operative Pain Score,discovered,1,0.0
+2156,Hours In Skin Irritation Score,discovered,1,0.0
+2157,Hours Post Surgical Intervention Pain Score,discovered,1,0.0
+2158,Hours Post-op Pain Score,discovered,1,0.0
+2159,Hours Post-op Worst Pain Rating Score,discovered,1,0.0
+2160,Hours Post-operative Post-operative Pain Score,discovered,1,0.0
+2161,Hours Postoperative Scale,discovered,1,0.0
+2162,Hours Postoperatively Postoperative Pain Intensity Score,discovered,1,0.0
+2163,Hours Postoperatively Postoperative Pain Score,discovered,1,0.0
+2164,Hours Resting Postoperative Pain Score,discovered,1,0.0
+2165,Hours Sedation Score,discovered,1,0.0
+2166,How I Feel Questionnaire,discovered,1,0.0
+2167,HPR,discovered,1,0.0
+2168,HR-QOL,discovered,1,0.0
+2169,HRs,discovered,1,0.0
+2170,HS,discovered,1,0.0
+2171,HSK55718,discovered,1,0.0
+2172,HT,discovered,1,0.0
+2173,HT3,discovered,1,0.0
+2174,HTX-034,discovered,1,0.0
+2175,HU,discovered,1,0.0
+2176,HUNT,discovered,1,0.0
+2177,HUNT1,discovered,1,0.0
+2178,HUNT3,discovered,1,0.0
+2179,HVAS,discovered,1,0.0
+2180,Hydromorphone Plasma Concentrations Numerical Rating Score,discovered,1,0.0
+2181,Hydromorphone Use Pain Score,discovered,1,0.0
+2182,Hypnotic Induction Profile,discovered,1,0.0
+2183,Hypotension Bradycardia Sedation Score,discovered,1,0.0
+2184,Hypoxemia Time-weighted Pain Score,discovered,1,0.0
+2185,I-FABP,discovered,1,0.0
+2186,I-FEED Scale,discovered,1,0.0
+2187,I-FEED Score,discovered,1,0.0
+2188,IA,discovered,1,0.0
+2189,IADLs,discovered,1,0.0
+2190,IBI,discovered,1,0.0
+2191,IBPB,discovered,1,0.0
+2192,IBR,discovered,1,0.0
+2193,IBW,discovered,1,0.0
+2194,ICAM-1,discovered,1,0.0
+2195,ICAN,discovered,1,0.0
+2196,ICD-10,discovered,1,0.0
+2197,ICERs,discovered,1,0.0
+2198,ICH,discovered,1,0.0
+2199,ICIQ-UI,discovered,1,0.0
+2200,ICNB,discovered,1,0.0
+2201,ICOAP,discovered,1,0.0
+2202,ID-NeP,discovered,1,0.0
+2203,IDAF-4C,discovered,1,0.0
+2204,IDC,discovered,1,0.0
+2205,IDE,discovered,1,0.0
+2206,Identification Pain Questionnaire,discovered,1,0.0
+2207,IEM,discovered,1,0.0
+2208,IEQ,discovered,1,0.0
+2209,IEQ-N,discovered,1,0.0
+2210,IES,discovered,1,0.0
+2211,IgA,discovered,1,0.0
+2212,II-IV,discovered,1,0.0
+2213,III Mean Score,discovered,1,0.0
+2214,IINB,discovered,1,0.0
+2215,IKDC Questionnaire,discovered,1,0.0
+2216,IKS,discovered,1,0.0
+2217,IL-11,discovered,1,0.0
+2218,IL-16,discovered,1,0.0
+2219,IL-17f,discovered,1,0.0
+2220,IL-1a,discovered,1,0.0
+2221,IL-1RA,discovered,1,0.0
+2222,IL-22,discovered,1,0.0
+2223,IL-23p40,discovered,1,0.0
+2224,IL-3,discovered,1,0.0
+2225,IL-9,discovered,1,0.0
+2226,IL12,discovered,1,0.0
+2227,IL17A,discovered,1,0.0
+2228,IL1b,discovered,1,0.0
+2229,IL2,discovered,1,0.0
+2230,Illness Scale,discovered,1,0.0
+2231,ILs,discovered,1,0.0
+2232,IMA24h,discovered,1,0.0
+2233,IMA48h,discovered,1,0.0
+2234,IMA72h,discovered,1,0.0
+2235,iMCQ,discovered,1,0.0
+2236,IME,discovered,1,0.0
+2237,IMN,discovered,1,0.0
+2238,IMPACT,discovered,1,0.0
+2239,Impact Scale,discovered,1,0.0
+2240,Impact Score,discovered,1,0.0
+2241,Improvement Scale,discovered,1,0.0
+2242,In-hospital Postoperative Opioid Consumption Pain Score,discovered,1,0.0
+2243,INC,discovered,1,0.0
+2244,Incision Pain Score,discovered,1,0.0
+2245,Induced Sedation Scale,discovered,1,0.0
+2246,Information Score Scale,discovered,1,0.0
+2247,Information System Score,discovered,1,0.0
+2248,INGESTED,discovered,1,0.0
+2249,INGESTION,discovered,1,0.0
+2250,Inguinal Pain Questionnaire,discovered,1,0.0
+2251,INJURY,discovered,1,0.0
+2252,Injury Severity Score,discovered,1,0.0
+2253,Injustice Experience Questionnaire,discovered,1,0.0
+2254,INL,discovered,1,0.0
+2255,INL-001,discovered,1,0.0
+2256,Inpatient Floor Postoperative Pain Score,discovered,1,0.0
+2257,Inpatient Pain Management Experience Survey,discovered,1,0.0
+2258,Inpatient Postoperative Pain Score,discovered,1,0.0
+2259,INPATSAT32,discovered,1,0.0
+2260,INRS,discovered,1,0.0
+2261,INTAKE,discovered,1,0.0
+2262,Integrated Pulmonary Index,discovered,1,0.0
+2263,INTERFERE,discovered,1,0.0
+2264,INTERFERED,discovered,1,0.0
+2265,International Pain Out Questionnaire,discovered,1,0.0
+2266,International Physical Activity Questionnaire,discovered,1,0.0
+2267,Interoceptive Awareness Scale,discovered,1,0.0
+2268,Interscalene Block Administration Oxford Shoulder Score,discovered,1,0.0
+2269,Intraoperative Heart Rate Patient Satisfaction Score,discovered,1,0.0
+2270,Intraoperative Remifentanyl Consumption Pain Score,discovered,1,0.0
+2271,Intravenous Morphine Equivalents Pain Score,discovered,1,0.0
+2272,Intubation Difficulty Scale,discovered,1,0.0
+2273,Investigator Body Mass Index,discovered,1,0.0
+2274,Investigator Satisfaction Score,discovered,1,0.0
+2275,INVOLVE,discovered,1,0.0
+2276,INVOS,discovered,1,0.0
+2277,IONSYS,discovered,1,0.0
+2278,IONV,discovered,1,0.0
+2279,IOP,discovered,1,0.0
+2280,IPAQ,discovered,1,0.0
+2281,iPCQ,discovered,1,0.0
+2282,IPG,discovered,1,0.0
+2283,IPI,discovered,1,0.0
+2284,IPMOE,discovered,1,0.0
+2285,IPOM,discovered,1,0.0
+2286,IPQ,discovered,1,0.0
+2287,IPRF,discovered,1,0.0
+2288,IRT,discovered,1,0.0
+2289,IS,discovered,1,0.0
+2290,ISI Charlson Comorbidity Index,discovered,1,0.0
+2291,Isoflurane Ramsay Sedation Scale,discovered,1,0.0
+2292,ISS,discovered,1,0.0
+2293,ITAKI,discovered,1,0.0
+2294,Itaki Fall Risk Scale,discovered,1,0.0
+2295,Item Index,discovered,1,0.0
+2296,Item Short Form Health Status Survey,discovered,1,0.0
+2297,ITM,discovered,1,0.0
+2298,IV Fluid Visual Analogue Pain Scale,discovered,1,0.0
+2299,IVCM,discovered,1,0.0
+2300,IVI,discovered,1,0.0
+2301,IVL,discovered,1,0.0
+2302,IVME,discovered,1,0.0
+2303,IVS,discovered,1,0.0
+2304,JAMAR,discovered,1,0.0
+2305,Japanese Orthopaedic Association Score,discovered,1,0.0
+2306,JF,discovered,1,0.0
+2307,JOA,discovered,1,0.0
+2308,Joint Replacement Forgotten Joint Score,discovered,1,0.0
+2309,JRSC,discovered,1,0.0
+2310,K-DVRPS,discovered,1,0.0
+2311,K0-K3,discovered,1,0.0
+2312,K15210D,discovered,1,0.0
+2313,KA,discovered,1,0.0
+2314,Karnofsky Performance Scale Index,discovered,1,0.0
+2315,Katz Index,discovered,1,0.0
+2316,KDIGO,discovered,1,0.0
+2317,KE,discovered,1,0.0
+2318,Kess Score,discovered,1,0.0
+2319,Kessler Psychological Distress Scale,discovered,1,0.0
+2320,KGW,discovered,1,0.0
+2321,KILLER,discovered,1,0.0
+2322,Knee Oxford Score,discovered,1,0.0
+2323,Knee Society Knee Function Score,discovered,1,0.0
+2324,Knee Society Rating Scale,discovered,1,0.0
+2325,Knowledge Score,discovered,1,0.0
+2326,Kolcaba Scale Score,discovered,1,0.0
+2327,KPR,discovered,1,0.0
+2328,KSKS,discovered,1,0.0
+2329,KTW,discovered,1,0.0
+2330,KUSS,discovered,1,0.0
+2331,KYNA,discovered,1,0.0
+2332,L2-S1,discovered,1,0.0
+2333,Landry Healing Index,discovered,1,0.0
+2334,Landry Index,discovered,1,0.0
+2335,Landry Wound Healing Index,discovered,1,0.0
+2336,Landry Wound Healing Index Score,discovered,1,0.0
+2337,LANNS,discovered,1,0.0
+2338,LAQ,discovered,1,0.0
+2339,LAS,discovered,1,0.0
+2340,LASKIN,discovered,1,0.0
+2341,LASSO,discovered,1,0.0
+2342,LATAP,discovered,1,0.0
+2343,LC-13,discovered,1,0.0
+2344,LC-MS,discovered,1,0.0
+2345,LC-MS-MS,discovered,1,0.0
+2346,LCI,discovered,1,0.0
+2347,LCI-5,discovered,1,0.0
+2348,LDA,discovered,1,0.0
+2349,LDH,discovered,1,0.0
+2350,LDL,discovered,1,0.0
+2351,LE,discovered,1,0.0
+2352,LED,discovered,1,0.0
+2353,LEEP,discovered,1,0.0
+2354,LEG,discovered,1,0.0
+2355,LEPs,discovered,1,0.0
+2356,Level Scale,discovered,1,0.0
+2357,Levels Brief Pain Scale,discovered,1,0.0
+2358,Levine Adherence Scale,discovered,1,0.0
+2359,Life Questionnaire Score,discovered,1,0.0
+2360,Life Short-Form Survey,discovered,1,0.0
+2361,Life Via Endometriosis Health Profile,discovered,1,0.0
+2362,Likert Scale Questionnaire,discovered,1,0.0
+2363,Likert-pain Scale Score,discovered,1,0.0
+2364,Limb Symmetry Index,discovered,1,0.0
+2365,LIPA,discovered,1,0.0
+2366,LK,discovered,1,0.0
+2367,LLP,discovered,1,0.0
+2368,LMX4,discovered,1,0.0
+2369,LOC,discovered,1,0.0
+2370,Locomotor Capabilities Index,discovered,1,0.0
+2371,Locomotor Capability Index,discovered,1,0.0
+2372,Log Score,discovered,1,0.0
+2373,LOH,discovered,1,0.0
+2374,Long Scale,discovered,1,0.0
+2375,LOT-R,discovered,1,0.0
+2376,Lower Extremity Functional Scale,discovered,1,0.0
+2377,Lower Extremity Functional Score,discovered,1,0.0
+2378,Lower Score,discovered,1,0.0
+2379,Lowest RASS Score,discovered,1,0.0
+2380,Lowest Subjective Pain Score,discovered,1,0.0
+2381,lPACK,discovered,1,0.0
+2382,LPB,discovered,1,0.0
+2383,LPB-,discovered,1,0.0
+2384,LPK,discovered,1,0.0
+2385,LPPS,discovered,1,0.0
+2386,LPR,discovered,1,0.0
+2387,LR,discovered,1,0.0
+2388,LRA,discovered,1,0.0
+2389,LRS,discovered,1,0.0
+2390,LRT,discovered,1,0.0
+2391,LSD,discovered,1,0.0
+2392,LSEQ,discovered,1,0.0
+2393,m-POSS,discovered,1,0.0
+2394,m-YPAS-SF,discovered,1,0.0
+2395,MABP,discovered,1,0.0
+2396,Mac Gill Pain Questionnaire,discovered,1,0.0
+2397,Macqill Pain Questionnaire,discovered,1,0.0
+2398,MADRS,discovered,1,0.0
+2399,MAIA,discovered,1,0.0
+2400,Manage My Pain Platform Survey,discovered,1,0.0
+2401,MANAGEMENT,discovered,1,0.0
+2402,MANDIBULAR,discovered,1,0.0
+2403,Mandibular Second Molar Gingival Index Score,discovered,1,0.0
+2404,MAO,discovered,1,0.0
+2405,MAP60-,discovered,1,0.0
+2406,MAPS,discovered,1,0.0
+2407,MAR1,discovered,1,0.0
+2408,MAS,discovered,1,0.0
+2409,MASF,discovered,1,0.0
+2410,Mastectomy Oral Opioids Consumption Pain Score,discovered,1,0.0
+2411,MAXIMUM,discovered,1,0.0
+2412,Maximum Pain Intensity Score,discovered,1,0.0
+2413,Maximum Possible TOTPAR6 Score,discovered,1,0.0
+2414,Maximum Sedation Score,discovered,1,0.0
+2415,MAXPID,discovered,1,0.0
+2416,MCAF,discovered,1,0.0
+2417,MCB,discovered,1,0.0
+2418,MCDAS,discovered,1,0.0
+2419,MCDASf,discovered,1,0.0
+2420,McGILL,discovered,1,0.0
+2421,McGill Pain Affective Score,discovered,1,0.0
+2422,McGill Pain Index,discovered,1,0.0
+2423,McGill Pain Intensity Score,discovered,1,0.0
+2424,McGill Pain Score,discovered,1,0.0
+2425,McGill Questionnaire,discovered,1,0.0
+2426,McGill Short Form Pain Questionnaire,discovered,1,0.0
+2427,McGill-Melzack Pain Questionnaire,discovered,1,0.0
+2428,McGrath Color Analog Scale,discovered,1,0.0
+2429,McMaster University Arthritis Index,discovered,1,0.0
+2430,McMaster University Osteoarthritis Index,discovered,1,0.0
+2431,MCOS,discovered,1,0.0
+2432,MCP-4,discovered,1,0.0
+2433,MCP1,discovered,1,0.0
+2434,MCP9819-,discovered,1,0.0
+2435,MCSS,discovered,1,0.0
+2436,MDADI,discovered,1,0.0
+2437,MDC,discovered,1,0.0
+2438,MDE,discovered,1,0.0
+2439,MDK,discovered,1,0.0
+2440,MDMA,discovered,1,0.0
+2441,MDRD,discovered,1,0.0
+2442,MDS,discovered,1,0.0
+2443,MDSC,discovered,1,0.0
+2444,MDT,discovered,1,0.0
+2445,ME0-48,discovered,1,0.0
+2446,MEAD,discovered,1,0.0
+2447,Mealtime Assessment Scale,discovered,1,0.0
+2448,MEASURING,discovered,1,0.0
+2449,MEC-1000,discovered,1,0.0
+2450,Median Pain Scores Median Pain Score,discovered,1,0.0
+2451,Medical Consumption Questionnaire,discovered,1,0.0
+2452,Medication Characteristics Pain Treatment Satisfaction Scale,discovered,1,0.0
+2453,MEGX,discovered,1,0.0
+2454,MEHI,discovered,1,0.0
+2455,Melbourne Group Scale,discovered,1,0.0
+2456,Memorial Delirium Assessment Scale,discovered,1,0.0
+2457,Mental Component Summary Score,discovered,1,0.0
+2458,Mental Health Component Summary Score,discovered,1,0.0
+2459,Mental Health Questionnaire,discovered,1,0.0
+2460,Meso Scale,discovered,1,0.0
+2461,MET,discovered,1,0.0
+2462,MFAC,discovered,1,0.0
+2463,MFI,discovered,1,0.0
+2464,MGJ,discovered,1,0.0
+2465,MgSO4,discovered,1,0.0
+2466,mHHS,discovered,1,0.0
+2467,MHP,discovered,1,0.0
+2468,MICB,discovered,1,0.0
+2469,Michigan Sedation Scale,discovered,1,0.0
+2470,MICS,discovered,1,0.0
+2471,MILIMETERS,discovered,1,0.0
+2472,Mindfulness Attention Awareness Scale Score,discovered,1,0.0
+2473,Mindfulness Score,discovered,1,0.0
+2474,MINS,discovered,1,0.0
+2475,Minutes Postoperative Scale,discovered,1,0.0
+2476,MIO,discovered,1,0.0
+2477,MIRPE,discovered,1,0.0
+2478,Missing Data Among All Questionnaire,discovered,1,0.0
+2479,MITS,discovered,1,0.0
+2480,mLO2,discovered,1,0.0
+2481,MLP,discovered,1,0.0
+2482,MM,discovered,1,0.0
+2483,MMA,discovered,1,0.0
+2484,MME Pain Scores Pain Score,discovered,1,0.0
+2485,MME Rhodes Index,discovered,1,0.0
+2486,MME24h,discovered,1,0.0
+2487,MME48h,discovered,1,0.0
+2488,MME72h,discovered,1,0.0
+2489,MMEQ,discovered,1,0.0
+2490,MMOD,discovered,1,0.0
+2491,MMP-3,discovered,1,0.0
+2492,MMRM,discovered,1,0.0
+2493,MN,discovered,1,0.0
+2494,MNE,discovered,1,0.0
+2495,mNVS,discovered,1,0.0
+2496,MO,discovered,1,0.0
+2497,MOAS,discovered,1,0.0
+2498,Mobility Scale Total Score,discovered,1,0.0
+2499,Mobility Scale-HHO Observer Mobility Scale,discovered,1,0.0
+2500,Mobility Score,discovered,1,0.0
+2501,Mobilization Maximum Pain Score,discovered,1,0.0
+2502,MODIFIED,discovered,1,0.0
+2503,MOLARS,discovered,1,0.0
+2504,Monitoring-Related Anxiety Scale,discovered,1,0.0
+2505,Montgomery Depression Scale,discovered,1,0.0
+2506,MONTH,discovered,1,0.0
+2507,Month Pharmacokinetic Profile,discovered,1,0.0
+2508,Months Acute Postoperative Pain Score,discovered,1,0.0
+2509,Months Pain Score,discovered,1,0.0
+2510,Months Pharmacokinetic Profile,discovered,1,0.0
+2511,MOOD,discovered,1,0.0
+2512,MORPHINE,discovered,1,0.0
+2513,Morphine Consumption Postoperative Pain Score,discovered,1,0.0
+2514,Morphine Equivalents Cumulative Pain Score,discovered,1,0.0
+2515,Morphine Request Pain Intensity Score,discovered,1,0.0
+2516,Morphine Requirement Average Pain Score,discovered,1,0.0
+2517,MOS-Sleep Scale,discovered,1,0.0
+2518,Motor Function Satisfaction Score,discovered,1,0.0
+2519,Movement Imagery Questionnaire,discovered,1,0.0
+2520,Movement Score Mean Daily Pain Score,discovered,1,0.0
+2521,Movement-related Pain Score,discovered,1,0.0
+2522,MOWAC,discovered,1,0.0
+2523,MP160,discovered,1,0.0
+2524,MPADSS Score,discovered,1,0.0
+2525,MPAR,discovered,1,0.0
+2526,MPB,discovered,1,0.0
+2527,mPFC,discovered,1,0.0
+2528,MPFI,discovered,1,0.0
+2529,MPR,discovered,1,0.0
+2530,MPT,discovered,1,0.0
+2531,MR-,discovered,1,0.0
+2532,MR308,discovered,1,0.0
+2533,MRA,discovered,1,0.0
+2534,MRC Scale,discovered,1,0.0
+2535,MRM,discovered,1,0.0
+2536,mRR,discovered,1,0.0
+2537,MSA,discovered,1,0.0
+2538,MSE,discovered,1,0.0
+2539,MSKCC,discovered,1,0.0
+2540,MSO4,discovered,1,0.0
+2541,MSPSS,discovered,1,0.0
+2542,MSTS,discovered,1,0.0
+2543,MT,discovered,1,0.0
+2544,MTA,discovered,1,0.0
+2545,MTS,discovered,1,0.0
+2546,MU,discovered,1,0.0
+2547,MUCH,discovered,1,0.0
+2548,Multidimensional Psychological Flexibility Inventory,discovered,1,0.0
+2549,Multidisciplinary Pain Inventory,discovered,1,0.0
+2550,Muscle Grading Score,discovered,1,0.0
+2551,Muscle Power Scale,discovered,1,0.0
+2552,Musculoskeletal Pain Screening Questionnaire,discovered,1,0.0
+2553,MVD,discovered,1,0.0
+2554,MVPA,discovered,1,0.0
+2555,MVRS,discovered,1,0.0
+2556,MVV,discovered,1,0.0
+2557,mYPAS-C,discovered,1,0.0
+2558,N-DSS,discovered,1,0.0
+2559,N-PASS Pain Scale,discovered,1,0.0
+2560,N2O,discovered,1,0.0
+2561,NAC,discovered,1,0.0
+2562,NACS,discovered,1,0.0
+2563,Narcotic Requirement Pain Score,discovered,1,0.0
+2564,Narcotic Use Total Urinary Symptoms Score,discovered,1,0.0
+2565,Nause Intensity Scale,discovered,1,0.0
+2566,NAUSEA,discovered,1,0.0
+2567,Nausea Nausea Score Score,discovered,1,0.0
+2568,nCAP,discovered,1,0.0
+2569,NCCPC-R,discovered,1,0.0
+2570,NCCT,discovered,1,0.0
+2571,NCCTG,discovered,1,0.0
+2572,NCFL,discovered,1,0.0
+2573,NCS,discovered,1,0.0
+2574,NE,discovered,1,0.0
+2575,NEADL,discovered,1,0.0
+2576,NECROTIC,discovered,1,0.0
+2577,Negative Affect Score,discovered,1,0.0
+2578,Negative Affective Scale,discovered,1,0.0
+2579,NEO-PI-R,discovered,1,0.0
+2580,Neonatal Apgar Score,discovered,1,0.0
+2581,Neonatal Pain Scale,discovered,1,0.0
+2582,NeP,discovered,1,0.0
+2583,NEUROCUPLE,discovered,1,0.0
+2584,Neuropathy Pain Scale,discovered,1,0.0
+2585,New Castle Nursing Care Satisfaction Scale,discovered,1,0.0
+2586,NFIR,discovered,1,0.0
+2587,NFSC,discovered,1,0.0
+2588,NGF,discovered,1,0.0
+2589,NICOM,discovered,1,0.0
+2590,NIF,discovered,1,0.0
+2591,NIM-EMG,discovered,1,0.0
+2592,NIMV,discovered,1,0.0
+2593,NIPCTM,discovered,1,0.0
+2594,NIPE,discovered,1,0.0
+2595,NIV,discovered,1,0.0
+2596,NLP,discovered,1,0.0
+2597,NM,discovered,1,0.0
+2598,NMS,discovered,1,0.0
+2599,NMUPO,discovered,1,0.0
+2600,NN,discovered,1,0.0
+2601,nNRS,discovered,1,0.0
+2602,Nociceptive Index,discovered,1,0.0
+2603,NON-FORCED,discovered,1,0.0
+2604,Non-narcotic Analgesic Consumption Functional Recovery Questionnaire,discovered,1,0.0
+2605,Noncompliance Lowest Score,discovered,1,0.0
+2606,NONMEM,discovered,1,0.0
+2607,Norwegian Injustice Experience Questionnaire,discovered,1,0.0
+2608,NP4,discovered,1,0.0
+2609,NPA,discovered,1,0.0
+2610,NPDS,discovered,1,0.0
+2611,NPi,discovered,1,0.0
+2612,NPR,discovered,1,0.0
+2613,nPRD,discovered,1,0.0
+2614,NRC,discovered,1,0.0
+2615,NRS11,discovered,1,0.0
+2616,NRSs,discovered,1,0.0
+2617,NRSSPI,discovered,1,0.0
+2618,NRT,discovered,1,0.0
+2619,NS,discovered,1,0.0
+2620,NSAII,discovered,1,0.0
+2621,NSDUH,discovered,1,0.0
+2622,NSE,discovered,1,0.0
+2623,NSQIP,discovered,1,0.0
+2624,NSS,discovered,1,0.0
+2625,NT-PRO-BNP,discovered,1,0.0
+2626,NTP,discovered,1,0.0
+2627,NuDESC,discovered,1,0.0
+2628,Number Pain Rating Scale,discovered,1,0.0
+2629,Numerating Rating Scale,discovered,1,0.0
+2630,Numeric Analog Scale,discovered,1,0.0
+2631,Numeric Pain Distress Pain Scale,discovered,1,0.0
+2632,Numeric Ranking Scale,discovered,1,0.0
+2633,NUMERICAL,discovered,1,0.0
+2634,Numerical Analog Score,discovered,1,0.0
+2635,Numerical Ranking Scale,discovered,1,0.0
+2636,Numerical Rate Scale,discovered,1,0.0
+2637,Numerical Ratings Scale,discovered,1,0.0
+2638,Numerical Ratings Score,discovered,1,0.0
+2639,Numerical Response Scale,discovered,1,0.0
+2640,Nummerical Rating Scale,discovered,1,0.0
+2641,Nurse Questionnaire,discovered,1,0.0
+2642,Nursing Care Scale,discovered,1,0.0
+2643,Nursing Communication Quality Scale,discovered,1,0.0
+2644,Nursing Staff Questionnaire,discovered,1,0.0
+2645,Nutrition Score,discovered,1,0.0
+2646,NV,discovered,1,0.0
+2647,OABS,discovered,1,0.0
+2648,OAG,discovered,1,0.0
+2649,OAS,discovered,1,0.0
+2650,Objective Assessment Scale,discovered,1,0.0
+2651,Objective Pain Scale,discovered,1,0.0
+2652,Observer Scale,discovered,1,0.0
+2653,Observer Scar Rating Scale,discovered,1,0.0
+2654,Obstetric Quality-of-Recovery Score,discovered,1,0.0
+2655,OCN,discovered,1,0.0
+2656,OCS-01,discovered,1,0.0
+2657,Ocular Pain Assessment Scale,discovered,1,0.0
+2658,Ocular Pain Assessment Survey,discovered,1,0.0
+2659,Ocular Pain Grading Scale,discovered,1,0.0
+2660,ODQ,discovered,1,0.0
+2661,OE,discovered,1,0.0
+2662,OH-,discovered,1,0.0
+2663,OHIP-14 Score,discovered,1,0.0
+2664,OHIP-17,discovered,1,0.0
+2665,OHIP-5,discovered,1,0.0
+2666,OHIP14,discovered,1,0.0
+2667,OHQoL,discovered,1,0.0
+2668,OIRD,discovered,1,0.0
+2669,OK,discovered,1,0.0
+2670,OMED,discovered,1,0.0
+2671,OMEDD,discovered,1,0.0
+2672,OMEQs,discovered,1,0.0
+2673,OMME,discovered,1,0.0
+2674,OMS103HP-S,discovered,1,0.0
+2675,OMS302,discovered,1,0.0
+2676,ON-Q,discovered,1,0.0
+2677,ONLY,discovered,1,0.0
+2678,OOB,discovered,1,0.0
+2679,OPAS,discovered,1,0.0
+2680,OPD,discovered,1,0.0
+2681,OPDS,discovered,1,0.0
+2682,Operating Procedure Time Pain Score,discovered,1,0.0
+2683,Operating Room Discharge Score,discovered,1,0.0
+2684,Operating Room Pain Score,discovered,1,0.0
+2685,Operating Time Mean Digital Pain Scale,discovered,1,0.0
+2686,Operative Severity Score,discovered,1,0.0
+2687,Opiate Related Symptom Distress Scale,discovered,1,0.0
+2688,Opiate Requirement Average Pain Score,discovered,1,0.0
+2689,Opioid Analgesia Consumption Pain Score,discovered,1,0.0
+2690,Opioid Consumed Visual Analog Pain Score,discovered,1,0.0
+2691,Opioid Consumption Average Postoperative Pain Score,discovered,1,0.0
+2692,Opioid Consumption Maximum Post-operative Pain Score,discovered,1,0.0
+2693,Opioid Consumption ObsQoR-11 Survey,discovered,1,0.0
+2694,Opioid Consumption Postoperative Pain Score,discovered,1,0.0
+2695,Opioid Consumption Sedation Scale,discovered,1,0.0
+2696,Opioid Consumption Time-weighted Average Pain Score,discovered,1,0.0
+2697,Opioid Consumption Verbal Analog Pain Score,discovered,1,0.0
+2698,Opioid Consumption Visual Analogue Pain Score,discovered,1,0.0
+2699,Opioid Refill Requests Inpatient Pain Score,discovered,1,0.0
+2700,Opioid Requirements Post Operative Pain Score,discovered,1,0.0
+2701,Opioid Use Average Pain Score,discovered,1,0.0
+2702,Opioid Use Pain Score,discovered,1,0.0
+2703,Opioid Utilization Postoperative Inpatient Pain Score,discovered,1,0.0
+2704,Opioid-related Symptoms Distress Scale,discovered,1,0.0
+2705,Opioid-spared Percentage Edinburgh Postpartum Depression Scale,discovered,1,0.0
+2706,Opioids Average Daily In-Hospital Pain Score,discovered,1,0.0
+2707,Opioids Following Surgery Integrated Analgesic Score,discovered,1,0.0
+2708,Opioids Used Pain Score,discovered,1,0.0
+2709,OPP,discovered,1,0.0
+2710,OPRM1,discovered,1,0.0
+2711,OPUS Lower Extremity Functional Scale,discovered,1,0.0
+2712,OPUS-LEFS,discovered,1,0.0
+2713,OPUS-UEFS,discovered,1,0.0
+2714,ORAEs,discovered,1,0.0
+2715,Oral Analgesia Consumption Self-report Pain Score,discovered,1,0.0
+2716,Oral Analgesic Consumption-2 Wound Healing Score,discovered,1,0.0
+2717,Oral Health Impaction Profile,discovered,1,0.0
+2718,Oral Intake Numeric Pain Score,discovered,1,0.0
+2719,Ordinal Rating Scale,discovered,1,0.0
+2720,OROS,discovered,1,0.0
+2721,OSA,discovered,1,0.0
+2722,OSAS,discovered,1,0.0
+2723,OSCAR,discovered,1,0.0
+2724,OSCTAB,discovered,1,0.0
+2725,OSTAP,discovered,1,0.0
+2726,Osteoarthritis Index,discovered,1,0.0
+2727,Osteoarthritis Outcomes Score,discovered,1,0.0
+2728,Osteoarthritis Outcomes Survey,discovered,1,0.0
+2729,Osteopathic Scale,discovered,1,0.0
+2730,Ostomy Adjustment Scale,discovered,1,0.0
+2731,Other Analgesics Visual Analogue Pain Scale,discovered,1,0.0
+2732,Oucher Pain Rating Scale,discovered,1,0.0
+2733,OUTCOME,discovered,1,0.0
+2734,Outcome Measurement System Pain Interference Scale,discovered,1,0.0
+2735,Outcomes Study Short-Form General Health Survey,discovered,1,0.0
+2736,Over Time Categorical Pain Intensity Score,discovered,1,0.0
+2737,Overall Analgesic Benefit Score,discovered,1,0.0
+2738,Overall Benefit Analgesia Score,discovered,1,0.0
+2739,Overall Benefit Assessment Score,discovered,1,0.0
+2740,Overall Pain Management Rating Scale,discovered,1,0.0
+2741,OWESTRY,discovered,1,0.0
+2742,Oxford Knee Scale,discovered,1,0.0
+2743,Oxford Scale,discovered,1,0.0
+2744,Oxford Shoulder Score,discovered,1,0.0
+2745,OXN,discovered,1,0.0
+2746,OXY,discovered,1,0.0
+2747,PA-Q,discovered,1,0.0
+2748,PAC,discovered,1,0.0
+2749,PAC-SYM,discovered,1,0.0
+2750,PAC-SYM Questionnaire,discovered,1,0.0
+2751,PACO,discovered,1,0.0
+2752,PACU Discharge Score,discovered,1,0.0
+2753,PACU Numeric Pain Score,discovered,1,0.0
+2754,PACU Pain Score,discovered,1,0.0
+2755,PACU Spinal Puncture Difficulty Score,discovered,1,0.0
+2756,PACU-24,discovered,1,0.0
+2757,PACU-LOS,discovered,1,0.0
+2758,Paediatric Anesthesia Emergence Delirium Scale,discovered,1,0.0
+2759,Paediatric Emergency Delirium Scale Score,discovered,1,0.0
+2760,Paediatric Pain Profile,discovered,1,0.0
+2761,PAI-CBCT,discovered,1,0.0
+2762,Pain Analyzed From Pain Score,discovered,1,0.0
+2763,Pain Assessment Score,discovered,1,0.0
+2764,Pain Belief Scale State Anxiety Scale,discovered,1,0.0
+2765,Pain Beliefs Questionnaire Tampa Scale,discovered,1,0.0
+2766,Pain Catastrophization Score,discovered,1,0.0
+2767,Pain Catastrophizing Profile,discovered,1,0.0
+2768,Pain Catastrophizing Score,discovered,1,0.0
+2769,Pain Chronification Risk Assessment Questionnaire,discovered,1,0.0
+2770,Pain Coping Questionnaire,discovered,1,0.0
+2771,Pain Disclosure Behavior Scale,discovered,1,0.0
+2772,Pain Intensity Neck Disability Index,discovered,1,0.0
+2773,Pain Intensity Scale Score,discovered,1,0.0
+2774,Pain Intensity Visual Analog Pain Scale,discovered,1,0.0
+2775,Pain Interference Average Pain Score,discovered,1,0.0
+2776,Pain Interference Composite Score,discovered,1,0.0
+2777,Pain Interference Subscale Score,discovered,1,0.0
+2778,Pain Interference Total Score,discovered,1,0.0
+2779,Pain Issues BPI8 Survey BPI25 Survey,discovered,1,0.0
+2780,Pain Management Postoperative Pain Score,discovered,1,0.0
+2781,Pain Management Satisfaction Scale,discovered,1,0.0
+2782,Pain Management Sedation Score,discovered,1,0.0
+2783,Pain Management Strategies Survey Survey,discovered,1,0.0
+2784,Pain Medication Attitudes Questionnaire,discovered,1,0.0
+2785,Pain Medication Highest Subjective Pain Score,discovered,1,0.0
+2786,Pain Medication Quantification Scale,discovered,1,0.0
+2787,Pain Medication Questionnaire,discovered,1,0.0
+2788,Pain Medication Used Patient Satisfaction Survey,discovered,1,0.0
+2789,Pain Outcomes Questionnaire,discovered,1,0.0
+2790,Pain Patient Education Satisfaction Scale,discovered,1,0.0
+2791,Pain Pressure Threshold Pain Score,discovered,1,0.0
+2792,Pain Pupillary Index,discovered,1,0.0
+2793,Pain Qualities Scale,discovered,1,0.0
+2794,Pain Relief Pain Score,discovered,1,0.0
+2795,Pain Response Inventory,discovered,1,0.0
+2796,Pain Rest Non-opiod Analgesic Barthel-20 Index,discovered,1,0.0
+2797,Pain Score Injury Severity Score,discovered,1,0.0
+2798,Pain Score Modified Bromage Scale,discovered,1,0.0
+2799,Pain Score Patient Satisfaction Score,discovered,1,0.0
+2800,Pain Score Postoperative Shoulder Pain Score,discovered,1,0.0
+2801,Pain Score Questionnaire,discovered,1,0.0
+2802,Pain Score Questionnaire Pain Score Questionnaire,discovered,1,0.0
+2803,Pain Score Scale,discovered,1,0.0
+2804,Pain Score With Activity Pain Score,discovered,1,0.0
+2805,Pain Scores Evaluted Pain Score,discovered,1,0.0
+2806,Pain Scores Via FACES Scale,discovered,1,0.0
+2807,Pain Self Efficacy Questionnaire,discovered,1,0.0
+2808,Pain Sensitive Questionnaire,discovered,1,0.0
+2809,Pain Severity Average Daily Pain Score,discovered,1,0.0
+2810,Pain Severity Composite Score,discovered,1,0.0
+2811,Pain Severity Index Forgotten Joint Score,discovered,1,0.0
+2812,Pain Severity Score,discovered,1,0.0
+2813,Pain Severity Subscale Score,discovered,1,0.0
+2814,Pain Severity Using Pain Sensitivity Questionnaire,discovered,1,0.0
+2815,Pain Subscale Score,discovered,1,0.0
+2816,Pain Traumatization Scale,discovered,1,0.0
+2817,Pain UPAT Score,discovered,1,0.0
+2818,Pain With Movement Score,discovered,1,0.0
+2819,PAIN-OUT,discovered,1,0.0
+2820,PAININ18,discovered,1,0.0
+2821,Painting Classification Index,discovered,1,0.0
+2822,Palatal Wound Healing Score,discovered,1,0.0
+2823,PANDA,discovered,1,0.0
+2824,PAP,discovered,1,0.0
+2825,PAPS,discovered,1,0.0
+2826,PAPS Survey,discovered,1,0.0
+2827,PAR Score,discovered,1,0.0
+2828,Parent Satisfaction Surveys Clinician Satisfaction Survey,discovered,1,0.0
+2829,Parent Satisfaction The Mean Pain Score,discovered,1,0.0
+2830,Parental Satisfaction Score,discovered,1,0.0
+2831,Parental Self-Efficacy Scale,discovered,1,0.0
+2832,Parents Postoperative Pain Measurement Scale,discovered,1,0.0
+2833,Participant Questionnaire,discovered,1,0.0
+2834,Participant' Satisfaction Score,discovered,1,0.0
+2835,Participant's Analgesic Satisfaction Score,discovered,1,0.0
+2836,Participants With Categorical Score,discovered,1,0.0
+2837,Participants With Cumulative Faces Pain Score,discovered,1,0.0
+2838,Participants With Faces Pain Score,discovered,1,0.0
+2839,Participants With Peak Score,discovered,1,0.0
+2840,Participants With Score,discovered,1,0.0
+2841,PARU,discovered,1,0.0
+2842,Pasero Scale,discovered,1,0.0
+2843,Pasero-McCaffery Opioid-induced Sedation Scale,discovered,1,0.0
+2844,PASS-2022,discovered,1,0.0
+2845,PASS20,discovered,1,0.0
+2846,PATENCY,discovered,1,0.0
+2847,Patient-Specific Functional Scale,discovered,1,0.0
+2848,PBMT,discovered,1,0.0
+2849,PBQ,discovered,1,0.0
+2850,PBQ-O,discovered,1,0.0
+2851,PBQ-P,discovered,1,0.0
+2852,PC-PTSD,discovered,1,0.0
+2853,PCA Change Pain Score,discovered,1,0.0
+2854,PCA Demand Request Post-operative Pain Score,discovered,1,0.0
+2855,PCAM,discovered,1,0.0
+2856,PCF,discovered,1,0.0
+2857,PCIG,discovered,1,0.0
+2858,PCL-C,discovered,1,0.0
+2859,PCNA,discovered,1,0.0
+2860,PCoA,discovered,1,0.0
+2861,PCP15,discovered,1,0.0
+2862,PCPS,discovered,1,0.0
+2863,PCQ,discovered,1,0.0
+2864,PCRA,discovered,1,0.0
+2865,PCV,discovered,1,0.0
+2866,PD-Q,discovered,1,0.0
+2867,PDB,discovered,1,0.0
+2868,PDGF-BB,discovered,1,0.0
+2869,PDL,discovered,1,0.0
+2870,PDO1,discovered,1,0.0
+2871,PDS,discovered,1,0.0
+2872,PDT,discovered,1,0.0
+2873,PEC,discovered,1,0.0
+2874,PECBLOCK,discovered,1,0.0
+2875,PECS2,discovered,1,0.0
+2876,Pediatric Anesthesia Emergency Delirium Scale,discovered,1,0.0
+2877,Pediatric Emergence Delirium Rating Scale,discovered,1,0.0
+2878,Pediatric Emergence Delirium Scale,discovered,1,0.0
+2879,Pediatric Emotional Distress Scale,discovered,1,0.0
+2880,PEG-3,discovered,1,0.0
+2881,PEG2,discovered,1,0.0
+2882,Pelvic Floor Disability Index,discovered,1,0.0
+2883,Pelvic Floor Distress Inventory,discovered,1,0.0
+2884,Pelvic Flore Disability Index,discovered,1,0.0
+2885,Pelvic Pain Score,discovered,1,0.0
+2886,PEMF,discovered,1,0.0
+2887,PENS,discovered,1,0.0
+2888,Perceived Social Support Scale,discovered,1,0.0
+2889,Perceived Stress Scale Perceived Stress Scale,discovered,1,0.0
+2890,Perceived Supportive Monitoring Scale,discovered,1,0.0
+2891,Percentage Healing Index,discovered,1,0.0
+2892,Performance Status Scale,discovered,1,0.0
+2893,Performance Status Score,discovered,1,0.0
+2894,PERIOD,discovered,1,0.0
+2895,Perioperative Analgesia Hospitalization Days Pain Score,discovered,1,0.0
+2896,Perioperative Care Satisfaction Questionnaire,discovered,1,0.0
+2897,Perioperative Multidimensional Anxiety Scale,discovered,1,0.0
+2898,PES,discovered,1,0.0
+2899,PF-10a,discovered,1,0.0
+2900,PF28,discovered,1,0.0
+2901,PFDI,discovered,1,0.0
+2902,PFDI-20,discovered,1,0.0
+2903,PFIQ-7,discovered,1,0.0
+2904,PFIQ-7 Score,discovered,1,0.0
+2905,PFS,discovered,1,0.0
+2906,PG,discovered,1,0.0
+2907,PGART,discovered,1,0.0
+2908,PGESM,discovered,1,0.0
+2909,PGF2,discovered,1,0.0
+2910,PGI2,discovered,1,0.0
+2911,PGIS,discovered,1,0.0
+2912,PGL,discovered,1,0.0
+2913,PGP,discovered,1,0.0
+2914,PhA,discovered,1,0.0
+2915,PHANTOM,discovered,1,0.0
+2916,Phantom Limb Assessment Simulator Sickness Questionnaire,discovered,1,0.0
+2917,Phantom Limb Experience Survey,discovered,1,0.0
+2918,PHANTOM Limb Pain Score,discovered,1,0.0
+2919,Pharmacokinetic Profile,discovered,1,0.0
+2920,PHBQ-AS,discovered,1,0.0
+2921,PHE,discovered,1,0.0
+2922,PHHPS,discovered,1,0.0
+2923,PHI,discovered,1,0.0
+2924,PHYSICAL,discovered,1,0.0
+2925,Physical Functioning Scale,discovered,1,0.0
+2926,Physician Questionnaire,discovered,1,0.0
+2927,PI-PI,discovered,1,0.0
+2928,PI-SF-8a,discovered,1,0.0
+2929,PI24h,discovered,1,0.0
+2930,PI48h,discovered,1,0.0
+2931,PI72h,discovered,1,0.0
+2932,PICA,discovered,1,0.0
+2933,PID11,discovered,1,0.0
+2934,PID4,discovered,1,0.0
+2935,PIDB,discovered,1,0.0
+2936,PIDi,discovered,1,0.0
+2937,PIDi-1,discovered,1,0.0
+2938,PIEOB,discovered,1,0.0
+2939,PIF,discovered,1,0.0
+2940,PIFPB,discovered,1,0.0
+2941,PIK3CA,discovered,1,0.0
+2942,PILLS,discovered,1,0.0
+2943,Pink Esthetic Score,discovered,1,0.0
+2944,PIOC,discovered,1,0.0
+2945,PIPOD90,discovered,1,0.0
+2946,PIPP,discovered,1,0.0
+2947,PIPRSB,discovered,1,0.0
+2948,PITAP,discovered,1,0.0
+2949,Pittsburgh Sleep Questionnaire Index,discovered,1,0.0
+2950,PL,discovered,1,0.0
+2951,PlGF,discovered,1,0.0
+2952,PLIA,discovered,1,0.0
+2953,PLOS,discovered,1,0.0
+2954,PLPQ,discovered,1,0.0
+2955,PLS,discovered,1,0.0
+2956,PLT,discovered,1,0.0
+2957,PLUS-M,discovered,1,0.0
+2958,PLY,discovered,1,0.0
+2959,PM Pain Score,discovered,1,0.0
+2960,PMAQ-14,discovered,1,0.0
+2961,PMD-200,discovered,1,0.0
+2962,PMNL,discovered,1,0.0
+2963,PMP,discovered,1,0.0
+2964,PN,discovered,1,0.0
+2965,PNB,discovered,1,0.0
+2966,PNB-,discovered,1,0.0
+2967,PNI,discovered,1,0.0
+2968,pNN50,discovered,1,0.0
+2969,pNRS,discovered,1,0.0
+2970,PNV,discovered,1,0.0
+2971,POCAS,discovered,1,0.0
+2972,POD-2,discovered,1,0.0
+2973,POD-30,discovered,1,0.0
+2974,POD0-7,discovered,1,0.0
+2975,POD1 Scale,discovered,1,0.0
+2976,POD30,discovered,1,0.0
+2977,POD5,discovered,1,0.0
+2978,POD5-7,discovered,1,0.0
+2979,POD90,discovered,1,0.0
+2980,Point Categorical Scale,discovered,1,0.0
+2981,Point Likert Satisfaction Scale,discovered,1,0.0
+2982,Point Likert Scale Pain Intensity Score,discovered,1,0.0
+2983,Point Numerical Pain Scale,discovered,1,0.0
+2984,Point Numerical Scale,discovered,1,0.0
+2985,Point Pain Scale,discovered,1,0.0
+2986,Point Satisfaction Scale,discovered,1,0.0
+2987,Point Verbal Scale,discovered,1,0.0
+2988,POM1,discovered,1,0.0
+2989,POM6,discovered,1,0.0
+2990,POMI,discovered,1,0.0
+2991,PONS,discovered,1,0.0
+2992,PONV Glasgow Score,discovered,1,0.0
+2993,PONV Impact Scale Score,discovered,1,0.0
+2994,PONV Incidence Hemodynamic Monitoring Recovery Score,discovered,1,0.0
+2995,PONV Questionnaire,discovered,1,0.0
+2996,PONV Score PONV Score PONV Score,discovered,1,0.0
+2997,PONV24h,discovered,1,0.0
+2998,PONVIS,discovered,1,0.0
+2999,POP-Q,discovered,1,0.0
+3000,POPs,discovered,1,0.0
+3001,Positive Affect Score,discovered,1,0.0
+3002,POSSUM,discovered,1,0.0
+3003,Post Anesthesia Care Unit Fatigue Score,discovered,1,0.0
+3004,Post Anesthesia Discharge Score,discovered,1,0.0
+3005,Post Cesarean Pain Control Survey,discovered,1,0.0
+3006,Post Hospitalization Behavior Questionnaire,discovered,1,0.0
+3007,Post Hospitalization Behavioral Questionnaire,discovered,1,0.0
+3008,Post Interventional Care Unit Numerical Scale,discovered,1,0.0
+3009,Post-Anesthetic Discharge Scoring System Scale,discovered,1,0.0
+3010,Post-Hospitalization Behavior Questionnaire,discovered,1,0.0
+3011,Post-Operative Morbidity Survey,discovered,1,0.0
+3012,Post-operative Opioid Use Pain Score,discovered,1,0.0
+3013,Post-operative Pain Score Post-operative Pain Score,discovered,1,0.0
+3014,Post-operative Patient Self-Reported Pain Score,discovered,1,0.0
+3015,Post-operative Recovery Negative Postoperative Behavior Score,discovered,1,0.0
+3016,Post-operative Visual Analog Pain Score,discovered,1,0.0
+3017,Post-surgery Pain Score,discovered,1,0.0
+3018,Post-surgical Persistent Pain Using Validated Questionnaire,discovered,1,0.0
+3019,Posterior Thigh Pain POP-Q Stage Score,discovered,1,0.0
+3020,Postnatal Comfort Survey,discovered,1,0.0
+3021,Postoperative Adverse Events Ramsay Sedation Score,discovered,1,0.0
+3022,Postoperative Analgesia Pain Score,discovered,1,0.0
+3023,Postoperative Analgesia Satisfaction Scale,discovered,1,0.0
+3024,Postoperative Analgesia Time Pain Score,discovered,1,0.0
+3025,Postoperative Day One Pain Score,discovered,1,0.0
+3026,Postoperative Hours Postoperative Pain Score,discovered,1,0.0
+3027,Postoperative Hours Time Weighted Pain Score,discovered,1,0.0
+3028,Postoperative Morphine Consumption Patient Satisfaction Score,discovered,1,0.0
+3029,Postoperative Morphine Consumption Postoperative Pain Score,discovered,1,0.0
+3030,Postoperative Nausea Analgesia Nociception Index,discovered,1,0.0
+3031,Postoperative Nausea Vomiting Impact Scale Score,discovered,1,0.0
+3032,Postoperative Opioid Consumption Behavioral Pain Scale,discovered,1,0.0
+3033,Postoperative Opioid Consumption Patient Satisfaction Score,discovered,1,0.0
+3034,Postoperative Opioid Usage Questionnaire,discovered,1,0.0
+3035,Postoperative Pain Control Postoperative Pain Score,discovered,1,0.0
+3036,Postoperative Pain Fear Scale,discovered,1,0.0
+3037,Postoperative Pain Highest Postoperative Pain Score,discovered,1,0.0
+3038,Postoperative Pain Intensity Anxiety Score,discovered,1,0.0
+3039,Postoperative Pain Intensity Behavioral Pain Scale,discovered,1,0.0
+3040,Postoperative Pain Score Postoperative Pain Score,discovered,1,0.0
+3041,Postoperative Pain Score State Anxiety Score,discovered,1,0.0
+3042,Postoperative Pain Scores Postoperative Pain Score,discovered,1,0.0
+3043,Postoperative Pain Through Pain Score,discovered,1,0.0
+3044,Postoperative Period Postoperative Pain Score,discovered,1,0.0
+3045,Postoperative Port Site Pain Score,discovered,1,0.0
+3046,Postoperative Recovery Index Scale,discovered,1,0.0
+3047,Postoperative Recovery Scale Score,discovered,1,0.0
+3048,Postoperative Richmond Agitation-Sedation Scale,discovered,1,0.0
+3049,POSTOPERATIVE SLEEP EVALUATION Analogical Visual Scale,discovered,1,0.0
+3050,Postoperatively Pain Score,discovered,1,0.0
+3051,Postoperatively Rescue Analgesia Requirement Pain Score,discovered,1,0.0
+3052,Postpartum Comfort Questionnaire,discovered,1,0.0
+3053,Postpartum-Specific Anxiety Scale,discovered,1,0.0
+3054,POTP,discovered,1,0.0
+3055,POU,discovered,1,0.0
+3056,POVN,discovered,1,0.0
+3057,PPAT,discovered,1,0.0
+3058,PPCs,discovered,1,0.0
+3059,PPE-15,discovered,1,0.0
+3060,PPE15,discovered,1,0.0
+3061,PPIS,discovered,1,0.0
+3062,PPMP,discovered,1,0.0
+3063,PPMP-SF,discovered,1,0.0
+3064,PPOI,discovered,1,0.0
+3065,PPOP,discovered,1,0.0
+3066,PPOU,discovered,1,0.0
+3067,PPP33,discovered,1,0.0
+3068,PPPM-SF,discovered,1,0.0
+3069,PPSP-,discovered,1,0.0
+3070,PPTh,discovered,1,0.0
+3071,PPTo,discovered,1,0.0
+3072,PQ,discovered,1,0.0
+3073,PQ-NEURO,discovered,1,0.0
+3074,PQI,discovered,1,0.0
+3075,PQRS,discovered,1,0.0
+3076,PQSI,discovered,1,0.0
+3077,PRACTICES,discovered,1,0.0
+3078,Pre-op Anxiety Score,discovered,1,0.0
+3079,Preference Summed Ocular Inflamation Score,discovered,1,0.0
+3080,PREMs,discovered,1,0.0
+3081,Preoperative Anxiety Score,discovered,1,0.0
+3082,Presence Questionnaire,discovered,1,0.0
+3083,Present Pain Index,discovered,1,0.0
+3084,PRESSURE,discovered,1,0.0
+3085,Pressure Recovery Profile,discovered,1,0.0
+3086,Prevention Morphine Milligram Equivalent Score,discovered,1,0.0
+3087,PRF-110,discovered,1,0.0
+3088,PRF110,discovered,1,0.0
+3089,PRID4,discovered,1,0.0
+3090,pRIFLE,discovered,1,0.0
+3091,PRIMARY,discovered,1,0.0
+3092,Prince Henry Hospital Pain Scale,discovered,1,0.0
+3093,PRIS,discovered,1,0.0
+3094,PRM,discovered,1,0.0
+3095,Procedure Score,discovered,1,0.0
+3096,Productivity Costs Questionnaire,discovered,1,0.0
+3097,Prognostic Nutritional Index,discovered,1,0.0
+3098,Prolonged Opioid Use Comprehensive Complication Index,discovered,1,0.0
+3099,PROMIS3a,discovered,1,0.0
+3100,PROMIS8a,discovered,1,0.0
+3101,PROMOIS,discovered,1,0.0
+3102,PROs,discovered,1,0.0
+3103,PROSM,discovered,1,0.0
+3104,Prosthesis Embodiment Scale,discovered,1,0.0
+3105,Prosthesis Experiences Scale,discovered,1,0.0
+3106,Prosthetic Evaluation Score,discovered,1,0.0
+3107,Prosthetic Limb Users Survey,discovered,1,0.0
+3108,Prosthetic User Survey,discovered,1,0.0
+3109,Prosthetics Research Scale,discovered,1,0.0
+3110,Prosthetics User Survey,discovered,1,0.0
+3111,Prosthetics User's Survey,discovered,1,0.0
+3112,PRP,discovered,1,0.0
+3113,PRR,discovered,1,0.0
+3114,pRR50,discovered,1,0.0
+3115,PRST,discovered,1,0.0
+3116,Pruritus Pruritus Score,discovered,1,0.0
+3117,PRWE,discovered,1,0.0
+3118,PRWHE,discovered,1,0.0
+3119,PS Pain Treatment Satisfaction Scale,discovered,1,0.0
+3120,PS-1,discovered,1,0.0
+3121,PS-2,discovered,1,0.0
+3122,PSA,discovered,1,0.0
+3123,PSAM,discovered,1,0.0
+3124,PSAQ,discovered,1,0.0
+3125,PSAS,discovered,1,0.0
+3126,PSC,discovered,1,0.0
+3127,PSCs,discovered,1,0.0
+3128,PSD,discovered,1,0.0
+3129,PSEQ-10,discovered,1,0.0
+3130,PSEQ-DK,discovered,1,0.0
+3131,PSM,discovered,1,0.0
+3132,PSP,discovered,1,0.0
+3133,PSPP,discovered,1,0.0
+3134,PSPS-T2,discovered,1,0.0
+3135,PSQ-18,discovered,1,0.0
+3136,PSQ-3,discovered,1,0.0
+3137,PSQ18,discovered,1,0.0
+3138,PSRS,discovered,1,0.0
+3139,PSS-14,discovered,1,0.0
+3140,PSS-4,discovered,1,0.0
+3141,PSS-HN,discovered,1,0.0
+3142,PSSS,discovered,1,0.0
+3143,PSSUQ,discovered,1,0.0
+3144,pSTAT3-T0,discovered,1,0.0
+3145,pSTAT3-T1,discovered,1,0.0
+3146,PSV,discovered,1,0.0
+3147,Psychological Well-Being Scale,discovered,1,0.0
+3148,PTH,discovered,1,0.0
+3149,PU,discovered,1,0.0
+3150,PUI,discovered,1,0.0
+3151,Pulsation-1 Pre-op Pulsation-2 Intraoperative Pain Score,discovered,1,0.0
+3152,Pupillary Index,discovered,1,0.0
+3153,Pupillary Pain Index,discovered,1,0.0
+3154,PURPS,discovered,1,0.0
+3155,PV,discovered,1,0.0
+3156,PVC,discovered,1,0.0
+3157,PVPB,discovered,1,0.0
+3158,PVS,discovered,1,0.0
+3159,Q4H,discovered,1,0.0
+3160,Q5A,discovered,1,0.0
+3161,Q5B,discovered,1,0.0
+3162,Q5C,discovered,1,0.0
+3163,Q5D,discovered,1,0.0
+3164,Q5E,discovered,1,0.0
+3165,Q5F,discovered,1,0.0
+3166,Q5G,discovered,1,0.0
+3167,QBF,discovered,1,0.0
+3168,QBPDS,discovered,1,0.0
+3169,QD,discovered,1,0.0
+3170,qDASH,discovered,1,0.0
+3171,QID,discovered,1,0.0
+3172,QIP,discovered,1,0.0
+3173,QIPB,discovered,1,0.0
+3174,QLB-1,discovered,1,0.0
+3175,QLB2,discovered,1,0.0
+3176,QLQ-BR42,discovered,1,0.0
+3177,QLQ-BR53,discovered,1,0.0
+3178,QLQ-C40,discovered,1,0.0
+3179,QLQ-CAX24,discovered,1,0.0
+3180,QLQ-CR29,discovered,1,0.0
+3181,QLQ-EN24,discovered,1,0.0
+3182,QLQ-LC13,discovered,1,0.0
+3183,QLQ-OV28,discovered,1,0.0
+3184,QLQC30,discovered,1,0.0
+3185,QLQC30 Questionnaire,discovered,1,0.0
+3186,QMBE,discovered,1,0.0
+3187,QoE-15,discovered,1,0.0
+3188,QoL Questionnaire,discovered,1,0.0
+3189,QoL-30,discovered,1,0.0
+3190,QOL-CC30,discovered,1,0.0
+3191,QOLS,discovered,1,0.0
+3192,QoR-11K,discovered,1,0.0
+3193,QoR-15F,discovered,1,0.0
+3194,QR,discovered,1,0.0
+3195,QRS-T,discovered,1,0.0
+3196,QST-,discovered,1,0.0
+3197,QTC-VR,discovered,1,0.0
+3198,QTT,discovered,1,0.0
+3199,Qualitative Qualitative The System Usability Scale,discovered,1,0.0
+3200,Quality Improvement Survey,discovered,1,0.0
+3201,Quality Pain Management Survey,discovered,1,0.0
+3202,Quality Sleep Quality Pain Interference Scale,discovered,1,0.0
+3203,Question Survey,discovered,1,0.0
+3204,Questionnaire Pain Score,discovered,1,0.0
+3205,Questionnaire Scale,discovered,1,0.0
+3206,Questionnaires Pain Score Beck's Depression Inventory,discovered,1,0.0
+3207,Quick-Disability Arm Shoulder Hand Survey,discovered,1,0.0
+3208,QUIPS,discovered,1,0.0
+3209,QUO-R4O,discovered,1,0.0
+3210,R-R,discovered,1,0.0
+3211,RA,discovered,1,0.0
+3212,RAAUC,discovered,1,0.0
+3213,RACAROFA,discovered,1,0.0
+3214,Radiological Atelectasis Score,discovered,1,0.0
+3215,Radiology Review Score,discovered,1,0.0
+3216,RALP,discovered,1,0.0
+3217,RAMSEY,discovered,1,0.0
+3218,RAND-36 Health Survey,discovered,1,0.0
+3219,RAND12,discovered,1,0.0
+3220,Randomized Participants Mean Pain Intensity Score,discovered,1,0.0
+3221,RANSM,discovered,1,0.0
+3222,RANTES,discovered,1,0.0
+3223,RAR,discovered,1,0.0
+3224,RATE,discovered,1,0.0
+3225,RATING,discovered,1,0.0
+3226,RB,discovered,1,0.0
+3227,RBCU,discovered,1,0.0
+3228,RCH,discovered,1,0.0
+3229,RCH Itch Score,discovered,1,0.0
+3230,RCSS,discovered,1,0.0
+3231,Readmissions Neuroma Formation Pain Score,discovered,1,0.0
+3232,REAX,discovered,1,0.0
+3233,Rebound Pain Score,discovered,1,0.0
+3234,RECK,discovered,1,0.0
+3235,RECm,discovered,1,0.0
+3236,RECORD,discovered,1,0.0
+3237,RECOREDED,discovered,1,0.0
+3238,Recovery Room Stay Postoperative Pain Score,discovered,1,0.0
+3239,Recovery Score Catastrophizing Scale,discovered,1,0.0
+3240,Recovery Score Pain Score,discovered,1,0.0
+3241,Recovery Score Scale,discovered,1,0.0
+3242,Recovery Survey Richards Campbell Sleep Questionnaire,discovered,1,0.0
+3243,Recovery Wound Healing Score,discovered,1,0.0
+3244,Recovery-15 Patient Questionnaire,discovered,1,0.0
+3245,Recovery-15 Pittsburgh Rehabilitation Participation Scale Score,discovered,1,0.0
+3246,Recovery-15 Questionnaire,discovered,1,0.0
+3247,Recovery-15 Scale,discovered,1,0.0
+3248,Refill Urinary Index,discovered,1,0.0
+3249,Reflex Threshold Phantom Limb Pain Score,discovered,1,0.0
+3250,REGISTER,discovered,1,0.0
+3251,Regression Lowest Possible Score,discovered,1,0.0
+3252,Relief Score,discovered,1,0.0
+3253,REMOVAL,discovered,1,0.0
+3254,Reported Outcomes Postoperative Outpatient Pain Score,discovered,1,0.0
+3255,Reported Pain Score,discovered,1,0.0
+3256,Reported Score,discovered,1,0.0
+3257,Requirement Tramadol Consumption Patient Satisfaction Score,discovered,1,0.0
+3258,Rescue Analgesic Requirement Patient Satisfaction Score,discovered,1,0.0
+3259,RESIDUAL,discovered,1,0.0
+3260,Residual Intracanal Organic Debris Score,discovered,1,0.0
+3261,RESIDUAL Limb Pain Score,discovered,1,0.0
+3262,Respiratory Depression Apgar Score,discovered,1,0.0
+3263,Respiratory Depression Score,discovered,1,0.0
+3264,Respiratuar Depression Postoperative Ramsay Sedation Scale,discovered,1,0.0
+3265,Rest Ramsay Sedation Score,discovered,1,0.0
+3266,Rest Self-report Pain Score,discovered,1,0.0
+3267,RF,discovered,1,0.0
+3268,rFLACC,discovered,1,0.0
+3269,RG,discovered,1,0.0
+3270,Rhodes Index,discovered,1,0.0
+3271,Rhodes Nausea-Vomiting Rectal Index,discovered,1,0.0
+3272,RIB,discovered,1,0.0
+3273,Richamond Agitation Sedation Scale,discovered,1,0.0
+3274,Richard Campbell Sleep Quality Scale,discovered,1,0.0
+3275,Richard-Campbell Sleep Questionnaire,discovered,1,0.0
+3276,Richards- Campbell Sleep Questionnaire,discovered,1,0.0
+3277,Richards-Campbell Sleep Questionaire Scale,discovered,1,0.0
+3278,Richmond Agitation Sedation Scale Score,discovered,1,0.0
+3279,Richmond Agitation Sedation Score,discovered,1,0.0
+3280,Richmond Agitation- Sedation Scale,discovered,1,0.0
+3281,RID,discovered,1,0.0
+3282,Riker Sedation- Agitation Scale,discovered,1,0.0
+3283,Riker's Agitation-Sedation Scale,discovered,1,0.0
+3284,Rikert Agitation Scale,discovered,1,0.0
+3285,RISK,discovered,1,0.0
+3286,RISS,discovered,1,0.0
+3287,Riverside Life Satisfaction Scale,discovered,1,0.0
+3288,RL,discovered,1,0.0
+3289,RLB,discovered,1,0.0
+3290,RLN,discovered,1,0.0
+3291,RLSS,discovered,1,0.0
+3292,RM,discovered,1,0.0
+3293,RMS,discovered,1,0.0
+3294,RNs,discovered,1,0.0
+3295,ROC-AUC,discovered,1,0.0
+3296,ROI,discovered,1,0.0
+3297,ROIs,discovered,1,0.0
+3298,Roland-Morris Disability Q. (RMDQ),seed,1,0.0
+3299,ROMIS,discovered,1,0.0
+3300,Root Canal Treatment Post-Operative Pain Score,discovered,1,0.0
+3301,ROS,discovered,1,0.0
+3302,RPM,discovered,1,0.0
+3303,RPNI,discovered,1,0.0
+3304,RRD,discovered,1,0.0
+3305,RRTW,discovered,1,0.0
+3306,RS,discovered,1,0.0
+3307,RSA,discovered,1,0.0
+3308,rSO2,discovered,1,0.0
+3309,RT-qPCR,discovered,1,0.0
+3310,RTF,discovered,1,0.0
+3311,RU,discovered,1,0.0
+3312,RU SATED Score,discovered,1,0.0
+3313,RULA,discovered,1,0.0
+3314,RUN,discovered,1,0.0
+3315,RUNX2,discovered,1,0.0
+3316,Rupture Score,discovered,1,0.0
+3317,RV,discovered,1,0.0
+3318,RVP,discovered,1,0.0
+3319,RX,discovered,1,0.0
+3320,S-AD,discovered,1,0.0
+3321,S-G,discovered,1,0.0
+3322,S-LANNS,discovered,1,0.0
+3323,S-LANNS Questionnaire,discovered,1,0.0
+3324,S-QLB3,discovered,1,0.0
+3325,S0-S3,discovered,1,0.0
+3326,S2BI,discovered,1,0.0
+3327,SAA,discovered,1,0.0
+3328,SABER-,discovered,1,0.0
+3329,SAF312,discovered,1,0.0
+3330,SAM,discovered,1,0.0
+3331,SAME,discovered,1,0.0
+3332,SAPS,discovered,1,0.0
+3333,SAQ,discovered,1,0.0
+3334,SATED,discovered,1,0.0
+3335,Satisfaction Score Patient Satisfaction Score,discovered,1,0.0
+3336,Satisfaction Scores Patient Satisfaction Score,discovered,1,0.0
+3337,Satisfaction Survey Presence Inventory,discovered,1,0.0
+3338,SB,discovered,1,0.0
+3339,SBPs,discovered,1,0.0
+3340,Scale Chronic Pain Acceptance Questionnaire,discovered,1,0.0
+3341,Scale Holistic Well-being Scale,discovered,1,0.0
+3342,Scale Score,discovered,1,0.0
+3343,SCAR,discovered,1,0.0
+3344,Scar Assessment Questionnaire,discovered,1,0.0
+3345,SCAR-Q,discovered,1,0.0
+3346,SCB-CPB,discovered,1,0.0
+3347,SCB-ISB,discovered,1,0.0
+3348,sCD40L,discovered,1,0.0
+3349,SCF,discovered,1,0.0
+3350,SCHNOS,discovered,1,0.0
+3351,Sciatica Bothersomeness Index,discovered,1,0.0
+3352,SCL-90-R-,discovered,1,0.0
+3353,Scoliosis Research Society Questionnaire,discovered,1,0.0
+3354,Score Breast Cancer Pain Questionnaire,discovered,1,0.0
+3355,Score Nausea Score,discovered,1,0.0
+3356,Score Pain Interference Index Score,discovered,1,0.0
+3357,Score Pain Score,discovered,1,0.0
+3358,Score Pruritus Score,discovered,1,0.0
+3359,Score Richmond Agitation-Sedation Scale,discovered,1,0.0
+3360,Scores Postoperative Pain Score,discovered,1,0.0
+3361,SCr,discovered,1,0.0
+3362,SDP,discovered,1,0.0
+3363,SDQ,discovered,1,0.0
+3364,SDRR,discovered,1,0.0
+3365,SDSC,discovered,1,0.0
+3366,SE24h,discovered,1,0.0
+3367,SE48h,discovered,1,0.0
+3368,SE72h,discovered,1,0.0
+3369,SEALITE,discovered,1,0.0
+3370,SECONDARY,discovered,1,0.0
+3371,Sedation Agitation Scale,discovered,1,0.0
+3372,Sedation Level Using Ramsay Sedation Scale,discovered,1,0.0
+3373,Sedation Scores Sedation Scores Sedation Score,discovered,1,0.0
+3374,SEFAS,discovered,1,0.0
+3375,Self-Administered Patient Satisfaction Scale,discovered,1,0.0
+3376,Self-Rating Anxiety Scale,discovered,1,0.0
+3377,sEMG,discovered,1,0.0
+3378,SENSATION,discovered,1,0.0
+3379,SENSY,discovered,1,0.0
+3380,Seoul National University Illustrated Pain Scale,discovered,1,0.0
+3381,SEPOD90,discovered,1,0.0
+3382,Serum Cortisol Serum Norepinephrine Pain Score,discovered,1,0.0
+3383,SES,discovered,1,0.0
+3384,SESPB,discovered,1,0.0
+3385,SEVERE,discovered,1,0.0
+3386,Severe Baseline Score,discovered,1,0.0
+3387,SEVEREST,discovered,1,0.0
+3388,Severity Composite Score,discovered,1,0.0
+3389,Severity Davidson Trauma Scale,discovered,1,0.0
+3390,Severity Scale,discovered,1,0.0
+3391,Severity Score Pruritus Severity Score,discovered,1,0.0
+3392,Sex Body Mass Index,discovered,1,0.0
+3393,Sextant Gingival Index,discovered,1,0.0
+3394,Sextant Plaque Index,discovered,1,0.0
+3395,SF-15,discovered,1,0.0
+3396,SF-15 Generic Core Scale,discovered,1,0.0
+3397,SF-6D,discovered,1,0.0
+3398,SF-8A,discovered,1,0.0
+3399,SF-MPQ15,discovered,1,0.0
+3400,SF-MPQ2,discovered,1,0.0
+3401,SF12v2,discovered,1,0.0
+3402,SFCS,discovered,1,0.0
+3403,SFIB,discovered,1,0.0
+3404,SFM-PQ,discovered,1,0.0
+3405,SFMPQ-2,discovered,1,0.0
+3406,SFR,discovered,1,0.0
+3407,SGA,discovered,1,0.0
+3408,SH,discovered,1,0.0
+3409,SH-22,discovered,1,0.0
+3410,SHAM,discovered,1,0.0
+3411,SHD-HD,discovered,1,0.0
+3412,Short Form Acute Health Survey,discovered,1,0.0
+3413,Short Form Five Facet Mindfulness Questionnaire,discovered,1,0.0
+3414,Short Form General Health Survey,discovered,1,0.0
+3415,Short Form Inguinal Pain Questionnaire,discovered,1,0.0
+3416,Short Form Inguinal Pain Score,discovered,1,0.0
+3417,Short Form Pain Self-Efficacy Questionnaire,discovered,1,0.0
+3418,Short Form Phantom Limb Experience Survey,discovered,1,0.0
+3419,Short Form Score,discovered,1,0.0
+3420,Short Health Scale,discovered,1,0.0
+3421,Short-Form McGill Pain Scale,discovered,1,0.0
+3422,Shortened General Comfort Questionnaire,discovered,1,0.0
+3423,Shoulder Disability Questionnaire,discovered,1,0.0
+3424,Shoulder Score,discovered,1,0.0
+3425,SHPB,discovered,1,0.0
+3426,SHR8554,discovered,1,0.0
+3427,SIDE,discovered,1,0.0
+3428,Side Effect Profile,discovered,1,0.0
+3429,SIFIB,discovered,1,0.0
+3430,Signs Heart Rate Patient Satisfaction Score,discovered,1,0.0
+3431,Silness Gingival Index,discovered,1,0.0
+3432,Silness Index,discovered,1,0.0
+3433,Simple Mental State Examination Scale,discovered,1,0.0
+3434,Simple Numerical Scale,discovered,1,0.0
+3435,Simple Verbal Scale,discovered,1,0.0
+3436,Simulator Sickness Questionnaire Graphic Rating Scale,discovered,1,0.0
+3437,Single Step Questionnaire,discovered,1,0.0
+3438,Single-Dose Phase Pain Intensity Score,discovered,1,0.0
+3439,SIP,discovered,1,0.0
+3440,SIP136,discovered,1,0.0
+3441,SIRT1,discovered,1,0.0
+3442,SISB,discovered,1,0.0
+3443,SIT-STAND-,discovered,1,0.0
+3444,SKY0402,discovered,1,0.0
+3445,SL,discovered,1,0.0
+3446,Sleep Disturbance Average Score,discovered,1,0.0
+3447,Sleep Disturbance Scale,discovered,1,0.0
+3448,Sleep Problems Questionnaire,discovered,1,0.0
+3449,Sleep Quality Via App Survey,discovered,1,0.0
+3450,Sleep Quality Via Survey,discovered,1,0.0
+3451,Sleep Richard-Campbell Sleep Questionnaire,discovered,1,0.0
+3452,Sleep Scale Score,discovered,1,0.0
+3453,Sleep Sleep Quality Via App Survey,discovered,1,0.0
+3454,SMART-,discovered,1,0.0
+3455,SMFA,discovered,1,0.0
+3456,SMI,discovered,1,0.0
+3457,SNAKE,discovered,1,0.0
+3458,SNAKE Sleep Questionnaire,discovered,1,0.0
+3459,SNB,discovered,1,0.0
+3460,SNF,discovered,1,0.0
+3461,SNIP,discovered,1,0.0
+3462,SNOT,discovered,1,0.0
+3463,SNOT-20,discovered,1,0.0
+3464,SNOT-20 Surgical Outcome Score,discovered,1,0.0
+3465,SNS,discovered,1,0.0
+3466,SNUIPS,discovered,1,0.0
+3467,SOMA,discovered,1,0.0
+3468,Somatic Symptom Scale,discovered,1,0.0
+3469,Somatosensory Amplification Scale,discovered,1,0.0
+3470,SOMCT,discovered,1,0.0
+3471,SOMEWHAT,discovered,1,0.0
+3472,Sort Form Health Survey,discovered,1,0.0
+3473,SP,discovered,1,0.0
+3474,SP1X,discovered,1,0.0
+3475,SPADI Score,discovered,1,0.0
+3476,Spanish International Pain Outcomes Questionnaire,discovered,1,0.0
+3477,SPAR,discovered,1,0.0
+3478,SPBs,discovered,1,0.0
+3479,Specific Functional Questionnaire,discovered,1,0.0
+3480,Specific Functional Scale,discovered,1,0.0
+3481,SPI-24,discovered,1,0.0
+3482,SPI-72,discovered,1,0.0
+3483,SPI-96,discovered,1,0.0
+3484,SPI0-12,discovered,1,0.0
+3485,SPI0-48,discovered,1,0.0
+3486,SPI12-24,discovered,1,0.0
+3487,SPI24-48,discovered,1,0.0
+3488,SPID0-,discovered,1,0.0
+3489,SPID0-12h,discovered,1,0.0
+3490,SPID0-16,discovered,1,0.0
+3491,SPID0-18,discovered,1,0.0
+3492,SPID0-1h,discovered,1,0.0
+3493,SPID0-2,discovered,1,0.0
+3494,SPID0-3h,discovered,1,0.0
+3495,SPID0-48h,discovered,1,0.0
+3496,SPID0-4h,discovered,1,0.0
+3497,SPID0-6h,discovered,1,0.0
+3498,SPID0-8h,discovered,1,0.0
+3499,SPID1,discovered,1,0.0
+3500,SPID11,discovered,1,0.0
+3501,SPID12-24h,discovered,1,0.0
+3502,SPID16-24,discovered,1,0.0
+3503,SPID18,discovered,1,0.0
+3504,SPID1h-,discovered,1,0.0
+3505,SPID1h30-,discovered,1,0.0
+3506,SPID2,discovered,1,0.0
+3507,SPID24-48h,discovered,1,0.0
+3508,SPID2h-,discovered,1,0.0
+3509,SPID2h30-,discovered,1,0.0
+3510,SPIDr0-24,discovered,1,0.0
+3511,SPIDr0-48,discovered,1,0.0
+3512,Spielberg Anxiety State Inventory,discovered,1,0.0
+3513,Spielberger Anxiety State Inventory,discovered,1,0.0
+3514,Spielberger's State Anxiety Inventory,discovered,1,0.0
+3515,SPIi,discovered,1,0.0
+3516,SPINE-RISK,discovered,1,0.0
+3517,SPIRIX,discovered,1,0.0
+3518,SPIRO,discovered,1,0.0
+3519,SPO2 Post-operative Pain Score,discovered,1,0.0
+3520,SPR,discovered,1,0.0
+3521,SPRID0-2h,discovered,1,0.0
+3522,SPRID0-8h,discovered,1,0.0
+3523,SPRID4,discovered,1,0.0
+3524,SPRID72,discovered,1,0.0
+3525,SPSP,discovered,1,0.0
+3526,SPTS,discovered,1,0.0
+3527,SPV,discovered,1,0.0
+3528,SQI,discovered,1,0.0
+3529,SQI Scale,discovered,1,0.0
+3530,SR,discovered,1,0.0
+3531,SRP,discovered,1,0.0
+3532,SRS-22r,discovered,1,0.0
+3533,SSAS,discovered,1,0.0
+3534,SSB,discovered,1,0.0
+3535,SSEC,discovered,1,0.0
+3536,SSEP,discovered,1,0.0
+3537,SSEPs,discovered,1,0.0
+3538,SSI-,discovered,1,0.0
+3539,SSIs,discovered,1,0.0
+3540,SSRF,discovered,1,0.0
+3541,SSS-8,discovered,1,0.0
+3542,SSTM,discovered,1,0.0
+3543,SSTTM,discovered,1,0.0
+3544,ST-01,discovered,1,0.0
+3545,ST-2427,discovered,1,0.0
+3546,STA-I,discovered,1,0.0
+3547,STAIS-5,discovered,1,0.0
+3548,STANDARD,discovered,1,0.0
+3549,Standardized Pain Scale,discovered,1,0.0
+3550,STAT,discovered,1,0.0
+3551,STAT-3,discovered,1,0.0
+3552,STAT3,discovered,1,0.0
+3553,STATE,discovered,1,0.0
+3554,State Anxiety Scale Numerical Pain Scale,discovered,1,0.0
+3555,State Tait Anxiety Inventory,discovered,1,0.0
+3556,State- Trait Anxiety Scale,discovered,1,0.0
+3557,STATUS,discovered,1,0.0
+3558,STAY,discovered,1,0.0
+3559,Stay Bang Blinding Index,discovered,1,0.0
+3560,Stay Maximum Pain Score,discovered,1,0.0
+3561,Stay Post-operative Pain Score,discovered,1,0.0
+3562,Stay Postoperative Pain Score,discovered,1,0.0
+3563,STB,discovered,1,0.0
+3564,Stent-Related Pain Score,discovered,1,0.0
+3565,Steward Score,discovered,1,0.0
+3566,STL,discovered,1,0.0
+3567,STO22,discovered,1,0.0
+3568,STOA,discovered,1,0.0
+3569,STOP-BANG,discovered,1,0.0
+3570,Strength American Pain Society-Patient Outcome Questionnaire,discovered,1,0.0
+3571,STRESS,discovered,1,0.0
+3572,Stress Scale,discovered,1,0.0
+3573,Stress Scale Groningen Sleep Quality Scale,discovered,1,0.0
+3574,Stroke Volume Index,discovered,1,0.0
+3575,STSG,discovered,1,0.0
+3576,Study Medication Score,discovered,1,0.0
+3577,Subconjunctival Hemorrhage Score,discovered,1,0.0
+3578,Subject Reported Worst Pain Score,discovered,1,0.0
+3579,Subjective Health Complaints Inventory,discovered,1,0.0
+3580,Subjective Outcome Score,discovered,1,0.0
+3581,Subjective Pain Score,discovered,1,0.0
+3582,Subscale Score,discovered,1,0.0
+3583,Successful SPSIP Block Postoperative Pain Score,discovered,1,0.0
+3584,Suitability Evaluation Questionnaire,discovered,1,0.0
+3585,SUM,discovered,1,0.0
+3586,Sum Pain Intensity Score,discovered,1,0.0
+3587,SUN Scale,discovered,1,0.0
+3588,Surgeon Satisfaction Score,discovered,1,0.0
+3589,SURGERY,discovered,1,0.0
+3590,Surgical Anxiety Questionnaire,discovered,1,0.0
+3591,Surgical Anxiety Scale Surgical Anxiety Scale,discovered,1,0.0
+3592,Surgical Fear Questionnaire,discovered,1,0.0
+3593,Surgical Fear Scale Surgical Fear Scale,discovered,1,0.0
+3594,Surgical Pain Scores Shoulder Pain Score,discovered,1,0.0
+3595,Surgical Pleth Index,discovered,1,0.0
+3596,Surgical Recovery Score,discovered,1,0.0
+3597,Surgical Satisfaction Questionnaire,discovered,1,0.0
+3598,Surgical Satisfaction Survey,discovered,1,0.0
+3599,Surgical Site Infection Life Quality Score,discovered,1,0.0
+3600,SUV,discovered,1,0.0
+3601,SV,discovered,1,0.0
+3602,SVI,discovered,1,0.0
+3603,SVV,discovered,1,0.0
+3604,SWE,discovered,1,0.0
+3605,Swedish Postoperative Symptom Questionnaire,discovered,1,0.0
+3606,SWELING,discovered,1,0.0
+3607,Swelling Assessment Oral Health Impact Profile,discovered,1,0.0
+3608,SWME,discovered,1,0.0
+3609,Symptom Distress Questionnaire,discovered,1,0.0
+3610,Symptom Distress Scale,discovered,1,0.0
+3611,Symptom Distress Scale Questionnaire,discovered,1,0.0
+3612,Symptom Survey,discovered,1,0.0
+3613,Symptoms Pain Questionnaire,discovered,1,0.0
+3614,SYSTEM,discovered,1,0.0
+3615,System Usability Scale Simulator Sickness Questionnaire,discovered,1,0.0
+3616,System Usability Score,discovered,1,0.0
+3617,System Usability Score Satisfaction Score,discovered,1,0.0
+3618,Systemic Immune Inflammation Index,discovered,1,0.0
+3619,T-AI,discovered,1,0.0
+3620,T2-T6,discovered,1,0.0
+3621,T3-L1,discovered,1,0.0
+3622,T3-T4,discovered,1,0.0
+3623,T4-T5,discovered,1,0.0
+3624,TAI,discovered,1,0.0
+3625,TAM2,discovered,1,0.0
+3626,TAMPA,discovered,1,0.0
+3627,Tampa Kinesophobia Scale,discovered,1,0.0
+3628,tAN,discovered,1,0.0
+3629,TAP0,discovered,1,0.0
+3630,TAPB,discovered,1,0.0
+3631,Tapentadol-O-glucuronide Mean Pain Intensity Score,discovered,1,0.0
+3632,TAPS,discovered,1,0.0
+3633,TARC,discovered,1,0.0
+3634,TAS,discovered,1,0.0
+3635,TAU,discovered,1,0.0
+3636,TB,discovered,1,0.0
+3637,TBARS,discovered,1,0.0
+3638,TBW,discovered,1,0.0
+3639,TCA,discovered,1,0.0
+3640,TCBT,discovered,1,0.0
+3641,TCPR,discovered,1,0.0
+3642,TDC,discovered,1,0.0
+3643,TDT,discovered,1,0.0
+3644,TEA,discovered,1,0.0
+3645,TECHNQIUE,discovered,1,0.0
+3646,TEE,discovered,1,0.0
+3647,TEG,discovered,1,0.0
+3648,TEI-SF,discovered,1,0.0
+3649,Telemedicine Satisfaction Questionnaire,discovered,1,0.0
+3650,TENS-,discovered,1,0.0
+3651,TENS-PANTS,discovered,1,0.0
+3652,TES,discovered,1,0.0
+3653,TEST,discovered,1,0.0
+3654,Testing Pain Threshold Neuropathic Pain Questionnaire,discovered,1,0.0
+3655,TFA,discovered,1,0.0
+3656,TFAQ,discovered,1,0.0
+3657,TGF-,discovered,1,0.0
+3658,TGF-b,discovered,1,0.0
+3659,TH,discovered,1,0.0
+3660,THC,discovered,1,0.0
+3661,Therapy Survey,discovered,1,0.0
+3662,Thinking Davidson Trauma Scale,discovered,1,0.0
+3663,THIRD,discovered,1,0.0
+3664,THRESHOLD,discovered,1,0.0
+3665,THROUGH,discovered,1,0.0
+3666,TIA,discovered,1,0.0
+3667,TICS,discovered,1,0.0
+3668,Time-specific Mean Pain Intensity Score,discovered,1,0.0
+3669,Time-Weighted Average Pain Score,discovered,1,0.0
+3670,TIMP-1,discovered,1,0.0
+3671,TISSUE,discovered,1,0.0
+3672,TKRA,discovered,1,0.0
+3673,TKRs,discovered,1,0.0
+3674,TL,discovered,1,0.0
+3675,TLC,discovered,1,0.0
+3676,TLFB,discovered,1,0.0
+3677,TLH,discovered,1,0.0
+3678,TMA,discovered,1,0.0
+3679,TMC,discovered,1,0.0
+3680,TME,discovered,1,0.0
+3681,TMEs,discovered,1,0.0
+3682,TMJ,discovered,1,0.0
+3683,TMNB,discovered,1,0.0
+3684,TMPR,discovered,1,0.0
+3685,TMR,discovered,1,0.0
+3686,TMT,discovered,1,0.0
+3687,TNC,discovered,1,0.0
+3688,TNS,discovered,1,0.0
+3689,To Compare Post Operative Pain Score,discovered,1,0.0
+3690,TOE,discovered,1,0.0
+3691,TOOK,discovered,1,0.0
+3692,TOPAR8,discovered,1,0.0
+3693,TOR,discovered,1,0.0
+3694,TOTPAR0-,discovered,1,0.0
+3695,TOTPAR0-12,discovered,1,0.0
+3696,TOTPAR0-16,discovered,1,0.0
+3697,TOTPAR0-1h,discovered,1,0.0
+3698,TOTPAR0-24,discovered,1,0.0
+3699,TOTPAR0-2h,discovered,1,0.0
+3700,TOTPAR0-3h,discovered,1,0.0
+3701,TOTPAR0-4h,discovered,1,0.0
+3702,TOTPAR0-6,discovered,1,0.0
+3703,TOTPAR0-6h,discovered,1,0.0
+3704,TOTPAR0-8,discovered,1,0.0
+3705,TOTPAR0-8h,discovered,1,0.0
+3706,TOTPAR16-,discovered,1,0.0
+3707,TOTPAR1h-,discovered,1,0.0
+3708,TOTPAR1h30,discovered,1,0.0
+3709,TOTPAR2h-,discovered,1,0.0
+3710,TOTPAR2h30,discovered,1,0.0
+3711,TOTPAR72,discovered,1,0.0
+3712,TOTPAR8,discovered,1,0.0
+3713,TOTPARt,discovered,1,0.0
+3714,Toxicity Grading Scale,discovered,1,0.0
+3715,TP,discovered,1,0.0
+3716,TPN,discovered,1,0.0
+3717,TPQM,discovered,1,0.0
+3718,TPS,discovered,1,0.0
+3719,TR,discovered,1,0.0
+3720,TRA,discovered,1,0.0
+3721,TRAEs,discovered,1,0.0
+3722,Trait Anxiety Score,discovered,1,0.0
+3723,TRAMADEX-,discovered,1,0.0
+3724,Tramadol Consumption Remifentanil Consumption Pain Score,discovered,1,0.0
+3725,Transfused Units Pain Intensity Score,discovered,1,0.0
+3726,TRAP,discovered,1,0.0
+3727,TRAP-ELIDA,discovered,1,0.0
+3728,Treatment Helpfulness Questionnaire,discovered,1,0.0
+3729,Treatment Rating Scale,discovered,1,0.0
+3730,Treatment Satisfaction Questionnaire,discovered,1,0.0
+3731,TRIAL,discovered,1,0.0
+3732,TRISMUS,discovered,1,0.0
+3733,TRON,discovered,1,0.0
+3734,TS,discovered,1,0.0
+3735,TSA2,discovered,1,0.0
+3736,TSH,discovered,1,0.0
+3737,TSK Score,discovered,1,0.0
+3738,TSP,discovered,1,0.0
+3739,TSQ,discovered,1,0.0
+3740,TSQM-9 Score,discovered,1,0.0
+3741,TSR,discovered,1,0.0
+3742,TTB,discovered,1,0.0
+3743,TTE,discovered,1,0.0
+3744,TTFA,discovered,1,0.0
+3745,TTP,discovered,1,0.0
+3746,Tube Insertion Site Postoperative Pain Score,discovered,1,0.0
+3747,TUGOR,discovered,1,0.0
+3748,TUGT,discovered,1,0.0
+3749,TUNES,discovered,1,0.0
+3750,TV,discovered,1,0.0
+3751,TVOR,discovered,1,0.0
+3752,TX-1,discovered,1,0.0
+3753,TX-L1,discovered,1,0.0
+3754,TX-L2,discovered,1,0.0
+3755,TXA,discovered,1,0.0
+3756,TXA2,discovered,1,0.0
+3757,UCLA Activity Scale,discovered,1,0.0
+3758,UCLA Score,discovered,1,0.0
+3759,UCLA Shoulder Rating Scale,discovered,1,0.0
+3760,UCLA Shoulder Score,discovered,1,0.0
+3761,UCSD,discovered,1,0.0
+3762,UCVA,discovered,1,0.0
+3763,UFE,discovered,1,0.0
+3764,UGI,discovered,1,0.0
+3765,ULN,discovered,1,0.0
+3766,ULTRACET,discovered,1,0.0
+3767,Ultrasonographic Evaluations Modified Dental Anxiety Scale,discovered,1,0.0
+3768,UM,discovered,1,0.0
+3769,UM-QOL,discovered,1,0.0
+3770,UNIFESP-,discovered,1,0.0
+3771,UNIFESP-EPM Self-Esteem Scale,discovered,1,0.0
+3772,UNISEPT,discovered,1,0.0
+3773,UP,discovered,1,0.0
+3774,UPAT,discovered,1,0.0
+3775,UPLC-Q,discovered,1,0.0
+3776,UPMC,discovered,1,0.0
+3777,UPV,discovered,1,0.0
+3778,Ureteral Stent Related Symptom Questionnaire,discovered,1,0.0
+3779,Ureteral Stent Symptom Questionnaire,discovered,1,0.0
+3780,Ureteric Stent Symptoms Questionnaire,discovered,1,0.0
+3781,Urinary Retention Score,discovered,1,0.0
+3782,URS,discovered,1,0.0
+3783,Usage Pain Level Hip Outcome Score,discovered,1,0.0
+3784,USB,discovered,1,0.0
+3785,USD,discovered,1,0.0
+3786,USE,discovered,1,0.0
+3787,Use Postoperative Visual Analog Pain Scale,discovered,1,0.0
+3788,Use Survey,discovered,1,0.0
+3789,Using Childhood Oral Health Impact Scale,discovered,1,0.0
+3790,Using Numerical Pain Scale,discovered,1,0.0
+3791,Using Numerical Rating Score,discovered,1,0.0
+3792,Using Verbal Analogue Scale,discovered,1,0.0
+3793,USSQ Pain Survey,discovered,1,0.0
+3794,Uterine Cramping Postoperative Pain Score,discovered,1,0.0
+3795,UV,discovered,1,0.0
+3796,UW-QOL,discovered,1,0.0
+3797,UW-QOL-4,discovered,1,0.0
+3798,Vaginal Pain Score,discovered,1,0.0
+3799,Validated Abdominal Surgery Impact Scale,discovered,1,0.0
+3800,Validated Questionnaire,discovered,1,0.0
+3801,Validated Surgical Recovery Scale,discovered,1,0.0
+3802,Value Added Score,discovered,1,0.0
+3803,VAPS,discovered,1,0.0
+3804,VAS10,discovered,1,0.0
+3805,VASa,discovered,1,0.0
+3806,VASPI,discovered,1,0.0
+3807,VCAM-1,discovered,1,0.0
+3808,VCPD,discovered,1,0.0
+3809,VCSS,discovered,1,0.0
+3810,VE,discovered,1,0.0
+3811,VECTRA,discovered,1,0.0
+3812,VEGF-C,discovered,1,0.0
+3813,VEGF-D,discovered,1,0.0
+3814,VEGFR-1,discovered,1,0.0
+3815,Venous Clinical Severity Score,discovered,1,0.0
+3816,Ventilation Parameters Intraoperative Bispectral Index,discovered,1,0.0
+3817,Ventral Hernia Pain Questionnaire,discovered,1,0.0
+3818,Verbal Analog Scale,discovered,1,0.0
+3819,VERSA,discovered,1,0.0
+3820,Veterans Pain Rating Score,discovered,1,0.0
+3821,Veterans RAND12 Questionnaire,discovered,1,0.0
+3822,VFH,discovered,1,0.0
+3823,VHA,discovered,1,0.0
+3824,VHI-10,discovered,1,0.0
+3825,VHPQ Questionnaire,discovered,1,0.0
+3826,VIB,discovered,1,0.0
+3827,VIE,discovered,1,0.0
+3828,Virtual Embodiment Questionnaire,discovered,1,0.0
+3829,Virtual Reality Environment Use Questionnaire,discovered,1,0.0
+3830,Viscual Analogue Scale,discovered,1,0.0
+3831,Visit Mean TSQM-9 Score,discovered,1,0.0
+3832,VISITRAK,discovered,1,0.0
+3833,Visual Aanalog Scale,discovered,1,0.0
+3834,Visual Analog Patient Satisfaction Scale,discovered,1,0.0
+3835,Visual Analog Rating Scale,discovered,1,0.0
+3836,Visual Analog Sleep Scale,discovered,1,0.0
+3837,Visual Analog Survey Scale,discovered,1,0.0
+3838,Visual Analoge Scale,discovered,1,0.0
+3839,Visual Analogic Pain Score,discovered,1,0.0
+3840,Visual Analogic Scale Visual Analogic Scale,discovered,1,0.0
+3841,Visual Analogue Pain Scale Pain Score,discovered,1,0.0
+3842,Visual Analoug Score,discovered,1,0.0
+3843,Visual Anolog Scale,discovered,1,0.0
+3844,Visual Anxiety Scale,discovered,1,0.0
+3845,Visual Assesment Scale,discovered,1,0.0
+3846,Visual Comparison Sleep Scale,discovered,1,0.0
+3847,Visual Motor Imagery Questionnaire,discovered,1,0.0
+3848,Visual Similarity Scale,discovered,1,0.0
+3849,Visual Sleep Scale,discovered,1,0.0
+3850,Visual-analog Scale,discovered,1,0.0
+3851,Visuel Analogue Scale,discovered,1,0.0
+3852,VLF,discovered,1,0.0
+3853,VLT,discovered,1,0.0
+3854,VLT-D,discovered,1,0.0
+3855,VMIQ-2,discovered,1,0.0
+3856,vNOTES,discovered,1,0.0
+3857,VO2,discovered,1,0.0
+3858,Voice Handicap Index,discovered,1,0.0
+3859,VOMITING,discovered,1,0.0
+3860,Vomiting Categorical Score,discovered,1,0.0
+3861,Vomiting Ramsay Sedation Scale,discovered,1,0.0
+3862,Vomiting Ramsay Sedation Score,discovered,1,0.0
+3863,Vomiting Scale Apfel Risk Score,discovered,1,0.0
+3864,Vomiting Scale Pruritus Score Sedation Score,discovered,1,0.0
+3865,Vomiting Severity Score,discovered,1,0.0
+3866,VPNS,discovered,1,0.0
+3867,VR Questionnaire,discovered,1,0.0
+3868,VR-36,discovered,1,0.0
+3869,VR-Related Adverse Effects Simulator Sickness Questionnaire,discovered,1,0.0
+3870,VRH,discovered,1,0.0
+3871,VRI,discovered,1,0.0
+3872,VRS4,discovered,1,0.0
+3873,VRWG,discovered,1,0.0
+3874,VSA,discovered,1,0.0
+3875,VSS Score,discovered,1,0.0
+3876,VVAS,discovered,1,0.0
+3877,VVZ-149,discovered,1,0.0
+3878,W6LOCF,discovered,1,0.0
+3879,WAIS-III,discovered,1,0.0
+3880,WAIS-IV,discovered,1,0.0
+3881,WALK,discovered,1,0.0
+3882,WALK3m,discovered,1,0.0
+3883,Walking Pain Assessment Scale,discovered,1,0.0
+3884,Ward Patient Satisfaction Score,discovered,1,0.0
+3885,Watcha Behavior Scale,discovered,1,0.0
+3886,WATCHA Scale,discovered,1,0.0
+3887,WATCHA Score,discovered,1,0.0
+3888,WB,discovered,1,0.0
+3889,WBCs,discovered,1,0.0
+3890,WBF,discovered,1,0.0
+3891,Week Post-Hospital Discharge Post-Operative Pain Score,discovered,1,0.0
+3892,Week Postoperative Visit Pain Level Score,discovered,1,0.0
+3893,Weekly Mean Daily Pain Rating Score,discovered,1,0.0
+3894,Weekly Mean Pain Score,discovered,1,0.0
+3895,Weekly Mean Sleep Interference Score,discovered,1,0.0
+3896,Weeks Post Study System Usability Questionnaire,discovered,1,0.0
+3897,Weight Index,discovered,1,0.0
+3898,Weighted Phase Lag Index,discovered,1,0.0
+3899,WELLBEING,discovered,1,0.0
+3900,West Haven-Yale Multidimensional Pain Inventory,discovered,1,0.0
+3901,Western Ontario McMaster Universities Osteoarthritis Index,discovered,1,0.0
+3902,Wexner Score,discovered,1,0.0
+3903,WFPRS,discovered,1,0.0
+3904,WGRS,discovered,1,0.0
+3905,wGT3X-BT,discovered,1,0.0
+3906,WHF,discovered,1,0.0
+3907,WHI,discovered,1,0.0
+3908,Who Vomited Mean Score,discovered,1,0.0
+3909,WHODAS2,discovered,1,0.0
+3910,WHYMPI,discovered,1,0.0
+3911,Wisconsin Card Sort Task Tampa Scale,discovered,1,0.0
+3912,With Post-operative Adverse Events Apgar Score,discovered,1,0.0
+3913,WITHOUT,discovered,1,0.0
+3914,WM,discovered,1,0.0
+3915,WMS-III,discovered,1,0.0
+3916,WOCF,discovered,1,0.0
+3917,Wong Pain Scale,discovered,1,0.0
+3918,Wong- Baker FACES Pain Rating Scale,discovered,1,0.0
+3919,Word-Graphic Rating Scale,discovered,1,0.0
+3920,Work Ability Index,discovered,1,0.0
+3921,World Health Organization Disability Assessment Score,discovered,1,0.0
+3922,WORSE,discovered,1,0.0
+3923,Wound Edema Score,discovered,1,0.0
+3924,WP,discovered,1,0.0
+3925,WP2,discovered,1,0.0
+3926,WP3,discovered,1,0.0
+3927,WPAI,discovered,1,0.0
+3928,WPAI-GH,discovered,1,0.0
+3929,WPD,discovered,1,0.0
+3930,wPLI,discovered,1,0.0
+3931,WT,discovered,1,0.0
+3932,WW,discovered,1,0.0
+3933,wWOCF,discovered,1,0.0
+3934,XR,discovered,1,0.0
+3935,XT,discovered,1,0.0
+3936,YAG,discovered,1,0.0
+3937,YEARS,discovered,1,0.0
+3938,Years Pharmacokinetic Profile,discovered,1,0.0
+3939,YPAS Score,discovered,1,0.0
+3940,YSSF,discovered,1,0.0
+3941,ZALVISO,discovered,1,0.0
+3942,ZnO,discovered,1,0.0
+3943,Zung Self-Rating Anxiety Scale,discovered,1,0.0
+3944,Zung Self-Rating Depression Scale,discovered,1,0.0
+3945,ZX,discovered,1,0.0

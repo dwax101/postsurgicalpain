@@ -1,0 +1,11 @@
+Retrieval mode: bins   interventional_only: True
+Loaded 0 search string(s) and 948 bin-2 NCT ID(s) from config/search.txt
+
+[Bin-2 by NCT ID] 948 trials in 4 batches
+    id-batch 1/4: requested 300, returned 300
+    id-batch 2/4: requested 300, returned 300
+    id-batch 3/4: requested 300, returned 300
+    id-batch 4/4: requested 48, returned 48
+  unique 948 from NCT-ID pull | within-list dupes 0
+
+[Combined] cross-search dupes removed 0 | final unique 948 | rows written 948
